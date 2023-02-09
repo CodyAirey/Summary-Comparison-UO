@@ -1,0 +1,96 @@
+ Book 1|Chapter 1|Fyodor Pavlovitch Karamazov|1.txt
+ Book 1|Chapter 2|He Gets Rid Of His Eldest Son|2.txt
+ Book 1|Chapter 3|The Second Marriage And The Second Family|3.txt
+ Book 1|Chapter 4|The Third Son, Alyosha|4.txt
+ Book 1|Chapter 5|Elders|5.txt
+ Book 2|Chapter 1|They Arrive At The Monastery|6.txt
+ Book 2|Chapter 2|The Old Buffoon|7.txt
+ Book 2|Chapter 3|Peasant Women Who Have Faith|8.txt
+ Book 2|Chapter 4|A Lady Of Little Faith|9.txt
+ Book 2|Chapter 5|So Be It! So Be It!|10.txt
+ Book 2|Chapter 6|Why Is Such A Man Alive?|11.txt
+ Book 2|Chapter 7|A Young Man Bent On A Career|12.txt
+ Book 2|Chapter 8|The Scandalous Scene|13.txt
+ Book 3|Chapter 1|In The Servants' Quarters|14.txt
+ Book 3|Chapter 2|Lizaveta|15.txt
+ Book 3|Chapter 3|The Confession Of A Passionate Heart--In Verse|16.txt
+ Book 3|Chapter 4|The Confession Of A Passionate Heart--In Anecdote|17.txt
+ Book 3|Chapter 5|The Confession Of A Passionate Heart--"Heels Up"|18.txt
+ Book 3|Chapter 6|Smerdyakov|19.txt
+ Book 3|Chapter 7|The Controversy|20.txt
+ Book 3|Chapter 8|Over The Brandy|21.txt
+ Book 3|Chapter 9|The Sensualists|22.txt
+ Book 3|Chapter 10|Both Together|23.txt
+ Book 3|Chapter 11|Another Reputation Ruined|24.txt
+ Book 4|Chapter 1|Father Ferapont|25.txt
+ Book 4|Chapter 2|At His Father's|26.txt
+ Book 4|Chapter 3|A Meeting With The Schoolboys|27.txt
+ Book 4|Chapter 4|At The Hohlakovs'|28.txt
+ Book 4|Chapter 5|A Laceration In The Drawing-Room|29.txt
+ Book 4|Chapter 6|A Laceration In The Cottage|30.txt
+ Book 4|Chapter 7|And In The Open Air|31.txt
+ Book 5|Chapter 1|The Engagement|32.txt
+ Book 5|Chapter 2|Smerdyakov With A Guitar|33.txt
+ Book 5|Chapter 3|The Brothers Make Friends|34.txt
+ Book 5|Chapter 4|Rebellion|35.txt
+ Book 5|Chapter 5|The Grand Inquisitor|36.txt
+ Book 5|Chapter 6|For Awhile A Very Obscure One|37.txt
+ Book 5|Chapter 7|"It's Always Worth While Speaking To A Clever Man"|38.txt
+ Book 6|Chapter 1|Father Zossima And His Visitors|39.txt
+ Book 6|Chapter 2|The Duel|40.txt
+ Book 6|Chapter 3|Conversations And Exhortations Of Father Zossima|41.txt
+ Book 7|Chapter 1|The Breath Of Corruption|42.txt
+ Book 7|Chapter 2|A Critical Moment|43.txt
+ Book 7|Chapter 3|An Onion|44.txt
+ Book 7|Chapter 4|Cana Of Galilee|45.txt
+ Book 8|Chapter 1|Kuzma Samsonov|46.txt
+ Book 8|Chapter 2|Lyagavy|47.txt
+ Book 8|Chapter 3|Gold-Mines|48.txt
+ Book 8|Chapter 4|In The Dark|49.txt
+ Book 8|Chapter 5|A Sudden Resolution|50.txt
+ Book 8|Chapter 6|"I Am Coming, Too!"|51.txt
+ Book 8|Chapter 7|The First And Rightful Lover|52.txt
+ Book 8|Chapter 8|Delirium|53.txt
+ Book 9|Chapter 1|The Beginning Of Perhotin's Official Career|54.txt
+ Book 9|Chapter 2|The Alarm|55.txt
+ Book 9|Chapter 3|The Sufferings Of A Soul, The First Ordeal|56.txt
+ Book 9|Chapter 4|The Second Ordeal|57.txt
+ Book 9|Chapter 5|The Third Ordeal|58.txt
+ Book 9|Chapter 6|The Prosecutor Catches Mitya|59.txt
+ Book 9|Chapter 7|Mitya's Great Secret. Received With Hisses|60.txt
+ Book 9|Chapter 8|The Evidence Of The Witnesses. The Babe|61.txt
+ Book 9|Chapter 9|They Carry Mitya Away|62.txt
+ Book 10|Chapter 1|Kolya Krassotkin|63.txt
+ Book 10|Chapter 2|Children|64.txt
+ Book 10|Chapter 3|The Schoolboy|65.txt
+ Book 10|Chapter 4|The Lost Dog|66.txt
+ Book 10|Chapter 5|By Ilusha's Bedside|67.txt
+ Book 10|Chapter 6|Precocity|68.txt
+ Book 10|Chapter 7|Ilusha|69.txt
+ Book 11|Chapter 1|At Grushenka's|70.txt
+ Book 11|Chapter 2|The Injured Foot|71.txt
+ Book 11|Chapter 3|A Little Demon|72.txt
+ Book 11|Chapter 4|A Hymn And A Secret|73.txt
+ Book 11|Chapter 5|Not You, Not You!|74.txt
+ Book 11|Chapter 6|The First Interview With Smerdyakov|75.txt
+ Book 11|Chapter 7|The Second Visit To Smerdyakov|76.txt
+ Book 11|Chapter 8|The Third And Last Interview With Smerdyakov|77.txt
+ Book 11|Chapter 9|The Devil. Ivan's Nightmare|78.txt
+ Book 11|Chapter 10|"It Was He Who Said That"|79.txt
+ Book 12|Chapter 1|The Fatal Day|80.txt
+ Book 12|Chapter 2|Dangerous Witnesses|81.txt
+ Book 12|Chapter 3|The Medical Experts And A Pound Of Nuts|82.txt
+ Book 12|Chapter 4|Fortune Smiles On Mitya|83.txt
+ Book 12|Chapter 5|A Sudden Catastrophe|84.txt
+ Book 12|Chapter 6|The Prosecutor's Speech. Sketches Of Character|85.txt
+ Book 12|Chapter 7|An Historical Survey|86.txt
+ Book 12|Chapter 8|A Treatise On Smerdyakov|87.txt
+ Book 12|Chapter 9|The Galloping Troika. The End Of The Prosecutor's Speech.|88.txt
+ Book 12|Chapter 10|The Speech For The Defense. An Argument That Cuts Both Ways|89.txt
+ Book 12|Chapter 11|There Was No Money. There Was No Robbery|90.txt
+ Book 12|Chapter 12|And There Was No Murder Either|91.txt
+ Book 12|Chapter 13|A Corrupter Of Thought|92.txt
+ Book 12|Chapter 14|The Peasants Stand Firm|93.txt
+EPILOGUE|Chapter 1|Plans For Mitya's Escape|94.txt
+EPILOGUE|Chapter 2|For A Moment The Lie Becomes Truth|95.txt
+EPILOGUE|Chapter 3|Ilusha's Funeral. The Speech At The Stone|96.txt

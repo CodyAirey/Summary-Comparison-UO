@@ -1,0 +1,56 @@
+Book 1|Chapter 1|The Workshop|01.txt
+Book 1|Chapter 2|The Preaching|02.txt
+Book 1|Chapter 3|After the Preaching|03.txt
+Book 1|Chapter 4|Home and Its Sorrows|04.txt
+Book 1|Chapter 5|The Rector|05.txt
+Book 1|Chapter 6|The Hall Farm|06.txt
+Book 1|Chapter 7|The Dairy|07.txt
+Book 1|Chapter 8|A Vocation|08.txt
+Book 1|Chapter 9|Hetty's World|09.txt
+Book 1|Chapter 10|Dinah Visits Lisbeth|10.txt
+Book 1|Chapter 11|In the Cottage|11.txt
+Book 1|Chapter 12|In the Wood|12.txt
+Book 1|Chapter 13|Evening in the Wood|13.txt
+Book 1|Chapter 14|The Return Home|14.txt
+Book 1|Chapter 15|The Two Bed-Chambers|15.txt
+Book 1|Chapter 16|Links|16.txt
+Book 2|Chapter 17|In Which the Story Pauses a Little|17.txt
+Book 2|Chapter 18|Church|18.txt
+Book 2|Chapter 19|Adam on a Working Day|19.txt
+Book 2|Chapter 20|Adam Visits the Hall Farm|20.txt
+Book 2|Chapter 21|The Night-School and the Schoolmaster|21.txt
+Book 3|Chapter 22|Going to the Birthday Feast|22.txt
+Book 3|Chapter 23|Dinner-Time|23.txt
+Book 3|Chapter 24|The Health-Drinking|24.txt
+Book 3|Chapter 25|The Games|25.txt
+Book 3|Chapter 26|The Dance|26.txt
+Book 4|Chapter 27|A crisis|27.txt
+Book 4|Chapter 28|A Dilemma|28.txt
+Book 4|Chapter 29|The Next Morning|29.txt
+Book 4|Chapter 30|The Delivery of the Letter|30.txt
+Book 4|Chapter 31|In Hetty's Bed-Chamber|31.txt
+Book 4|Chapter 32|Mrs. Poyser "Has Her Say Out"|32.txt
+Book 4|Chapter 33|More Links|33.txt
+Book 4|Chapter 34|The Betrothal|34.txt
+Book 4|Chapter 35|The Hidden Dread|35.txt
+Book 5|Chapter 36|The Journey of Hope|36.txt
+Book 5|Chapter 37|The Journey in Despair|37.txt
+Book 5|Chapter 38|The Quest|38.txt
+Book 5|Chapter 39|The Tidings|39.txt
+Book 5|Chapter 40|The Bitter Waters Spread|40.txt
+Book 5|Chapter 41|The Eve of the Trial|41.txt
+Book 5|Chapter 42|The Morning of the Trial|42.txt
+Book 5|Chapter 43|The Verdict|43.txt
+Book 5|Chapter 44|Arthur's Return|44.txt
+Book 5|Chapter 45|In the Prison|45.txt
+Book 5|Chapter 46|The Hours of Suspense|46.txt
+Book 5|Chapter 47|The Last Moment|47.txt
+Book 5|Chapter 48|Another Meeting in the Wood|48.txt
+Book 6|Chapter 49|At the Hall Farm|49.txt
+Book 6|Chapter 50|In the Cottage|50.txt
+Book 6|Chapter 51|Sunday Morning|51.txt
+Book 6|Chapter 52|Adam and Dinah|52.txt
+Book 6|Chapter 53|The Harvest Supper|53.txt
+Book 6|Chapter 54|The Meeting on the Hill|54.txt
+Book 6|Chapter 55|Marriage Bells|55.txt
+Epilogue|Chapter 56|Epilogue|56.txt

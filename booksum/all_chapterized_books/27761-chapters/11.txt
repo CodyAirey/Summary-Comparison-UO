@@ -1,0 +1,738 @@
+ACT IV. SCENE I.
+
+--A ROOM IN THE CASTLE.
+
+
+    _Enter_ KING _and_ QUEEN, _from_ (R.H.) _centre._
+
+  _King._ There's matter in these sighs, these profound heaves:
+  You must translate:[1] 'tis fit we understand them.
+  How does Hamlet?
+
+  _Queen._ Mad as the sea and wind, when both contend
+  Which is the mightier: In his lawless fit,
+  Behind the arras hearing something stir,
+  Whips out his rapier, cries _A rat, a rat!_
+  And, in this brainish apprehension,[2] kills
+  The unseen good old man.
+
+  _King._                 O heavy deed!
+  It had been so with us, had we been there:
+  Where is he gone?
+
+  _Queen._ To draw apart the body he hath kill'd.
+
+  _King._ The sun no sooner shall the mountains touch,
+  But we will ship him hence: and this vile deed
+  We must, with all our majesty and skill,
+  Both countenance and excuse.--Ho, Guildenstern!
+
+    _Enter_ ROSENCRANTZ _and_ GUILDENSTERN (L.H.)
+
+  Friends both, go join you with some further aid:
+  Hamlet in madness hath Polonius slain,
+  And from his mother's closet hath he dragg'd him:
+  Go seek him out; speak fair, and bring the body
+  Into the chapel.
+
+    [ROSENCRANTZ _and_ GUILDENSTERN _cross to_ R.]
+
+  I pray you, haste in this.
+
+    [_Exeunt_ ROSENCRANTZ _and_ GUILDENSTERN, R.H.]
+
+  Go, Gertrude, we'll call up our wisest friends;
+  And let them know, both what we mean to do,
+  And what's untimely done.
+
+    [_Exit_ QUEEN, R.C.]
+
+  How dangerous is it that this man goes loose!
+  Yet must not we put the strong law on him:
+  He's lov'd of the distracted multitude,
+  Who like not in their judgment, but their eyes;
+  And where 'tis so, the offender's scourge is weigh'd,
+  But never the offence.[3]
+
+    _Enter_ ROSENCRANTZ (R.)
+
+  How now! what hath befallen?
+
+  _Ros._ Where the dead body is bestowed, my lord,
+  We cannot get from him.
+
+  _King._                But where is he?
+
+  _Ros._ Without, my lord; guarded, to know your pleasure.
+
+  _King._ Bring him before us.
+
+  _Ros._ Ho, Guildenstern! bring in my lord.
+
+    _Enter_ HAMLET, GUILDENSTERN, _and_ Attendants (R.H.)
+
+  _King._ (C.) Now, Hamlet, where's Polonius?
+
+  _Ham._ (R.) At supper.
+
+  _King._ At supper? Where?
+
+  _Ham._ Not where he eats, but where he is eaten: a
+  certain convocation of politick worms[4] are e'en at him.
+
+  _King._ Where's Polonius?
+
+  _Ham._ In Heaven; send thither to see: if your messenger
+  find him not there, seek him i'the other place
+  yourself. But, indeed, if you find him not within this
+  month, you shall nose him as you go up the stairs into
+  the lobby.
+
+  _King._ Go seek him there.
+
+    [_To_ GUILDENSTERN.]
+
+  _Ham._ He will stay till you come.
+
+    [_Exit_ GUILDENSTERN, R.H.]
+
+  _King._ Hamlet, this deed, for thine especial safety,
+  Must send thee hence:
+  Therefore prepare thyself;
+  The bark is ready, and the wind at help,[5]
+  For England.
+
+  _Ham._      For England!
+
+  _King._                 Ay, Hamlet.
+
+  _Ham._                             Good.
+
+  _King._ So is it, if thou knew'st our purposes.
+
+  _Ham._ I see a cherub that sees them. But, come; for
+  England!--Farewell, dear mother.
+
+  _King._ Thy loving father, Hamlet.
+
+_Ham._ My mother: Father and mother is man and wife; man and wife is
+one flesh; and so, my mother. Come, for England.
+
+    [_Exit_, R.H.]
+
+  _King._ Follow him at foot; tempt him with speed aboard;
+  Away! for everything is seal'd and done.
+
+    [_Exeunt_ ROSENCRANTZ _and_ Attendants, R.H.]
+
+  And, England, if my love thou hold'st at aught,
+  Thou may'st not coldly set[6]
+  Our sovereign process;[7] which imports at full,
+  By letters conjuring to that effect,[8]
+  The present death of Hamlet. Do it, England;
+  For thou must cure me: 'Till I know 'tis done,
+  Howe'er my haps,[9] my joys will ne'er begin.
+
+    [_Exit_ KING, L.H.]
+
+    _Enter_ QUEEN _and_ HORATIO (R. _centre._)
+
+  _Queen._ ----I will not speak with her.
+
+  _Hor._ She is importunate; indeed, distract:
+  'Twere good she were spoken with; for she may strew
+  Dangerous conjectures in ill-breeding minds.
+
+  _Queen._ Let her come in.
+
+    [_Exit_ HORATIO, R.C.]
+
+    _Re-enter_ HORATIO, _with_ OPHELIA (R. _centre._)
+
+  _Oph._ Where is the beauteous majesty of Denmark?
+
+  _Queen._ How now, Ophelia!
+
+  _Oph._ (C.)
+
+    [_Singing._]
+
+    _How should I your true love know_
+      _From another one?_
+    _By his cockle hat and staff_,
+      _And his sandal shoon._[10]
+
+  _Queen._ (L.C.) Alas, sweet lady, what imports this song?
+
+  _Oph._ Say you? nay, pray you, mark.
+
+    [_Sings._]
+
+    _He is dead and gone, lady_,
+      _He is dead and gone_;
+    _At his head a grass-green turf_,
+      _At his heels a stone._
+
+  _Enter the_ KING (L.H.)
+
+  _Queen._ Nay, but, Ophelia,----
+
+  _Oph._                         Pray you, mark.
+
+    [_Sings._]
+
+    _White his shroud as the mountain-snow_,
+      _Larded all with sweet flowers_;[11]
+    _Which bewept to the grave did go_
+      _With true-love showers._
+
+  _King._ How do you, pretty lady?
+
+  _Oph._ Well, Heaven 'ield you![12]
+
+    (_Crosses to the_ KING.)
+
+  They say the owl was a baker's daughter.[13] We know
+  what we are, but know not what we may be.
+
+  _King._ Conceit upon her father.[14]
+
+  _Oph._ Pray, you, let us have no words of this; but when
+  they ask you what it means, say you this:
+
+    _To-morrow is Saint Valentine's day_,
+      _All in the morning betime_,
+    _And I, a maid at your window_,
+      _To be your Valentine:_
+
+  _King._ Pretty Ophelia!
+
+  _Oph._ Indeed, without an oath, I'll make an end on't:
+
+    _Then up he rose, and don'd his clothes_,
+      _And dupp'd[15] the chamber door_;
+    _Let in the maid, that out a maid_
+      _Never departed more._
+
+    [_Crosses to_ R.H.]
+
+  _King._ (L.) How long hath she been thus?
+
+_Oph._ (R.) I hope all will be well. We must be patient: but I cannot
+choose but weep, to think they should lay him i'the cold ground. My
+brother shall know of it; and so I thank you for your good counsel.
+Come, my coach! Good night, ladies; good night, sweet ladies; good
+night, good night.
+
+    [_Exit_, R.C.]
+
+  _King._ Follow her close; give her good watch, I pray you.
+
+    [_Exit_ HORATIO, _through centre_ R.]
+
+  O! this is the poison of deep grief; it springs
+  All from her father's death.
+  O, Gertrude, Gertrude,
+  When sorrows come, they come not single spies,
+  But in battalions!
+
+    _Enter_ MARCELLUS (R. _centre._)
+
+  _King._ What is the matter?
+
+  _Mar._                     Save yourself, my lord:
+  The young Laertes, in a riotous head,[16]
+  O'erbears your officers. The rabble call him lord;
+  They cry, _Choose we: Laertes shall be king!_
+  Caps, hands, and tongues, applaud it to the clouds,
+  _Laertes shall be king, Laertes king!_
+
+    [_Noise within_, R.C.]
+
+    _Enter_ LAERTES, _armed_; Danes _following_ (R. _centre._)
+
+  _Laer._ Where is this king?--Sirs, stand you all without.
+
+  _Dan._ No, let's come in.
+
+  _Laer._                  I pray you, give me leave.
+
+  _Dan._ We will, we will.
+
+    [_They retire without_, R.H.]
+
+  _Laer._ O, thou vile king,
+  Give me my father.
+
+  _Queen_
+
+    (_Interposing._)
+
+  Calmly, good Laertes.
+
+  _Laer._ (R.) That drop of blood that's calm proclaims me bastard;
+  Cries cuckold to my father; brands the harlot
+  Even here, between the chaste unsmirched brow
+  Of my true mother.[17]
+
+  _King._ (L.) What is the cause, Laertes,
+  That thy rebellion looks so giant-like?
+  Let him go, Gertrude; do not fear our person:
+  There's such divinity doth hedge a king,[18]
+  That treason can but peep to what it would,
+  Acts little of his will.
+  Let him go, Gertrude.
+
+    [QUEEN _obeys._]
+
+  _Laer._ Where is my father?
+
+  _King._                    Dead.
+
+  _Queen._                       But not by him.
+
+  _King._ Let him demand his fill.
+
+  _Laer._ How came he dead? I'll not be juggled with:
+  To hell, allegiance! To this point I stand,
+  That both the worlds I give to negligence,[19]
+  Let come what comes; only I'll be reveng'd
+  Most throughly for my father.
+
+  _King._                      Who shall stay you!
+
+  _Laer._ My will, not all the world's:[20]
+  And, for my means, I'll husband them so well,
+  They shall go far with little.
+
+  _King._                       Good Laertes,
+  That I am guiltless of your father's death,
+  And am most sensible in grief[21] for it,
+  It shall as level to your judgment 'pear
+  As day does to your eye.
+
+  _Hor._
+
+    (_Without._)
+
+  Oh, poor Ophelia!
+
+  _King._ Let her come in.
+
+    _Enter_ OPHELIA (R.C.), _fantastically dressed with Straws
+    and Flowers._
+
+  _Laer._
+
+    (_Goes up_ L.C.)
+
+                         O rose of May!
+  Dear maid, kind sister, sweet Ophelia!
+  O heavens! is't possible, a young maid's wits
+  Should be as mortal as an old man's life?
+
+  _Oph._ (R.C.)
+
+    _They bore him barefac'd on the bier_;
+      _And on his grave rain many a tear,--_
+
+  Fare you well, my dove!
+
+  _Laer._
+
+    (_Coming down_ R.)
+
+  Hadst thou thy wits, and didst persuade revenge,
+  It could not move thus.
+
+_Oph._ You must sing, _Down-a-down,[22] an you call him a-down-a._ O,
+how well the wheel becomes it![23] It is the false steward, that
+stole his master's daughter.
+
+_Laer._ This nothing's more than matter.
+
+_Oph._ There's rosemary, that's for remembrance;[24] pray you, love,
+remember: and there is pansies,[25] that's for thoughts.
+
+_Laer._ A document in madness; thoughts and remembrance fitted.
+
+_Oph._ There's fennel for you,
+
+  (_crosses to the_ KING _on_ L.H.)
+
+and columbines:[26] there's rue for you;
+
+  (_turns to the_ QUEEN, _who is_ R.C.)
+
+and here's some for me:--we may call it herb of grace
+o'Sundays:[27]--you may wear your rue with a difference.[28]--There's
+a daisy:[29]--I would give you some violets,[30] but they withered
+all when my father died:--They say he made a good end,----
+
+  _For bonny sweet Robin is all my joy--_[31]
+
+  _Laer._ (R.) Thought and affliction,[32] passion, hell itself,
+  She turns to favour and to prettiness.
+
+  _Oph._
+
+      _And will he not come again?_
+      _And will he not come again?_
+        _No, no, he is dead_,
+        _Gone to his death-bed_,
+      _He never will come again._
+
+      _His beard was white as snow_,
+      _All flaxen was his poll:_
+        _He is gone, he is gone_,
+        _And we cast away moan:_
+      _Heaven 'a mercy on his soul!_
+
+  And of all christian souls, I pray Heaven. Heaven be wi' you.
+
+    [_Exit_ OPHELIA, R.C., QUEEN _following._]
+
+  _Laer._ Do you see this, O Heaven?
+
+  _King._ (L.C.) Laertes, I must commune with your grief,[33]
+  Or you deny me right.
+  Be you content to lend your patience to us,
+  And we shall jointly labour with your soul
+  To give it due content.
+
+  _Laer._ (R.C.)           Let this be so;
+  His means of death, his obscure funeral,--
+  No trophy, sword, nor hatchment o'er his bones,[34]
+  No noble rite nor formal ostentation,--
+  Cry to be heard,[35] as 'twere from heaven to earth,
+  That I must call't in question.
+
+  _King._                     So you shall;
+  And where the offence is let the great axe fall.[36]
+  How now! what news?
+
+    _Enter_ BERNARDO (R.H.C.)
+
+  _Ber._ (C.)         Letters, my lord, from Hamlet:
+  This to your majesty; this to the Queen.
+
+  _King._ From Hamlet! who brought them?
+
+  _Ber._ Sailors, my lord, they say; I saw them not.
+
+  _King._         Laertes, you shall hear them.--
+  Leave us.
+
+    [_Exit_, L.H.C.]
+    [Reads.]
+
+_High and mighty, You shall know I am set naked on your kingdom.[37]
+To morrow shall I beg leave to see your kingly eyes: when I shall,
+first asking your pardon thereunto, recount the occasion of my sudden
+and more strange return._ HAMLET.
+
+  What should this mean? Are all the rest come back?
+  Or is it some abuse, and no such thing?
+
+  _Laer._ (R.) Know you the hand?
+
+  _King._ (L.) 'Tis Hamlet's character:[38] _Naked,--_
+
+  And in a postscript here, he says, _alone_.
+  Can you advise me?
+
+  _Laer._ I am lost in it, my lord. But let him come;
+  It warms the very sickness in my heart,
+  That I shall live and tell him to his teeth,
+  _Thus diddest thou_.
+
+  _King._             If it be so, Laertes,
+  Will you be rul'd by me?
+
+  _Laer._                 Ay, my lord;
+  So you will not o'er-rule me to a peace.
+
+  _King._ To thine own peace.
+  Some two months since,
+  Here was a gentleman of Normandy,
+  He made confession of[39] you;
+  And gave you such a masterly report,
+  For art and exercise in your defence,[40]
+  And for your rapier most especially,
+  That he cried out, 'twould be a sight indeed,
+  If one could match you: this report of his
+  Did Hamlet so envenom with his envy,
+  That he could nothing do but wish and beg
+  Your sudden coming o'er, to play with you.
+  Now, out of this,----
+
+  _Laer._              What out of this, my lord?
+
+  _King._ Laertes, was your father dear to you?
+  Or are you like the painting of a sorrow,
+  A face without a heart?
+
+  _Laer._                Why ask you this?
+
+  _King._ Hamlet return'd shall know you are come home:
+  We'll put on those shall praise your excellence,
+  And set a double varnish on the fame
+  The Frenchman gave you; bring you, in fine, together,
+  And wager o'er your heads; he, being remiss,[41]
+  Most generous, and free from all contriving,
+  Will not peruse the foils:[42] so that, with ease,
+  Or with a little shuffling, you may choose
+  A sword unbated,[43] and, in a pass of practice,[44]
+  Requite him for your father.
+
+  _Laer._                     I will do't:
+  And, for the purpose, I'll anoint my sword.
+  I bought an unction of a mountebank,
+  So mortal, that but dip a knife in it,
+  Where it draws blood no cataplasm[45] so rare,
+  Collected from all simples[46] that have virtue
+  Under the moon, can save the thing from death
+  That is but scratch'd withal: I'll touch my point
+  With this contagion, that, if I gall him slightly,
+  It may be death.
+
+  _King._ (L.) Let's further think of this;
+  We'll make a solemn wager on your cunnings,[47]
+  When in your motion[48] you are hot and dry,
+  (As make your bouts more violent to that end,)
+  And that he calls for drink, I'll have prepared him
+  A chalice for the nonce;[49] whereon but sipping,
+  If he by chance escape your venom'd stuck,[50]
+  Our purpose may hold there. But stay, what noise?
+
+    _Enter_ QUEEN (R.C.)
+
+  _Queen._ (C.) One woe doth tread upon another's heel,
+  So fast they follow: Your sister's drown'd, Laertes.
+
+  _Laer._ (R.) Drown'd! O, where?
+
+  _Queen._ There is a willow grows aslant a brook,
+  That shows his hoar leaves in the glassy stream;
+  Therewith fantastick garlands did she make
+  Of crow-flowers, nettles, daisies, and long purples;[51]
+  There, on the pendent boughs her cornet weeds
+  Clambering to hang, an envious sliver broke;
+  When down her weedy trophies, and herself,
+  Fell in the weeping brook.
+
+  _Laer._ I forbid my tears: But yet
+  It is our trick:[52] nature her custom holds,
+  Let shame say what it will: when these are gone,
+  The woman will be out.[53]
+  Adieu, my lord:
+  I have a speech of fire, that fain would blaze,
+  But that this folly drowns it.[54]
+
+    [_Exeunt._ C.]
+
+END OF ACT FOURTH.
+
+
+
+
+Notes
+
+Act IV
+
+
+    [Footnote IV.1: _Translate:_] Interpret.]
+
+    [Footnote IV.2: _In this brainish apprehension_,] Distempered,
+    brainsick mood.]
+
+    [Footnote IV.3: _Where the offender's scourge is weigh'd, But
+    never the offence._] When an offender is popular, the people
+    never consider what his crime was, but they scrutinise his
+    punishment.]
+
+    [Footnote IV.4: _Politick worms_] _i.e._, artful, cunning worms.]
+
+    [Footnote IV.5: _The wind at help_,] _i.e._, ready.]
+
+    [Footnote IV.6: _May'st not coldly set_] Set is to value or
+    estimate. "Thou may'st not _set little by it_, or _estimate it
+    lightly_."]
+
+    [Footnote IV.7: _Our sovereign process:_] _i.e._, our royal
+    design.]
+
+    [Footnote IV.8: _By letters conjuring to that effect_,] The verb
+    to conjure, in the sense of to supplicate, was formerly accented
+    on the first syllable.]
+
+    [Footnote IV.9: _Howe'er my haps_,] Chances of fortune.]
+
+    [Footnote IV.10: _His sandal shoon._] Shoon is the old plural of
+    shoe. The verse is descriptive of a pilgrim. While this kind of
+    devotion was in favour, love intrigues were carried on under that
+    mask.]
+
+    [Footnote IV.11: _Larded with sweet flowers_;] _i.e._, Garnished
+    with sweet flowers.]
+
+    [Footnote IV.12: _Heaven 'ield you._] Requite; yield you
+    recompence.]
+
+    [Footnote IV.13: _The owl was a baker's daughter._] This is in
+    reference to a story that was once prevalent among the common
+    people of Gloucestershire.]
+
+    [Footnote IV.14: _Conceit upon her father._] Fancies respecting
+    her father.]
+
+    [Footnote IV.15: _Don'd and dupp'd_] _To don_, is to _do on_, or
+    _put on_, as _doff_ is to _do off_, or _put off_. To _dupp_ is to
+    _do up_, or _lift up_ the latch.]
+
+    [Footnote IV.16: _In a riotous head_,] The tide, strongly
+    flowing, is said to pour in with a great _head_.]
+
+    [Footnote IV.17: _The chaste unsmirched brow of my true mother._]
+    _Unsmirched_ is unstained, not defiled.]
+
+    [Footnote IV.18: _Doth hedge a king_,] The word _hedge_ is used
+    by the gravest writers upon the highest subjects.]
+
+    [Footnote IV.19: _Both the worlds I give to negligence_,] I am
+    careless of my present and future prospects, my views in this
+    life, as well as that which is to come.]
+
+    [Footnote IV.20: _My will, not all the world's:_] _i.e._, by my
+    will as far as my will is concerned, not all the world shall stop
+    me; and, as for my means, I'll husband them so well, they shall
+    go far, though really little.]
+
+    [Footnote IV.21: _Sensible in grief_] Poignantly affected with.]
+
+    [Footnote IV.22: _You must sing Down-a-down_,] This was the
+    burthen of an old song, well known in Shakespeare's time.]
+
+    [Footnote IV.23: _How well the wheel becomes it!_] This probably
+    means that the song or charm is well adapted to those who are
+    occupied at spinning at the wheel.]
+
+    [Footnote IV.24: _There's rosemary, that's for remembrance_;]
+    Rosemary was anciently supposed to strengthen the memory, and was
+    carried at funerals and wore at weddings. It was also considered
+    the emblem of fidelity in lovers; and at weddings it was usual to
+    dip the rosemary in the cup, and drink to the health of the new
+    married couple.]
+
+    [Footnote IV.25: _There is pansies_,] _i.e._, a little flower
+    called _heart's-ease_. Pansies in French signifies _thoughts_.]
+
+    [Footnote IV.26: _There's fennel for you, and columbines:_]
+    Fennel was considered an emblem of flattery, and columbine was
+    anciently supposed to be a _thankless flower_; signifying
+    probably that the courtiers flattered to get favours, and were
+    thankless after receiving them. Columbine was emblematical of
+    forsaken lovers.]
+
+    [Footnote IV.27: _There's rue for you; and here's some for
+    me:--we may call it herb of grace o' Sundays:_] Probably a
+    quibble is meant here, as _rue_ anciently signified the same as
+    _ruth_, _i.e._, sorrow. In the common dictionaries of
+    Shakespeare's time, it was called _herb of grace_. Ophelia wishes
+    to remind the Queen of the sorrow and contrition she ought to
+    feel for her unlawful marriage; and that she may wear her rue
+    with peculiar propriety on Sundays, when she solicits pardon for
+    the crime which she has so much occasion to _rue_ and repent
+    of.--MALONE.]
+
+    [Footnote IV.28: _You may wear your rue with a difference._]
+    _i.e._, to distinguish it from that worn by Ophelia, herself:
+    because her tears flowed from the loss of a father--those of the
+    Queen ought to flow for her guilt.]
+
+    [Footnote IV.29: _There's a daisy:_] A daisy signified a warning
+    to young women, not to trust the fair promises of their lovers.]
+
+    [Footnote IV.30: _I would give you some violets_,] Violets
+    signified faithfulness.]
+
+    [Footnote IV.31: _For bonny sweet Robin is all my joy,--_] Part
+    of an old song.]
+
+    [Footnote IV.32: _Thought and affliction_,] Thought here, as in
+    many other places, means melancholy.]
+
+    [Footnote IV.33: _I must commune with your grief_,] _i.e._,
+    confer, discuss, or argue with.]
+
+    [Footnote IV.34: _No trophy, sword, nor hatchment o'er his
+    bones_,] Not only the sword, but the helmet, gauntlet, spurs, and
+    tabard, (_i.e._, a coat whereon the armorial ensigns were
+    anciently depicted, from whence the term _coat_ of armour), are
+    hung over the grave of every knight.]
+
+    [Footnote IV.35: _Cry to be heard_,] All these multiplied
+    incitements are things which cry, &c.]
+
+    [Footnote IV.36: _Let the great axe fall._] _i.e._, the axe that
+    is to be laid to the root.]
+
+    [Footnote IV.37: _Naked on your kingdom_,] _i.e._, unprovided and
+    defenceless.]
+
+    [Footnote IV.38: _'Tis Hamlet's character_,] Peculiar mode of
+    shaping his letters.]
+
+    [Footnote IV.39: _Made confession of_] Acknowledged.]
+
+    [Footnote IV.40: _In your defence_,] _i.e._, "in your art and
+    science of defence."]
+
+    [Footnote IV.41: _He, being remiss_,] _i.e._, unsuspicious, not
+    cautious.]
+
+    [Footnote IV.42: _Peruse the foils_;] Closely inspect them.]
+
+    [Footnote IV.43: _A sword unbated_,] Not blunted, as foils are by
+    a button fixed to the end.]
+
+    [Footnote IV.44: _In a pass of practice_,] This probably means
+    some favourite pass, some trick of fencing, with which Hamlet was
+    inexperienced, and by which Laertes may be sure of success.]
+
+    [Footnote IV.45: _No cataplasm_,] _i.e._, poultice--a healing
+    application.]
+
+    [Footnote IV.46: _Collected from all simples_,] _i.e._, from all
+    ingredients in medicine.]
+
+    [Footnote IV.47: _On your cunnings_,] _i.e._, on your dexterity.]
+
+    [Footnote IV.48: _In your motion_] Exercise, rapid evolutions.]
+
+    [Footnote IV.49: _For the nonce_;] _i.e._, present purpose or
+    design.]
+
+    [Footnote IV.50: _Venom'd stuck_,] Thrust. Stuck was a term of
+    the fencing school.]
+
+    [Footnote IV.51: _Long purples_,] One of the names for a species
+    of orchis, a common English flower.]
+
+    [Footnote IV.52: _Our trick:_] Our course, or habit; a property
+    that clings to, or makes a part of, us.]
+
+    [Footnote IV.53:
+
+      _When these are gone_,
+      _The woman will be out._]
+
+    When these tears are shed, this womanish passion will be over.]
+
+    [Footnote IV.54: _But that this folly drowns it._] _i.e._, my
+    rage had flamed, if this flood of tears had not extinguished it.]
+
+
+
+
+

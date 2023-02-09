@@ -1,0 +1,18 @@
+Act 1|Scene 1|ACT I. SCENE I.|1.txt
+Act 1|Scene 2|SCENE II.|2.txt
+Act 1|Scene 3|SCENE III.|3.txt
+Act 2|Scene 1|ACT II. SCENE I.|4.txt
+Act 2|Scene 2|SCENE II.|5.txt
+Act 2|Scene 3|SCENE III.|6.txt
+Act 2|Scene 4|SCENE IV.|7.txt
+Act 3|Scene 1|ACT III. SCENE I.|8.txt
+Act 3|Scene 2|SCENE II.|9.txt
+Act 3|Scene 3|SCENE III.|10.txt
+Act 4|Scene 1|ACT IV. SCENE I.|11.txt
+Act 4|Scene 2|SCENE II.|12.txt
+Act 4|Scene 3|SCENE III.|13.txt
+Act 5|Scene 1|ACT I. SCENE I.|14.txt
+Act 5|Scene 2|SCENE II.|15.txt
+Act 5|Scene 3|SCENE III.|16.txt
+Act 5|Scene 4|SCENE IV.|17.txt
+Act 5|Scene 5|SCENE V.|18.txt

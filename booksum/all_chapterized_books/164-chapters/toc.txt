@@ -1,0 +1,46 @@
+Part 1|Chapter 1|A SHIFTING REEF|01.txt
+Part 1|Chapter 2|PRO AND CON|02.txt
+Part 1|Chapter 3|I FORM MY RESOLUTION|03.txt
+Part 1|Chapter 4|NED LAND|04.txt
+Part 1|Chapter 5|AT A VENTURE|05.txt
+Part 1|Chapter 6|AT FULL STEAM|06.txt
+Part 1|Chapter 7|AN UNKNOWN SPECIES OF WHALE|07.txt
+Part 1|Chapter 8|MOBILIS IN MOBILI|08.txt
+Part 1|Chapter 9|NED LAND'S TEMPERS|09.txt
+Part 1|Chapter 10|THE MAN OF THE SEAS|10.txt
+Part 1|Chapter 11|ALL BY ELECTRICITY|11.txt
+Part 1|Chapter 12|SOME FIGURES|12.txt
+Part 1|Chapter 13|THE BLACK RIVER|13.txt
+Part 1|Chapter 14|A NOTE OF INVITATION|14.txt
+Part 1|Chapter 15|A WALK ON THE BOTTOM OF THE SEA|15.txt
+Part 1|Chapter 16|A SUBMARINE FOREST|16.txt
+Part 1|Chapter 17|FOUR THOUSAND LEAGUES UNDER THE PACIFIC|17.txt
+Part 1|Chapter 18|VANIKORO|18.txt
+Part 1|Chapter 19|TORRES STRAITS|19.txt
+Part 1|Chapter 20|A FEW DAYS ON LAND|20.txt
+Part 1|Chapter 21|CAPTAIN NEMO'S THUNDERBOLT|21.txt
+Part 1|Chapter 22|AEGRI SOMNIA|23.txt
+Part 1|Chapter 23|THE CORAL KINGDOM|23.txt
+Part 2|Chapter 1|THE INDIAN OCEAN|24.txt
+Part 2|Chapter 2|A NOVEL PROPOSAL OF CAPTAIN NEMO'S|25.txt
+Part 2|Chapter 3|A PEARL OF TEN MILLIONS|26.txt
+Part 2|Chapter 4|THE RED SEA|27.txt
+Part 2|Chapter 5|THE ARABIAN TUNNEL|28.txt
+Part 2|Chapter 6|THE GRECIAN ARCHIPELAGO|29.txt
+Part 2|Chapter 7|THE MEDITERRANEAN IN FORTY-EIGHT HOURS|30.txt
+Part 2|Chapter 8|VIGO BAY|31.txt
+Part 2|Chapter 9|A VANISHED CONTINENT|32.txt
+Part 2|Chapter 10|THE SUBMARINE COAL-MINES|33.txt
+Part 2|Chapter 11|THE SARGASSO SEA|34.txt
+Part 2|Chapter 12|CACHALOTS AND WHALES|35.txt
+Part 2|Chapter 13|THE ICEBERG|36.txt
+Part 2|Chapter 14|THE SOUTH POLE|37.txt
+Part 2|Chapter 15|ACCIDENT OR INCIDENT?|38.txt
+Part 2|Chapter 16|WANT OF AIR|39.txt
+Part 2|Chapter 17|FROM CAPE HORN TO THE AMAZON|40.txt
+Part 2|Chapter 18|THE POULPS|41.txt
+Part 2|Chapter 19|THE GULF STREAM|42.txt
+Part 2|Chapter 20|FROM LATITUDE 47 deg. 24' TO LONGITUDE 17 deg. 28'|43.txt
+Part 2|Chapter 21|A HECATOMB|44.txt
+Part 2|Chapter 22|THE LAST WORDS OF CAPTAIN NEMO|45.txt
+Part 2|Chapter 23|CONCLUSION|46.txt

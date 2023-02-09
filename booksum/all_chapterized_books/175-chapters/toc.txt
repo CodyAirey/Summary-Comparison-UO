@@ -1,0 +1,27 @@
+|Chapter 1|Prologue|1.txt
+|Chapter 2|Is it the Ghost?|2.txt
+|Chapter 3|The New Margarita|3.txt
+|Chapter 4|The Mysterious Reason|4.txt
+|Chapter 5|Box Five|5.txt
+|Chapter 6|The Enchanted Violin|6.txt
+|Chapter 7|A Visit to Box Five|7.txt
+|Chapter 8|Faust and What Followed|8.txt
+|Chapter 9|The Mysterious Brougham|9.txt
+|Chapter 10|At the Masked Ball|10.txt
+|Chapter 11|Forget the Name of the Man's Voice|11.txt
+|Chapter 12|Above the Trap-Doors|12.txt
+|Chapter 13|Apollo's Lyre|13.txt
+|Chapter 14|A Master-Stroke of the Trap-Door Lover|14.txt
+|Chapter 15|The Singular Attitude of a Safety-Pin|15.txt
+|Chapter 16|Christine!  Christine!|16.txt
+|Chapter 17|Mme. Giry's Astounding Revelations as to Her Personal|17.txt
+|Chapter 18|The Safety-Pin Again|18.txt
+|Chapter 19|The Commissary, The Viscount and the Persian|19.txt
+|Chapter 20|The Viscount and the Persian|20.txt
+|Chapter 21|In the Cellars of the Opera|21.txt
+|Chapter 22|Interesting and Instructive Vicissitudes of a Persian in|22.txt
+|Chapter 23|In the Torture Chamber|23.txt
+|Chapter 24|The Tortures Begin|24.txt
+|Chapter 25|"Barrels! ... Barrels! ... Any Barrels to Sell?"|25.txt
+|Chapter 26|The Scorpion or the Grasshopper:  Which?|26.txt
+|Chapter 27|The End of the Ghost's Love Story|27.txt

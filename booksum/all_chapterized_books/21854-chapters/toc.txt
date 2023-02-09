@@ -1,0 +1,16 @@
+|Prologue||00.txt
+|Chapter 1|Knocking the Town Endways|01.txt
+|Chapter 2|Breakfast|02.txt
+|Chapter 3|Handcuffs in the Air|03.txt
+|Chapter 4|Poking About|04.txt
+|Chapter 5|Mr. Brunner on the Case|05.txt
+|Chapter 6|The Lady in Black|06.txt
+|Chapter 7|The Inquest|07.txt
+|Chapter 8|A Hot Scent|08.txt
+|Chapter 9|The Wife of Dives|09.txt
+|Chapter 10|Hitherto Unpublished|10.txt
+|Chapter 11|Evil Days|11.txt
+|Chapter 12|Eruption|12.txt
+|Chapter 13|Writing a Letter|13.txt
+|Chapter 14|Double Cunning|14.txt
+|Chapter 15|The Last Straw|15.txt

@@ -1,0 +1,699 @@
+SCENE V.--A MORE REMOTE PART OF THE PLATFORM. NIGHT.
+
+    _Re-enter_ Ghost _and_ HAMLET (L.H.U.E.)
+
+  _Ham._ (R.) Whither wilt thou lead me? Speak; I'll go no further.
+
+  _Ghost._ (L.) Mark me.
+
+  _Ham._                I will.
+
+  _Ghost._                     My hour is almost come,
+  When I to sulphurous and tormenting flames
+  Must render up myself.
+
+  _Ham._                Alas, poor ghost!
+
+  _Ghost._ Pity me not, but lend thy serious hearing
+  To what I shall unfold.
+
+  _Ham._                 Speak; I am bound to hear.
+
+  _Ghost._ So art thou to revenge, when thou shalt hear.
+
+  _Ham._ What?
+
+  _Ghost._ I am thy father's spirit;
+  Doom'd for a certain term to walk the night,
+  And for the day confin'd to fast in fires,[100]
+  Till the foul crimes done in my days of nature
+  Are burnt and purg'd away. But that I am forbid
+  To tell the secrets of my prison-house,
+  I could a tale unfold, whose lightest word
+  Would harrow up thy soul;[101] freeze thy young blood;
+  Make thy two eyes, like stars, start from their spheres;
+  Thy knotted and combined locks to part,
+  And each particular hair to stand on end,[102]
+  Like quills upon the fretful porcupine:[103]
+  But this eternal blazon[104] must not be
+  To ears of flesh and blood.--List, list, O, list!--
+  If thou didst ever thy dear father love,----
+
+  _Ham._ O Heaven!
+
+  _Ghost._ Revenge his foul and most unnatural murder.
+
+  _Ham._ Murder!
+
+  _Ghost._ Murder most foul, as in the best it is;
+  But this most foul, strange, and unnatural.
+
+  _Ham._ Haste me to know it, that I, with wings as swift
+  As meditation or the thoughts of love,
+  May sweep to my revenge.
+
+  _Ghost._                 I find thee apt;
+  And duller shouldst thou be than the fat weed
+  That rots itself in ease on Lethe wharf,[105]
+  Wouldst thou not stir in this. Now, Hamlet, hear:
+  'Tis given out that, sleeping in mine orchard,[106]
+  A serpent stung me; so the whole ear of Denmark
+  Is by a forged process[107] of my death
+  Rankly abus'd: but know, thou noble youth,
+  The serpent that did sting thy father's life
+  Now wears his crown.
+
+  _Ham._ O, my prophetic soul! my uncle!
+
+  _Ghost._ Ay, that incestuous, that adulterate beast,
+  With witchcraft of his wit, with traitorous gifts,
+  Won to his shameful lust
+  The will of my most seeming virtuous queen:
+  O, Hamlet, what a falling-off was there!
+  From me, whose love was of that dignity,
+  That it went hand in hand even with the vow
+  I made to her in marriage; and to decline
+  Upon a wretch,[108] whose natural gifts were poor
+  To those of mine!
+  But, soft! methinks I scent the morning air;
+  Brief let me be.--Sleeping within mine orchard,
+  My custom always in the afternoon,
+  Upon my secure[109] hour thy uncle stole,
+  With juice of cursed hebenon[110] in a vial,
+  And in the porches of mine ears did pour
+  The leperous distilment; whose effect
+  Holds such an enmity with blood of man,
+  That, swift as quicksilver, it courses through
+  The natural gates and alleys of the body;
+  So did it mine;
+  Thus was I, sleeping, by a brother's hand
+  Of life, of crown, of queen, at once despatch'd:[111]
+  Cut off even in the blossoms of my sin,
+  Unhousel'd, disappointed, unanel'd;[112]
+  No reckoning made, but sent to my account
+  With all my imperfections on my head.
+
+  _Ham._ O, horrible! O, horrible! most horrible!
+
+  _Ghost._ If thou hast nature in thee, bear it not;
+  Let not the royal bed of Denmark be
+  A couch for luxury[113] and damned incest.
+  But, howsoever thou pursu'st this act,
+  Taint not thy mind, nor let thy soul contrive
+  Against thy mother aught: leave her to Heaven,
+  And to those thorns that in her bosom lodge,
+  To prick and sting her. Fare thee well at once!
+  The glow-worm shows the matin to be near,
+  And 'gins to pale his ineffectual fire:[114]
+  Adieu, adieu, adieu! remember me.
+
+    [_Exit_, L.H.]
+
+  _Ham._ Hold, hold, my heart;
+  And you, my sinews, grow not instant old,
+  But bear me stiffly up.--Remember thee!
+  Ay, thou poor ghost, while memory holds a seat
+  In this distracted globe.[115] Remember thee!
+  Yea, from the table of my memory
+  I'll wipe away all forms, all pressures past,[116]
+  And thy commandment all alone shall live
+  Within the book and volume of my brain,
+  Unmix'd with baser matter: yes, by heaven,
+  I have sworn't.
+
+  _Hor._ (_Without._) My lord, my lord,----
+
+  _Mar._ (_Without._) Lord Hamlet,----
+
+  _Hor._ (_Without._) Heaven secure him!
+
+  _Ham._                                So be it!
+
+  _Mar._ (_Without._) Illo, ho, ho, my lord!
+
+  _Ham._ Hillo, ho, ho, boy! come, bird, come.[117]
+
+  _Enter_ HORATIO _and_ MARCELLUS (L.H.U.E.)
+
+  _Mar._ (R.) How is't, my noble lord?
+
+  _Hor._ (L.)                         What news, my lord?
+
+  _Ham._ (C.) O, wonderful!
+
+  _Hor._                   Good my lord, tell it.
+
+  _Ham._                                         No;
+  You will reveal it.
+
+  _Hor._ Not I, my lord, by heaven.
+
+  _Mar._                           Nor I, my lord.
+
+  _Ham._ How say you, then; would heart of man once think it?
+  But you'll be secret?--
+
+  _Hor._}
+        }                Ay, by heaven, my lord.
+  _Mar._}
+
+  _Ham._ There's ne'er a villain, dwelling in all Denmark--
+  But he's an arrant knave.[118]
+
+  _Hor._ There needs no ghost, my lord, come from the grave
+  To tell us this.
+
+  _Ham._ Why, right; you are in the right;
+  And so, without more circumstance at all,
+  I hold it fit that we shake hands, and part:
+  You as your business and desire shall point you,
+  For every man hath business and desire,
+  Such as it is;--and, for my own poor part,
+  Look you, I will go pray.
+
+  _Hor._ These are but wild and whirling words,[119] my lord.
+
+  _Ham._ I am sorry they offend you, heartily.
+
+  _Hor._ There's no offence, my lord.
+
+  _Ham._ Yes, by Saint Patrick,[120] but there is, Horatio,
+  And much offence, too. Touching this vision here,
+  It is an honest ghost, that let me tell you:
+  For your desire to know what is between us,
+  O'er-master it[121] as you may. And now, good friends,
+  As you are friends, scholars, and soldiers,
+  Give me one poor request.
+
+  _Hor._                   What is't, my lord?
+  We will.
+
+  _Ham._ Never make known what you have seen to-night.
+
+  _Hor._}
+        } My lord, we will not.
+  _Mar._}
+
+  _Ham._                           Nay, but swear't.
+
+  _Hor._                       Propose the oath, my lord.
+
+  _Ham._ Never to speak of this that you have seen.
+  Swear by my sword.
+
+  [HORATIO _and_ MARCELLUS _place each their right
+  hand on_ HAMLET'S _sword._]
+
+  _Ghost._ (_Beneath._) Swear.
+
+  _Hor._ O day and night, but this is wondrous strange!
+
+  _Ham._ And therefore as a stranger give it welcome.[122]
+  There are more things in heaven and earth, Horatio,
+  Than are dreamt of in your philosophy.
+  But come;--
+  Here, as before, never, so help you mercy,
+  How strange or odd soe'er I bear myself,
+  As I, perchance, hereafter shall think meet
+  To put an antick disposition[123] on,--
+  That you, at such times seeing me, never shall,
+  With arms encumber'd thus,[124] or this head-shake,
+  Or by pronouncing of some doubtful phrase,
+  As, _Well, we know_; or, _We could, an if we would_; or, _If
+  we list to speak_;--or, _There be, an if they might_;--
+  Or such ambiguous giving out, to note
+  That you know aught of me:--This do you swear,
+  So grace and mercy at your most need help you!
+
+    [HORATIO _and_ MARCELLUS _again place their hands on_ HAMLET'S
+     _sword._]
+
+  _Ghost._ (_Beneath._) Swear.
+
+  _Ham._ Rest, rest, perturbed spirit! So gentlemen,
+  With all my love I do commend me to you:
+  And what so poor a man as Hamlet is
+  May do, to express his love and friending to you,
+  Heaven willing, shall not lack.[125] Let us go in together;
+
+    [_Crosses to_ L.]
+
+  And still your fingers on your lips, I pray.
+  The time is out of joint;--O cursed spite,
+  That ever I was born to set it right!
+  Nay, come, let's go together.
+
+    [_Exeunt_ L.H.]
+
+END OF ACT FIRST.
+
+
+
+
+Notes
+
+Act I
+
+
+    [Footnote I.1: _Me:_] _i.e., me_ who am already on the watch, and
+    have a right to demand the watch-word.]
+
+    [Footnote I.2: _Unfold_] Announce, make known.]
+
+    [Footnote I.3: _Long live the King._] The watch-word.]
+
+    [Footnote I.4: _The rivals of my watch_,] _Rivals_, for partners
+    or associates.]
+
+    [Footnote I.5: _And liegemen to the Dane._] _i.e._, owing
+    allegiance to Denmark.]
+
+    [Footnote I.6: _A piece of him._] Probably a cant expression.]
+
+    [Footnote I.7: _To watch the minutes of this night_; This seems
+    to have been an expression common in Shakespeare's time.]
+
+    [Footnote I.8: _Approve our eyes_,] To _approve_, in
+    Shakespeare's age, signified to make good or establish.]
+
+    [Footnote I.9: _What we have seen._] We must here supply "with,"
+    or "by relating" before "what we have seen."]
+
+    [Footnote I.10: _It harrows me with fear and wonder._] _i.e._, it
+    confounds and overwhelms me.]
+
+    [Footnote I.11: _Usurp'st this time of night_,] _i.e._, abuses,
+    uses against right, and the order of things.]
+
+    [Footnote I.12: _I might not this believe, &c._] I _could_ not:
+    it had not been permitted me, &c., without the full and perfect
+    evidence, &c.]
+
+    [Footnote I.13: _Jump at this dead hour_,] _Jump_ and _just_ were
+    synonymous in Shakespeare's time.]
+
+    [Footnote I.14: _In what particular thought to work_,] In what
+    particular course to set my thoughts at work: in what particular
+    train to direct the mind and exercise it in conjecture.]
+
+    [Footnote I.15: _Gross and scope_] Upon the whole, and in a
+    general view.]
+
+    [Footnote I.16: _Bodes some strange eruption to our state_,]
+    _i.e._, some political distemper, which will break out in
+    dangerous consequences.]
+
+    [Footnote I.17: _Palmy state_] Outspread, flourishing. Palm
+    branches were the emblem of victory.]
+
+    [Footnote I.18: _Sound, or use of voice_,] Articulation.]
+
+    [Footnote I.19:
+
+            _Uphoarded in thy life
+      Extorted treasure in the womb of earth_,]
+
+    So in Decker's Knight's Conjuring, &c. "If any of them had bound
+    the spirit of gold by any charmes _in cares_, or in iron fetters,
+    _under the ground_, they should, _for their own soule's quiet
+    (which, questionless, else would whine up and down_,) not for the
+    good of their children, release it."]
+
+    [Footnote I.20:
+
+      _And then it started like a guilty thing
+      Upon a fearful summons._]
+
+    Apparitions were supposed to fly from the crowing of the cock,
+    because it indicated the approach of day.]
+
+    [Footnote I.21: _Lofty_] High and loud.]
+
+    [Footnote I.22: _The extravagant and erring spirit_]
+    _Extravagant_ is, got out of his bounds. _Erring_ is here used in
+    the sense of wandering.]
+
+    [Footnote I.23: Laertes is unknown in the original story, being
+    an introduction of Shakespeare's.]
+
+    [Footnote I.24: _Green_;] Fresh.]
+
+    [Footnote I.25: _Wisest sorrow_] Sober grief, passion discreetly
+    reined.]
+
+    [Footnote I.26: _With a defeated joy_,] _i.e._, with joy baffled;
+    with joy interrupted by grief.]
+
+    [Footnote I.27: _Barr'd_] Excluded--acted without the concurrence
+    of.]
+
+    [Footnote I.28: _Your leave and favour_] The favour of your leave
+    granted, the kind permission. Two substantives with a copulative
+    being here, as is the frequent practice of our author, used for
+    an adjective and substantive: an adjective sense is given to a
+    substantive.]
+
+    [Footnote I.29: _Upon his will I sealed my hard consent:_] At or
+    upon his earnest and importunate suit, I gave my full and final,
+    though hardly obtained and reluctant, consent.]
+
+    [Footnote I.30:
+
+      _Take thy fair hour! time be thine;
+      And thy best graces spend it at thy will!_]
+
+    Catch the auspicious moment! be time thine own! and may the
+    exercise of thy fairest virtue fill up those hours, that are
+    wholly at your command!]
+
+    [Footnote I.31: _A little more than kin, and less than kind._]
+    Dr. Johnson says that _kind_ is the Teutonic word for _child_.
+    Hamlet, therefore, answers to the titles of _cousin_ and _son_,
+    which the king had given him, that he was somewhat more than
+    _cousin_, and less than _son_. Steevens remarks, that it seems to
+    have been another proverbial phrase: "The nearer we are in blood,
+    the further we must be from love; the greater the _kindred_ is,
+    the less the _kindness_ must be." _Kin_ is still used in the
+    Midland Counties for _cousin_, and _kind_ signifies _nature_.
+    Hamlet may, therefore, mean that the relationship between them
+    had become _unnatural_.]
+
+    [Footnote I.32: _I am too much i'the sun._] Meaning, probably,
+    his being sent for from his studies to be exposed at his uncle's
+    marriage as his _chiefest courtier_, and being thereby placed too
+    much in the radiance of the king's presence; or, perhaps, an
+    allusion to the proverb, "_Out of Heaven's blessing, into the
+    warm sun:_" but it is not unlikely that a quibble is meant
+    between _son_ and _sun_.]
+
+    [Footnote I.33: _Nighted colour_] Black--night-like.]
+
+    [Footnote I.34: _Vailed lids_] Cast down.]
+
+    [Footnote I.35: _Which passeth show_;] _i.e._, "external manners
+    of lament."]
+
+    [Footnote I.36: _Trappings_] _Trappings_ are "furnishings."]
+
+    [Footnote I.37: _That father lost, lost his_;] "That lost father
+    (of your father, _i.e._, your grandfather), or father so lost,
+    lost his.]"
+
+    [Footnote I.38: _Do obsequious sorrow:_] Follow with becoming and
+    ceremonious observance the memory of the deceased.]
+
+    [Footnote I.39: _But to persever_] This word was anciently
+    accented on the second syllable.]
+
+    [Footnote I.40: _Obstinate condolement_,] Ceaseless and
+    unremitted expression of grief.]
+
+    [Footnote I.41: _Incorrect to Heaven._] Contumacious towards
+    Heaven.]
+
+    [Footnote I.42: _Unprevailing_] Fruitless, unprofitable.]
+
+    [Footnote I.43: _Sits smiling to my heart:_] _To_ is _at_:
+    gladdens my heart.]
+
+    [Footnote I.44: _In grace whereof_,] _i.e._, respectful regard or
+    honour of which.]
+
+    [Footnote I.45: _No jocund health, that Denmark drinks to-day_,]
+    Dr. Johnson remarks, that the king's intemperance is very
+    strongly impressed; everything that happens to him gives him
+    occasion to drink. The Danes were supposed to be hard drinkers.]
+
+    [Footnote I.46: _Resolve itself_] _To resolve_ is an old word
+    signifying _to dissolve_.]
+
+    [Footnote I.47: _His canon_] _i.e._, his rule or law].
+
+    [Footnote I.48: _The uses of this world!_] _i.e._, the habitudes
+    and usages of life.]
+
+    [Footnote I.49: _Merely._] Wholly--entirely.]
+
+    [Footnote I.50: _Hyperion to a satyr:_] An allusion to the
+    exquisite beauty of Apollo, compared with the deformity of a
+    satyr; that satyr, perhaps, being Pan, the brother of Apollo. Our
+    great poet is here guilty of a false quantity, by calling
+    Hyperi'on, Hype'rion, a mistake not unusual among our English
+    poets.]
+
+    [Footnote I.51: _Might not beteem_] _i.e._, might not allow,
+    permit.]
+
+    [Footnote I.52: _I'll change that name with you._] _i.e._, do not
+    call yourself my _servant_, you are my _friend_; so I shall call
+    you, and so I would have you call me.]
+
+    [Footnote I.53: _In faith._] Faithfully, in pure and simple
+    verity.]
+
+    [Footnote I.54: _But what make you_] What is your object? What
+    are you doing?]
+
+    [Footnote I.55: _What, in faith, make you from Wittenberg?_] In
+    Shakespeare's time there was a university at Wittenberg; but as
+    it was not founded till 1502, it consequently did not exist in
+    the time to which this play refers.]
+
+    [Footnote I.56: _My dearest foe_] _i.e._, my direst or most
+    important foe. This epithet was commonly used to denote the
+    strongest and liveliest interest in any thing or person, for or
+    against.]
+
+    [Footnote I.57: _Goodly king._] _i.e._, a good king.]
+
+    [Footnote I.58:
+
+      _Season your admiration for a while
+      with an attent ear_;]
+
+    _i.e._, suppress your astonishment for a short time, that you may
+    be the better able to give your attention to what we will
+    relate.]
+
+    [Footnote I.59: _In the dead waste and middle of the night_,]
+    _i.e._, in the dark and desolate vast, or vacant space and middle
+    of the night. It was supposed that spirits had permission to
+    range the earth by night alone.]
+
+    [Footnote I.60: _With the act of fear_,] _i.e._, by the influence
+    or power of fear.]
+
+    [Footnote I.61: _Address_] _i.e._, make ready.]
+
+    [Footnote I.62: _Writ down_] Prescribed by our own duty.]
+
+    [Footnote I.63: _He wore his beaver up._] That part of the helmet
+    which may be lifted up, to take breath the more freely.]
+
+    [Footnote I.64: _Tenable_] _i.e._, strictly maintained.]
+
+    [Footnote I.65: _Benefit_,] Favourable means.]
+
+    [Footnote I.66: _Trifling of his favour_,] Gay and thoughtless
+    intimation.]
+
+    [Footnote I.67: _Perfume and suppliance of a minute._] _i.e._, an
+    amusement to fill up a vacant moment, and render it agreeable.]
+
+    [Footnote I.68: _Keep within the rear of your affection_,] Front
+    not the peril; withdraw or check every warm emotion: advance not
+    so far as your affection would lead you.]
+
+    [Footnote I.69: _The chariest maid_] Chary is cautious.]
+
+    [Footnote I.70: _Puff'd and reckless libertine._] Bloated and
+    swollen, the effect of excess; and heedless and indifferent to
+    consequences.]
+
+    [Footnote I.71: _Recks not his own read._] _i.e._, heeds not his
+    own lessons or counsel.]
+
+    [Footnote I.72: _Shoulder of your sail_,] A common sea phrase.]
+
+    [Footnote I.73: _Look thou character._] _i.e._, a word often used
+    by Shakespeare to signify to _write, strongly infix_; the accent
+    is on the second syllable.]
+
+    [Footnote I.74: _Unproportion'd thought_] Irregular, disorderly
+    thought.]
+
+    [Footnote I.75: _Each man's censure_,] Sentiment, opinion.]
+
+    [Footnote I.76: _Chief in that._] _i.e._, chiefly in that.]
+
+    [Footnote I.77: _Husbandry_] _i.e._, thrift, economical
+    prudence.]
+
+    [Footnote I.78: _Season this in thee!_] _i.e._, infix it in such
+    a manner as that it may never wear out.]
+
+    [Footnote I.79: _Yourself shall keep the key of it._] Thence it
+    shall not be dismissed, till you think it needless to retain it.]
+
+    [Footnote I.80: _Given private time to you_;] Spent his time in
+    private visits to you.]
+
+    [Footnote I.81: _As so 'tis put on me_,] Suggested to, impressed
+    on me.]
+
+    [Footnote I.82: _Is between_] _i.e._, what has passed--what
+    intercourse had.]
+
+    [Footnote I.83: _Green girl, Unsifted_] _i.e._, inexperienced
+    girl. Unsifted means one who has not nicely _canvassed_ and
+    examined the peril of her situation.]
+
+    [Footnote I.84: _Woodcocks._] Witless things.]
+
+    [Footnote I.85: _Slander any leisure moment_,] _i.e._, I would
+    not have you so disgrace your most idle moments, as not to find
+    better employment for them than lord Hamlet's conversation.]
+
+    [Footnote I.86: _An eager air._] _Eager_ here means _sharp_, from
+    _aigre_, French.]
+
+    [Footnote I.87: _Doth wake to-night_,] _i.e._, holds a late
+    revel.]
+
+    [Footnote I.88: _Takes his rouse_,] _Rouse_ means drinking bout,
+    carousal.]
+
+    [Footnote I.89: _Questionable shape_,] To _question_, in our
+    author's time, signified to _converse_. Questionable, therefore,
+    means _capable of being conversed with._]
+
+    [Footnote I.90: _Hearsed in death_,] Deposited with the
+    accustomed funeral rites.]
+
+    [Footnote I.91: _Cerements_;] Those precautions usually adopted
+    in preparing dead bodies for sepulture.]
+
+    [Footnote I.92: _Fools of nature_] _i.e._, making sport for
+    nature.]
+
+    [Footnote I.93: _Disposition_] Frame of mind and body.]
+
+    [Footnote I.94: _Removed ground:_] _Removed_ for _remote_.]
+
+    [Footnote I.95: _At a pin's fee_;] _i.e._, the value of a pin.]
+
+    [Footnote I.96: _What if it tempt you toward the flood, &c._]
+    Malignant spirits were supposed to entice their victims into
+    places of gloom and peril, and exciting in them the deepest
+    terror.]
+
+    [Footnote I.97: _Beetles o'er his base into the sea_,] _i.e._,
+    projects darkly over the sea.]
+
+    [Footnote I.98: _Nemean lion's nerve._] Shakespeare, and nearly
+    all the poets of his time, disregarded the quantity of Latin
+    names. The poet has here placed the accent on the first syllable,
+    instead of the second.]
+
+    [Footnote I.99: _That lets me:_] To let, in the sense in which it
+    is here used, means to hinder--to obstruct--to oppose. The word
+    is derived from the Saxon.]
+
+    [Footnote I.100: _To fast in fires_,] Chaucer has a similar
+    passage with regard to eternal punishment--_"And moreover the
+    misery of Hell shall be in default of meat and drink."_]
+
+    [Footnote I.101: _Harrow up thy soul_;] Agitate and convulse.]
+
+    [Footnote I.102: _Hair to stand on end_,] A common image of that
+    day.
+
+      "_Standing_ as frighted with _erected haire_."]
+
+    [Footnote I.103: _The fretful porcupine:_] This animal being
+    considered irascible and timid.]
+
+    [Footnote I.104: _Eternal blazon_] _i.e._, publication or
+    divulgation of things eternal.]
+
+    [Footnote I.105: _Rots itself in ease on Lethe wharf_,] _i.e._,
+    in indolence and sluggishness, by its torpid habits contributes
+    to that morbid state of its juices which may figuratively be
+    denominated rottenness.]
+
+    [Footnote I.106: _Orchard_,] Garden.]
+
+    [Footnote I.107: _Forged process_] _i.e._, false report of
+    proceedings.]
+
+    [Footnote I.108: _Decline upon a wretch._] Stoop with degradation
+    to.]
+
+    [Footnote I.109: _Secure_] Unguarded.]
+
+    [Footnote I.110: _Hebenon_] Hebenon is described by Nares in his
+    Glossary, as the juice of ebony, supposed to be a deadly poison.]
+
+    [Footnote I.111: _Despatch'd:_] Despoiled--bereft.]
+
+    [Footnote I.112: _Unhousel'd, disappointed, unanel'd_;] To
+    _housel_ is to minister the sacrament to one lying on his death
+    bed. _Disappointed_ is the same as unappointed, which here means
+    unprepared. _Unanel'd_ is without extreme unction.]
+
+    [Footnote I.113: _Luxury_] Lasciviousness.]
+
+    [Footnote I.114: _Pale his uneffectual fire:_] _i.e._, not seen
+    by the light of day; or it may mean, shining without heat.]
+
+    [Footnote I.115: _In this distracted globe._] _i.e._, his head
+    distracted with thought.]
+
+    [Footnote I.116: _Pressures past_,] Impressions heretofore made.]
+
+    [Footnote I.117: _Come, bird, come._] This is the call which
+    falconers used to their hawk in the air when they would have him
+    come down to them.]
+
+    [Footnote I.118:
+
+      _There's ne'er a villain dwelling in all Denmark--
+      But he's an arrant knave._]
+
+    Hamlet probably begins these words in the ardour of confidence
+    and sincerity; but suddenly alarmed at the magnitude of the
+    disclosure he was going to make, and considering that, not his
+    friend Horatio only, but another person was present, he breaks
+    off suddenly:--"There's ne'er a villain in all Denmark that can
+    match (perhaps he would have said) my uncle in villainy; but
+    recollecting the danger of such a declaration, he pauses for a
+    moment, and then abruptly concludes:--"but he's an arrant
+    knave."]
+
+    [Footnote I.119: _Whirling words_,] Random words thrown out with
+    no specific aim.]
+
+    [Footnote I.120: _By Saint Patrick_,] At this time all the whole
+    northern world had their learning from Ireland; to which place it
+    had retired, and there flourished under the auspices of this
+    Saint.]
+
+    [Footnote I.121: _O'er-master it_] Get the better of it.]
+
+    [Footnote I.122: _Give it welcome._] Receive it courteously, as
+    you would a stranger when introduced.]
+
+    [Footnote I.123: _Antick disposition_] _i.e._, strange, foreign
+    to my nature, a disposition which Hamlet assumes as a protection
+    against the danger which he apprehends from his uncle, and as a
+    cloak for the concealment of his own meditated designs.]
+
+    [Footnote I.124: _Arms encumber'd thus_,] _i.e._, folded.]
+
+    [Footnote I.125: _Friending to you--shall not lack_] Disposition
+    to serve you shall not be wanting.]
+
+
+
+
+

@@ -1,0 +1,22 @@
+|Chapter 1|THE BOOK OF THE GROTESQUE|1.txt
+|Chapter 2|HANDS|2.txt
+|Chapter 3|PAPER PILLS|3.txt
+|Chapter 4|MOTHER|4.txt
+|Chapter 5|THE PHILOSOPHER|5.txt
+|Chapter 6|NOBODY KNOWS|6.txt
+|Chapter 7|GODLINESS|7.txt
+|Chapter 8|A MAN OF IDEAS|8.txt
+|Chapter 9|ADVENTURE|9.txt
+|Chapter 10|RESPECTABILITY|10.txt
+|Chapter 11|THE THINKER|11.txt
+|Chapter 12|TANDY|12.txt
+|Chapter 13|THE STRENGTH OF GOD|13.txt
+|Chapter 14|THE TEACHER|14.txt
+|Chapter 15|LONELINESS|15.txt
+|Chapter 16|AN AWAKENING|16.txt
+|Chapter 17|"QUEER"|17.txt
+|Chapter 18|THE UNTOLD LIE|18.txt
+|Chapter 19|DRINK|19.txt
+|Chapter 20|DEATH|20.txt
+|Chapter 21|SOPHISTICATION|21.txt
+|Chapter 22|DEPARTURE|22.txt

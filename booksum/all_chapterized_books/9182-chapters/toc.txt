@@ -1,0 +1,42 @@
+|Chapter 1|BRETTON|1.txt
+|Chapter 2|PAULINA|2.txt
+|Chapter 3|THE PLAYMATES|3.txt
+|Chapter 4|MISS MARCHMONT|4.txt
+|Chapter 5|TURNING A NEW LEAF|5.txt
+|Chapter 6|LONDON|6.txt
+|Chapter 7|VILLETTE|7.txt
+|Chapter 8|MADAME BECK|8.txt
+|Chapter 9|ISIDORE|9.txt
+|Chapter 10|DR. JOHN.|10.txt
+|Chapter 11|THE PORTRESS'S CABINET|11.txt
+|Chapter 12|THE CASKET|12.txt
+|Chapter 13|A SNEEZE OUT OF SEASON|13.txt
+|Chapter 14|THE FETE|14.txt
+|Chapter 15|THE LONG VACATION|15.txt
+|Chapter 16|AULD LANG SYNE|16.txt
+|Chapter 17|LA TERRASSE|17.txt
+|Chapter 18|WE QUARREL|18.txt
+|Chapter 19|THE CLEOPATRA|19.txt
+|Chapter 20|THE CONCERT|20.txt
+|Chapter 21|REACTION|21.txt
+|Chapter 22|THE LETTER|22.txt
+|Chapter 23|VASHTI|23.txt
+|Chapter 24|M. DE BASSOMPIERRE|24.txt
+|Chapter 25|THE LITTLE COUNTESS|25.txt
+|Chapter 26|A BURIAL|26.txt
+|Chapter 27|THE HOTEL CRECY|27.txt
+|Chapter 28|THE WATCHGUARD|28.txt
+|Chapter 29|MONSIEUR'S FETE|29.txt
+|Chapter 30|M. PAUL|30.txt
+|Chapter 31|THE DRYAD|31.txt
+|Chapter 32|THE FIRST LETTER|32.txt
+|Chapter 33|M. PAUL KEEPS HIS PROMISE|33.txt
+|Chapter 34|MALEVOLA|34.txt
+|Chapter 35|FRATERNITY|35.txt
+|Chapter 36|THE APPLE OF DISCORD|36.txt
+|Chapter 37|SUNSHINE|37.txt
+|Chapter 38|CLOUD|38.txt
+|Chapter 39|OLD AND NEW ACQUAINTANCE|39.txt
+|Chapter 40|THE HAPPY PAIR|40.txt
+|Chapter 41|FAUBOURG CLOTILDE|41.txt
+|Chapter 42|FINIS|42.txt

@@ -1,0 +1,5 @@
+|Chapter 1|The Happy Prince|01.txt
+|Chapter 2|The Nightingale and the Rose|02.txt
+|Chapter 3|The Selfish Giant|03.txt
+|Chapter 4|The Devoted Friend|04.txt
+|Chapter 5|The Remarkable Rocket|05.txt

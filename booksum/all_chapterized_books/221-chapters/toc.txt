@@ -1,0 +1,13 @@
+|Chapter 1|The Adventure of the Empty House|1.txt
+|Chapter 2|The Adventure of the Norwood Builder|2.txt
+|Chapter 3|The Adventure of the Dancing Men|3.txt
+|Chapter 4|The Adventure of the Solitary Cyclist|4.txt
+|Chapter 5|The Adventure of the Priory School|5.txt
+|Chapter 6|The Adventure of Black Peter|6.txt
+|Chapter 7|The Adventure of Charles Augustus Milverton|7.txt
+|Chapter 8|The Adventure of the Six Napoleons|8.txt
+|Chapter 9|The Adventure of the Three Students|9.txt
+|Chapter 10|The Adventure of the Golden Pince-Nez|10.txt
+|Chapter 11|The Adventure of the Missing Three-Quarter|11.txt
+|Chapter 12|The Adventure of the Abbey Grange|12.txt
+|Chapter 13|The Adventure of the Second Stain|13.txt

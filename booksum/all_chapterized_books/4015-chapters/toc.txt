@@ -1,0 +1,8 @@
+|SCENE 1||1.txt
+|SCENE 2||2.txt
+|SCENE 3||3.txt
+|SCENE 4||4.txt
+|SCENE 5||5.txt
+|SCENE 6||6.txt
+|SCENE 7||7.txt
+|SCENE 8||8.txt

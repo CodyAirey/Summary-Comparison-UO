@@ -1,0 +1,43 @@
+|Chapter 1|The Life and Death of Scyld|01.txt
+|Chapter 2|Scyld's Successors - Hrothgar's Great Mead-Hall|02.txt
+|Chapter 3|Grendel, the Murderer|03.txt
+|Chapter 4|Beowulf Goes to Hrothgar's Assistance|04.txt
+|Chapter 5|The Geats Reach Heorot|05.txt
+|Chapter 6|Beowulf Introduces Himself at the Palace|06.txt
+|Chapter 7|Hrothgar and Beowulf|07.txt
+|Chapter 8|Hrothgar and Beowulf (continued)|08.txt
+|Chapter 9|Unferth Taunts Beowulf|09.txt
+|Chapter 10|Beowulf Silences Unferth - Glee is High|10.txt
+|Chapter 11|All Sleep Save One|11.txt
+|Chapter 12|Grendel and Beowulf|12.txt
+|Chapter 13|Grendel is Vanquished|13.txt
+|Chapter 14|Rejoicing of the Danes|14.txt
+|Chapter 15|Hrothgar's Gratitude|15.txt
+|Chapter 16|Hrothgar Lavishes Gifts upon his Deliverer|16.txt
+|Chapter 17|Banquet - The Scop's Song of Finn and Hnaef|17.txt
+|Chapter 18|The Finn Episode - The Banquet Continues|18.txt
+|Chapter 19|Beowulf Receives Further Honor|19.txt
+|Chapter 20|The Mother of Grendel|20.txt
+|Chapter 21|Hrothgar's Account of the Monsters|21.txt
+|Chapter 22|Beowulf Seeks Grendel's Mother|22.txt
+|Chapter 23|Beowulf's Fight with Grendel's Mother|23.txt
+|Chapter 24|Beowulf is Double-Conqueror|24.txt
+|Chapter 25|Beowulf Brings his Trophies - Hrothgar's Gratitude|25.txt
+|Chapter 26|Hrothgar Moralizes - Rest after Labor|26.txt
+|Chapter 27|Sorrow at Parting|27.txt
+|Chapter 28|The Homeward Journey - The Two Queens|28.txt
+|Chapter 29|Beowulf and Higelac|29.txt
+|Chapter 30|Beowulf Narrates his Adventures to Higelac|30.txt
+|Chapter 31|Gift-Giving is Mutual|31.txt
+|Chapter 32|The Hoard and the Dragon|32.txt
+|Chapter 33|Brave Though Aged - Reminiscences|33.txt
+|Chapter 34|Beowulf Seeks the Dragon - Beowulf's Reminiscences|34.txt
+|Chapter 35|Reminiscences - Beowulf's Last Battle|35.txt
+|Chapter 36|Wiglaf the Trusty - Beowulf is Deserted by Friends and by Sword|36.txt
+|Chapter 37|The Fatal Struggle - Beowulf's Last Moments|37.txt
+|Chapter 38|Wiglaf Plunders the Dragon's Den - Beowulf's Death|38.txt
+|Chapter 39|The Dead Foes - Wiglaf's Bitter Taunts|39.txt
+|Chapter 40|The Messenger of Death|40.txt
+|Chapter 41|The Messenger's Retrospect|41.txt
+|Chapter 42|Wiglaf's Sad Story - The Hoard Carried Off|42.txt
+|Chapter 43|The Burning of Beowulf|43.txt

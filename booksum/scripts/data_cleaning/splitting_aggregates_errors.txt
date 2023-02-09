@@ -1,0 +1,14 @@
+Section name empty	../cleaning_phase/sparknotes/The Picture of Dorian Gray/section_0_part_0.txt
+Section name empty	../cleaning_phase/sparknotes/The Picture of Dorian Gray/section_2_part_0.txt
+Section name empty	../cleaning_phase/sparknotes/The Picture of Dorian Gray/section_4_part_0.txt
+Section name empty	../cleaning_phase/sparknotes/The Last of the Mohicans/section_7_part_0.txt
+Section name empty	../cleaning_phase/sparknotes/The House of the Seven Gables/section_1_part_0.txt
+Section name empty	../cleaning_phase/sparknotes/The House of the Seven Gables/section_5_part_0.txt
+Section name empty	../cleaning_phase/sparknotes/The House of the Seven Gables/section_6_part_0.txt
+Section name empty	../cleaning_phase/sparknotes/The House of the Seven Gables/section_8_part_0.txt
+Section name empty	../cleaning_phase/sparknotes/The House of the Seven Gables/section_9_part_0.txt
+Section name empty	../cleaning_phase/sparknotes/David Copperfield/section_0_part_0.txt
+Section name empty	../cleaning_phase/novelguide/David Copperfield/section_0_part_0.txt
+Section name empty	../cleaning_phase/gradesaver/Bleak House/section_5_part_0.txt
+Section name empty	../cleaning_phase/gradesaver/Bleak House/section_12_part_0.txt
+Section name empty	../cleaning_phase/gradesaver/Bleak House/section_18_part_0.txt

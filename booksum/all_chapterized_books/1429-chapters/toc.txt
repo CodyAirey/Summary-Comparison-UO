@@ -1,0 +1,15 @@
+|Chapter 1|AT THE BAY|1.txt
+|Chapter 2|THE GARDEN PARTY|2.txt
+|Chapter 3|THE DAUGHTERS OF THE LATE COLONEL|3.txt
+|Chapter 4|MR. AND MRS. DOVE|4.txt
+|Chapter 5|THE YOUNG GIRL|5.txt
+|Chapter 6|LIFE OF MA PARKER|6.txt
+|Chapter 7|MARRIAGE A LA MODE|7.txt
+|Chapter 8|THE VOYAGE|8.txt
+|Chapter 9|MISS BRILL|9.txt
+|Chapter 10|HER FIRST BALL|10.txt
+|Chapter 11|THE SINGING LESSON|11.txt
+|Chapter 12|THE STRANGER|12.txt
+|Chapter 13|BANK HOLIDAY|13.txt
+|Chapter 14|AN IDEAL FAMILY|14.txt
+|Chapter 15|THE LADY'S MAID|15.txt

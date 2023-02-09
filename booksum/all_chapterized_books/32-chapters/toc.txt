@@ -1,0 +1,12 @@
+|Chapter 1|A Not Unnatural Enterprise|01.txt
+|Chapter 2|Rash Advances|02.txt
+|Chapter 3|A Peculiar Imprisonment|03.txt
+|Chapter 4|Our Venture|04.txt
+|Chapter 5|A Unique History|05.txt
+|Chapter 6|Comparisons Are Odious|06.txt
+|Chapter 7|Our Growing Modesty|07.txt
+|Chapter 8|The Girls of Herland|08.txt
+|Chapter 9|Our Relations and Theirs|09.txt
+|Chapter 10|Their Religions and Our Marriages|10.txt
+|Chapter 11|Our Difficulties|11.txt
+|Chapter 12|Expelled|12.txt

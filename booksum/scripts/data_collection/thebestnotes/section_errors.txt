@@ -1,0 +1,22 @@
+https://web.archive.org/web/20190903025221/http://thebestnotes.com/booknotes/Tale_Of_Two_Cities_Dickens/#expand	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20190903025235/http://thebestnotes.com/booknotes/Little_Women_Alcott/#expand	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20190903025227/http://thebestnotes.com/booknotes/Pride_And_Prejudice_Austen/#expand	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20190903025232/http://thebestnotes.com/booknotes/Ivanhoe_Sir_Walter_Scott/#expand	HTTP Error 404: NOT FOUND
+javascript:ts('body',1)	<urlopen error unknown url type: javascript>
+javascript:ts('body',-1)	<urlopen error unknown url type: javascript>
+https://web.archive.org/web/20170711002031/http://thebestnotes.com/privacy.html	HTTP Error 500: Internal Server Error
+https://web.archive.org/web/20190903025221/http://thebestnotes.com/booknotes/Treasure_Island/#expand	HTTP Error 404: NOT FOUND
+javascript:ts('body',1)	<urlopen error unknown url type: javascript>
+javascript:ts('body',-1)	<urlopen error unknown url type: javascript>
+https://web.archive.org/web/20181215123603/http://thebestnotes.com/privacy.html	HTTP Error 500: Internal Server Error
+https://web.archive.org/web/20210417141554/http://thebestnotes.com/booknotes/Around_The_World_In_80_Days/#expand	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20190903025238/http://thebestnotes.com/booknotes/White_Fang/#expand	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20190903025232/http://thebestnotes.com/booknotes/Invisible_Man_Ellison/#expand	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20190903025232/http://thebestnotes.com/booknotes/Invisible_Man_Ellison/The_Invisible_Man_Study_Guide01.html	HTTP Error 404: Not Found
+https://web.archive.org/web/20190903025232/http://thebestnotes.com/booknotes/Invisible_Man_Ellison/The_Invisible_Man_Study_Guide02.html	HTTP Error 404: Not Found
+https://web.archive.org/web/20190903025232/http://thebestnotes.com/booknotes/Invisible_Man_Ellison/The_Invisible_Man_Study_Guide01.html	HTTP Error 404: Not Found
+https://web.archive.org/web/20190903025232/http://thebestnotes.com/booknotes/Invisible_Man_Ellison/The_Invisible_Man_Study_Guide02.html	HTTP Error 404: Not Found
+https://web.archive.org/web/20190903025235/http://thebestnotes.com/booknotes/Looking_Backward_Bellamy/#expand	HTTP Error 404: NOT FOUND
+javascript:ts('body',1)	<urlopen error unknown url type: javascript>
+javascript:ts('body',-1)	<urlopen error unknown url type: javascript>
+https://web.archive.org/web/20170710200107/http://thebestnotes.com/privacy.html	HTTP Error 500: Internal Server Error

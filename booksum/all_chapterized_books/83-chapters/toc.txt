@@ -1,0 +1,28 @@
+|Chapter 1|The Gun Club|01.txt
+|Chapter 2|President Barbicane's Communication|02.txt
+|Chapter 3|Effect of the President's Communication|03.txt
+|Chapter 4|Reply From the Observatory of Cambridge|04.txt
+|Chapter 5|The Romance of the Moon|05.txt
+|Chapter 6|The Permissive Limits of Ignorance and Belief in the United States|06.txt
+|Chapter 7|The Hymn of the Cannon-Ball|07.txt
+|Chapter 8|History of the Cannon|08.txt
+|Chapter 9|The Question of the Powders|09.txt
+|Chapter 10|One Enemy _V._ Twenty-Five Millions of Friends|10.txt
+|Chapter 11|Florida and Texas|11.txt
+|Chapter 12|Urbi et Orbi|12.txt
+|Chapter 13|Stones Hill|13.txt
+|Chapter 14|Pickaxe and Trowel|14.txt
+|Chapter 15|The Fete of the Casting|15.txt
+|Chapter 16|The Columbiad|16.txt
+|Chapter 17|A Telegraphic Dispatch|17.txt
+|Chapter 18|The Passenger of the Atlanta|18.txt
+|Chapter 19|A Monster Meeting|19.txt
+|Chapter 20|Attack and Riposte|20.txt
+|Chapter 21|How A Frenchman Manages An Affair|21.txt
+|Chapter 22|The New Citizen of the United States|22.txt
+|Chapter 23|The Projectile-Vehicle|23.txt
+|Chapter 24|The Telescope of the Rocky Mountains|24.txt
+|Chapter 25|Final Details|25.txt
+|Chapter 26|Fire!|26.txt
+|Chapter 27|Foul Weather|27.txt
+|Chapter 28|A New Star|28.txt

@@ -1,0 +1,14 @@
+|Chapter 1|Dedication|1.txt
+|Chapter 2|The Coming of Arthur|2.txt
+|Chapter 3|Gareth and Lynette|3.txt
+|Chapter 4|The Marriage of Geraint|4.txt
+|Chapter 5|Geraint and Enid |5.txt
+|Chapter 6|Balin and Balan|6.txt
+|Chapter 7|Merlin and Vivien|7.txt
+|Chapter 8|Lancelot and Elaine|8.txt
+|Chapter 9|The Holy Grail|9.txt
+|Chapter 10|Pelleas and Ettarre|10.txt
+|Chapter 11|The Last Tournament|11.txt
+|Chapter 12|Guinevere|12.txt
+|Chapter 13|The Passing of Arthur|13.txt
+|Chapter 14|To the Queen|14.txt

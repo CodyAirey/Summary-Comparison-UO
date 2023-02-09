@@ -1,0 +1,37 @@
+|Chapter 1|At Break of Day|02.txt
+|Chapter 2|The Christening Party|03.txt
+|Chapter 3|The Editor at Work|04.txt
+|Chapter 4|Theodore Felix|05.txt    
+|Chapter 5|A Journey Southward|06.txt
+|Chapter 6|Janet|07.txt
+|Chapter 7|The Operation|08.txt
+|Chapter 8|The Campaign drags|09.txt
+|Chapter 9|A White Man's "Nigger"|10.txt
+|Chapter 10|Delamere Plays a Trump|11.txt
+|Chapter 11|The Baby and the Bird|12.txt
+|Chapter 12|Another Southern Product|13.txt
+|Chapter 13|The Cakewalk|14.txt
+|Chapter 14|The Maunderings of Old Mrs. Ochiltree|15.txt
+|Chapter 15|Mrs. Carteret Seeks an Explanation|16.txt
+|Chapter 16|Ellis Takes a Trick|17.txt
+|Chapter 17|The Social Aspirations of Captain McBane|18.txt
+|Chapter 18|Sandy Sees His Own Ha'nt|19.txt
+|Chapter 19|A Midnight Walk|20.txt
+|Chapter 20|A Shocking Crime|21.txt
+|Chapter 21|The Necessity of an Example|22.txt
+|Chapter 22|How Not to Prevent a Lynching|23.txt
+|Chapter 23|Belleview|24.txt
+|Chapter 24|Two Southern Gentlemen|25.txt
+|Chapter 25|The Honor of a Family|26.txt
+|Chapter 26|The Discomfort of Ellis|27.txt
+|Chapter 27|The Vagaries of the Higher Law|28.txt
+|Chapter 28|In Season and Out|29.txt
+|Chapter 29|Mutterings of the Storm|30.txt
+|Chapter 30|The Missing Papers|31.txt
+|Chapter 31|The Shadow of a Dream|32.txt
+|Chapter 32|The Storm breaks|33.txt
+|Chapter 33|Into the Lion's Jaws|34.txt
+|Chapter 34|The Valley of the Shadow|35.txt
+|Chapter 35|"Mine Enemy, O Mine Enemy!"|36.txt
+|Chapter 36|Fiat Justitia|37.txt
+|Chapter 37|The Sisters|38.txt

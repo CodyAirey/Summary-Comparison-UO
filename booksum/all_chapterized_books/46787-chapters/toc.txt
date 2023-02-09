@@ -1,0 +1,16 @@
+|Chapter 1|TOWARDS THE PUSH|01.txt
+|Chapter 2|THE OVERTURE OF THE GUNS|02.txt
+|Chapter 3|THE EDGE OF BATTLE|03.txt
+|Chapter 4|ACROSS THE OPEN|04.txt
+|Chapter 5|ON CAPTURED GROUND|05.txt
+|Chapter 6|TAKING PUNISHMENT|06.txt
+|Chapter 7|BLIND MAN'S BUFF|07.txt
+|Chapter 8|OVER THE TOP|08.txt
+|Chapter 9|A SIDE SHOW|09.txt
+|Chapter 10|THE COUNTER ATTACK|10.txt
+|Chapter 11|FORWARD OBSERVING|11.txt
+|Chapter 12|A VILLAGE AND A HELMET|12.txt
+|Chapter 13|WITH THE TANKS|13.txt
+|Chapter 14|THE BATTLE HYMN|14.txt
+|Chapter 15|CASUALTIES|15.txt
+|Chapter 16|PLAY OUT THE GAME|16.txt

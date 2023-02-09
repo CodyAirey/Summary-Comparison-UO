@@ -1,0 +1,62 @@
+<p><b>A Painted House by John Grisham</b></p>	'NoneType' object has no attribute 'text'
+<p><b>A Single Shard by Linda Sue Parker</b></p>	'NoneType' object has no attribute 'text'
+<p><b>A Worn Path by Eudora Welty</b></p>	'NoneType' object has no attribute 'text'
+<p><b>All My Sons by Arthur Miller</b></p>	'NoneType' object has no attribute 'text'
+<p><b>All Over But the Shoutin' by Rick Bragg</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Always Running: La Vida Loca, Gang Days in L.A. by Luis J. Rodriguez</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Atonement by Ian McEwan</b></p>	'NoneType' object has no attribute 'text'
+<p><i>**If the title above is linked, you may click on it to go to that study 
+        guide. If there is no link, we are in the process of adding the online 
+        version. Check back.**</i></p>	'NoneType' object has no attribute 'text'
+<p><b>The Book Thief by Markus Zusak</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Bread Givers by Anzia Yezierska</b></p>	'NoneType' object has no attribute 'text'
+<p><i>**If the title above is linked, you may click on it to go to that study 
+        guide. If there is no link, we are in the process of adding the online 
+        version. Check back.**</i></p>	'NoneType' object has no attribute 'text'
+<p><b>Ceremony by Leslie Marmom Silko</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Coming of Age in Mississippi by Anne Moody</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Crispin: The Cross of Lead by Avi</b></p>	'NoneType' object has no attribute 'text'
+<p><i>**If the title above is linked, you may click on it to go to that study 
+        guide. If there is no link, we are in the process of adding the online 
+        version. Check back.**</i></p>	'NoneType' object has no attribute 'text'
+<p><b>Dracula by Bram Stoker</b></p>	'NoneType' object has no attribute 'text'
+<p><i>**If the title above is linked, you may click on it to go to that study 
+        guide. If there is no link, we are in the process of adding the online 
+        version. Check back.**</i></p>	'NoneType' object has no attribute 'text'
+<p><b>Everyman by Philip Roth</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Fences by August Wilson</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Henry 
+VI, Part 3 by William Shakespeare</b></p>	'NoneType' object has no attribute 'text'
+<p><b>The Hot Zone by Richard Preston</b></p>	'NoneType' object has no attribute 'text'
+<p><b>I Am the Cheese by Robert Cormier</b></p>	'NoneType' object has no attribute 'text'
+<p><b>The 
+Idiot by Fyodor Dostoevsky</b></p>	'NoneType' object has no attribute 'text'
+<p><b>The Illiad by 
+Homer</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Inherit 
+the Wind by Jerome Lawrence &amp; Robert E. Lee</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Into Thin Air by John Krakauer</b></p>	'NoneType' object has no attribute 'text'
+<p><b>One 
+Day in the Life of Ivan Denisovich by Alexander Solzhenitsyn </b></p>	'NoneType' object has no attribute 'text'
+<p><b>Kaffir Boy by Mark Mathabane</b></p>	'NoneType' object has no attribute 'text'
+<p><b>The Lords of Discipline by 
+Pat Conroy</b></p>	'NoneType' object has no attribute 'text'
+<p><b>The Lottery by Shirley Jackson</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Maniac Magee by Jerry Spinelli</b></p>	'NoneType' object has no attribute 'text'
+<p><b>The Miracle Worker by William Gibson</b></p>	'NoneType' object has no attribute 'text'
+<p><b>My 
+Sister's Keeper by Jodi Picoult</b></p>	'NoneType' object has no attribute 'text'
+<p><b>The Namesake by Jhumpa Lahiri</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Nothing But the Truth by Avi</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Number the Stars by Lois Lowry</b></p>	'NoneType' object has no attribute 'text'
+<p><b>On the Road by Jack Kerouac</b></p>	'NoneType' object has no attribute 'text'
+<p><b>The Open Boat by Stephen Crane</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Out of This Furnace by Thomas Bell</b></p>	'NoneType' object has no attribute 'text'
+<p><b>A Painted House by John Grisham</b></p>	'NoneType' object has no attribute 'text'
+<p><b>The Pact: A Love Story by Jodi Picoult</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Rumble Fish by S. E. Hinton</b></p>	'NoneType' object has no attribute 'text'
+<p><b>A Single Shard by Linda Sue Parker</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Water For Elephants by Sara Gruen</b></p>	'NoneType' object has no attribute 'text'
+<p><b>Whale Talk by Chris Crutcher</b></p>	'NoneType' object has no attribute 'text'
+<p><b>A Worn Path by Eudora Welty</b></p>	'NoneType' object has no attribute 'text'
+<p><b>The Yellow Wallpaper by Charlotte Perkins Gilman</b></p>	'NoneType' object has no attribute 'text'

@@ -1,0 +1,15 @@
+|Chapter 1|Mr. Sherlock Holmes|01.txt
+|Chapter 2|The Curse of the Baskervilles|02.txt
+|Chapter 3|The Problem|03.txt
+|Chapter 4|Sir Henry Baskerville|04.txt
+|Chapter 5|Three Broken Threads|05.txt
+|Chapter 6|Baskerville Hall|06.txt
+|Chapter 7|The Stapletons of Merripit House|07.txt
+|Chapter 8|First Report of Dr. Watson|08.txt
+|Chapter 9|The Light upon the Moor|09.txt
+|Chapter 10|Extract from the Diary of Dr. Watson|10.txt
+|Chapter 11|The Man on the Tor|11.txt
+|Chapter 12|Death on the Moor|12.txt
+|Chapter 13|Fixing the Nets|13.txt
+|Chapter 14|The Hound of the Baskervilles|14.txt
+|Chapter 15|A Retrospection|15.txt

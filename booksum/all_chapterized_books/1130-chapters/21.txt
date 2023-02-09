@@ -1,0 +1,14 @@
+SCENE IX.
+                  Another part of the plain
+
+                  Enter ANTONY and ENOBARBUS
+
+  ANTONY. Set we our squadrons on yon side o' th' hill,
+    In eye of Caesar's battle; from which place
+    We may the number of the ships behold,
+    And so proceed accordingly.                           Exeunt
+
+ACT_3|SC_10
+
+
+

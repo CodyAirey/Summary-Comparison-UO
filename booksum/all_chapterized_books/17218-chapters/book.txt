@@ -1,0 +1,5239 @@
+The Project Gutenberg EBook of The Black Cat, by John Todhunter
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Black Cat
+       A Play in Three Acts
+
+Author: John Todhunter
+
+Release Date: December 4, 2005 [EBook #17218]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE BLACK CAT ***
+
+
+
+
+Produced by Michael Ciesielski, Cori Samuel and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+THE BLACK CAT.
+A PLAY IN THREE ACTS BY
+JOHN TODHUNTER.
+FIRST ACTED AT
+THE INDEPENDENT THEATRE IN LONDON.
+
+
+LONDON: HENRY AND CO. 93, ST. MARTIN'S LANE, W.C. 1895
+
+_Printed by Hazell, Watson, & Viney, Ld., London and Aylesbury._
+
+
+
+
+Preface.
+
+
+Mr. Grein has asked me to write a preface to THE BLACK CAT.
+I cannot myself see much occasion for this. Why should an author be
+called upon to make a speech before the curtain? Because, I presume,
+people want to have something to talk about besides the play itself,
+and an author must surely have "views." Well, it is a day of
+views--and of talk.
+
+THE BLACK CAT was produced at the Opera Comique on December
+8th, 1893, at one of the Independent Theatre Society's performances.
+It had a certain _succes d'estime_ before a special audience, for
+whom, however, it was not written; and it has not been performed
+since.
+
+The critics were wonderfully kind. They actually praised the play;
+some reluctantly, some with a reckless enthusiasm which quite
+astonished me. I had expected a much less pleasant reception.
+
+The main objection they made to the thing was that it had a tragic
+ending, which they kindly suggested I had tacked on to my comedy, to
+appeal to the morbid taste of an "Independent" audience.
+Unfortunately I had done nothing of the kind. The play was conceived
+before the Independent Theatre had come into existence. The end was
+foreseen from the beginning; the tragedy being implicit in the
+subject. The tragic motive lay deeper than the death of the heroine,
+who might have been allowed to live, if that last symbolic pageantry
+had not had its dramatic fitness. Given the characters and the
+circumstances, the end is the absolutely right one.
+
+Of course the circumstances might have been altered, and a sort of
+reconciliation patched up between husband and wife. But this would
+be a somewhat flat piece of cynicism, only justifiable on the ground
+taken by the _Telegraph_, that modern actors cannot play, and ought
+not to be expected to play, modern tragedy.
+
+The conventional "happy ending" demanded by sentimental critics to
+suit the taste of sentimental playgoers, the divided parents left
+weeping in each other's arms over the recovered child, would also be
+quite possible. But surely even a modern dramatist may for once be
+allowed to preserve a grain of respect for nature and dramatic art?
+This would be an outrage against both. It would not be decent
+comedy, it would be mere burlesque, as sentimentality always is to
+the judicious.
+
+The only other alternative I see is the exodus of the wife, with or
+without her child; or of the husband, with or without his mistress.
+But this would be rank Ibsenism, and outrage British morality, which
+would be still more dreadful. Only a "practical dramatist" could cut
+the Gordian knot, and at the last moment introduce the erring Mrs.
+Tremaine, still charming in the garb of a Sister of Mercy, to bring
+down the curtain upon a tableau of Woman returning to her Duty, and
+Man to his Morality. And I, alas! am not a "practical dramatist."
+
+Still, if the play had been an experiment, I might have further
+experimented with it, and rehandled its ending. But it was not in
+its main lines an experiment. It was a thing seen and felt; and so
+it must remain, in its printed form, at least--"a poor thing," it
+may be, "but mine own!"
+
+After the performance, came the managers, wanting to see the play,
+and asking why I had not shown it to them before. Well, it never
+occurred to me that any of them would seriously have considered the
+production of a piece so far off the ordinary lines. They had not,
+like the enterprising Director of the Independent Theatre,
+undertaken the dreadful trade of educating the public. As a matter
+of fact, they fought shy of a piece in which "the new hysteria" was
+studied, and which ended badly, or at least sadly.
+
+_A Comedy of Sighs_, produced at the Avenue last spring, _was_
+really an experiment on the taste of the British public. I wished to
+ascertain whether a play depending for its interest rather upon
+character and dialogue than upon plot and sensational situations,
+would be at first tolerated and afterwards enjoyed by an average
+audience. Perhaps the experiment was too audaciously conceived, and
+too carelessly conducted, by both author and management. It was
+unfortunately vitiated by the presence of a prevalent bacillus, the
+British bugbear, in the test-tubes.
+
+The new play was received with inarticulate cries of horror by the
+critics. The _Telegraph_ and the _World_, which had presided in
+auspicious opposition over the birth of THE BLACK CAT, now
+hung terrific in unnatural conjunction in the horoscope of _A Comedy
+of Sighs_. Here was Ibsenism again--nay, worse than Ibsenism,
+Dodoism, Sarah-Grandism, Keynotism, rampant on the English stage!
+For had I not most impudently exhibited _The Modern Woman_ upon it?
+And although there was no tragedy this time, but beautiful
+reconciliation, and return to her Duty at the fall of the curtain,
+was she not there, the Abomination of Desolation?
+
+Now we know that the Modern Woman ought not to exist anywhere,
+therefore she does _not_ exist, therefore she must be stamped out.
+Mrs. Grundy and others have already begun the good work, and have
+been diligently stamping her out ever since; with such success that
+we may hope she will disappear, with infidelity, Ibsenism, the
+struggle for existence, and other such objectionable things.
+Meanwhile she has made her _debut_, and may cry: _J'y suis, j'y
+reste!_
+
+The _Comedy of Sighs_ was slain, waving its tiny flag in the van of
+a forlorn hope; and over its dead body "Arms and the Man," its
+machine-guns volleying pellets of satire, marched to victory.
+
+I do not solace myself with that belief, so comforting to the
+unsuccessful, that a play fails merely because of its goodness, or
+succeeds merely because it is bad; yet it is evident, I think, that
+other things besides its merits or demerits as a piece of dramatic
+writing may turn the scale for or against it. _A Comedy of Sighs_,
+with its somewhat "impressionist" sketches of character, and
+aberrations from the ordinary type of a "well-made play," proved to
+be "too lightly tempered for so loud a wind" as blows upon British
+bugbears--"Modern Women," and the like.
+
+And now may I say a few words with regard to some misconceptions on
+the part of the critics as to my aim in writing these two plays?
+One of them, an enthusiast himself, did me the honour to hail me
+as a brother enthusiast, albeit an erring one. Possibly I am. But
+I have not been trying to educate the public, which is being educated
+past its old standards day by day, without such philanthropic effort
+on my part. I have not been trying to write "literary" plays. I
+quite agree with those who think that a play must be a play first.
+If it be "literature" afterwards, that is an added grace which
+gives it a permanent value. If it be not, still it may be a good
+play in its day and generation. I have not, for the sake of being
+unconventional, deliberately set myself to violate all the received
+canons of dramatic art, as practised by the "practical dramatist,"
+thus making a convention of unconventionality. Unconventional art is
+impossible, and the drama, like other arts, has its conventions. But
+conventions change, and new ones are evolved, as new problems in art
+and other things--even morality itself--come in with each new tide
+of the human imagination. The "well-made play" of the day before
+yesterday is not a canon for all time, even for the most
+conservative playgoer.
+
+No, what I have been trying to do is simply to write a good play. Ah
+yes! But what _is_ a good play? The enthusiastic critic has a ready
+answer: "The play that succeeds, that has a long run, that has money
+in it!" I accept the answer for what it is worth. This potentiality
+of money is, like "literature," an added grace: and it certainly,
+in a sense, marks the survival of the fittest. But there are other
+standards in the great workshop of the artist, Nature. Even the
+plant or play that lives but a short time may cast its seed into the
+soil, or imagination, of its day, and, like Banquo, beget a royal
+race, though not itself a king.
+
+Now, how does such a play as THE BLACK CAT differ from
+those we see succeeding on the stage every day? Really not so very
+much, after all. It merely accentuates a growing tendency in the
+plays of the period to get more of the stuff of life, our every-day
+human life, typically upon the stage; with less of the traditional
+theatrical-academic element. The "well-made play" has itself
+undergone evolution since the days when it was an aphorism that not
+what is said but what is done on the stage is the essential thing.
+This of course is at once true and false, like every other truism.
+Without action there can be no play; and a play may be made fairly
+intelligible without a single spoken word, just as a scene from
+history or fiction may be quite recognisably depicted in a few
+symbolic lines, dots, and dashes, though no single human figure be
+decently drawn.
+
+We must not, however, forget that action itself is language. What is
+called the action of a play is simply a story told by the movements
+of the players. But when we see a man stabbed, or a woman kissed,
+our curiosity is excited. We want to know something more about the
+people whose actions we see. This, indeed, may be roughly told by
+gesture and facial expression, which are themselves language; but,
+finally, to understand more than the barest outline of the story, we
+are forced to demand words. And the more we are interested in human
+nature the more we want to understand the thoughts, emotions,
+motives, characters, of the personages in action before us. Hence by
+gradual steps have come our latest attempts at studies of complex
+characters, in their struggle to solve the problems of life; or what
+are objected to as "problem plays." Well, why object? Every play,
+from _Charley's Aunt_ to _Hamlet_, is a problem play. It is merely a
+matter of degree. Every play deals with the struggle of men and
+women to solve some problem of life, great or small: to outwit evil
+fortune. It may be merely to persuade a couple of pretty girls to
+stay to luncheon in your college rooms, when their chaperon has not
+turned up. It may be something more important.
+
+The more interest the public and the dramatist take in human
+nature--that is to say, the better developed they are as regards
+dramatic sympathy--the more, rich, vivid, and subtle will be the
+play of character and passion, in the drama demanded and produced.
+In a word, the less wooden-pated and wooden-hearted they become, the
+less mechanical and commonplace will their drama be.
+
+We are slowly emerging from the puppet-show conception of drama. Our
+dramatists are beginning to do more than refurbish the old puppets,
+and move them about the stage according to the rules of the
+"well-made" play. They are not content, like their predecessors, to
+leave their characters quite at the mercy of the actor who, in
+"creating" them, gave them whatever small resemblance to humanity
+they may have possessed. And as the play gains in vitality, the
+playwright begins to feel the absolute necessity for writing decent
+dialogue--not mere stage dialect that may be scamped and ranted _ad
+libitum_ by the "star" to suit his own taste, or want of it, but
+real dialogue, which, while ideally reflecting the colloquial
+language of the day, taxes the intelligence and feeling of the actor
+to deliver properly.
+
+This means real progress; for the dialogue is the very life of the
+play. It alone can bring out the essential import of the situation,
+the relation of character to character, at any given moment. An
+action, an incident, may have a thousand different shades of meaning
+or motive. Language, tone, and gesture give it its precise value.
+Plot and situations are at best but the skeleton; character and
+emotion are the flesh and blood. The treatment is everything.
+
+We still want more of life, of the vital movements of our own time,
+upon the stage; and we shall get it by degrees. Sentimental
+melodrama, with its male puppet, who is hero or villain, its female
+puppet, who is angel or devil, may still continue to flourish among
+us; for it still satisfies the natural craving for romance,
+ideality, which the drama is bound to supply. But these things
+belong to a decaying phase of romance; and our so-called realism is
+but the first wave of a new romantic movement, on the stage as
+elsewhere. For when the old ideals become decrepit, we must go back
+to nature to get the stuff wherewith to make new ones.
+
+As our dramatists advance with the times, people begin to go to the
+theatre to see plays, and not merely an actor in a part. The
+"well-made play," which was a piece of mechanical contrivance into
+which the puppets were ingeniously fitted, may some day develop into
+a work of art--a thing born rather than made--growing up like a
+flower in the imagination of the dramatist.
+
+When that day comes, the actor, who used to "create" the part, will
+have to be content to let the part create him. The play will make
+the actor, not the actor the play; to the great benefit of both play
+and actor.
+
+But why be so serious over an art whose end is only to amuse? To
+amuse? Yes; but we are not all equally amused by the same things.
+There may be forms of humour which tickle some people more
+exquisitely than even that magnificent making of tea in an old
+gentleman's hat, which convulses the _Charley's Aunt_ audience. And
+if amusement be the object of the drama, we must take the word in an
+extended sense. I should myself roughly define a good play as one
+that, when adequately performed, can hold the attention of an
+unprejudiced audience from beginning to end, whether it amuses or
+merely interests them. It does not follow that because it may shock,
+or even bore, some worthy people it is a bad play. Even farcical
+comedy bores some people, with whom I cannot sympathise.
+
+And now, if I have been rather hard upon the "well-made play," it
+must not be assumed that it is because I do not value construction.
+I do value it. But it should be vital, not academic, organic, not
+mechanical. Still, even mechanical construction is better than none
+at all. A play without plot is invertebrate, without bones. It is
+at his peril that a dramatist departs from accepted rules, even
+those respecting "strong" curtains and "strong" exits, though in
+certain cases weak curtains and weak exits may be more really
+dramatic. Then, valuable as dialogue is, it may be redundant, and
+make a play "flabby." The actor's rule, that all talk that does not
+carry on the action is bad, is worthy of all due respect. "You
+literary fellows want to say everything twice over," was the shrewd
+criticism of a stage-manager in a certain case. But an actor is
+often so absorbed in his own part that he does not easily estimate
+the bearing of any given speech, even his own, upon the whole play.
+"Cuts" at rehearsal are not unfrequently found to be too hastily
+made. Then, what is the action? Not merely the external incidents,
+but the shifting phases of thought, emotion, character, in the
+_dramatis personae_. It is these that give the incidents their value,
+and so give dramatic interest to the plot, or story. The dialogue
+and the incidents are but two phases of the presentment of the
+story. The action may be rapid or slow, direct, or with episodes.
+All depends upon the treatment; and the play that one audience finds
+detestable may delight another.
+
+If THE BLACK CAT ever again come to the ordeal of the
+footlights, I can only hope that it may find an audience as
+sympathetic as that of the Independent Theatre.
+
+
+    OPERA COMIQUE,
+    STRAND, W.C.
+
+    THE INDEPENDENT THEATRE.
+    FOUNDER AND SOLE DIRECTOR, J.T. GREIN.
+
+    Third Season, Fifteenth Performance.
+
+    _FRIDAY, 8th December, 1893,_
+
+    _THE BLACK CAT,_
+
+    A PLAY IN THREE ACTS, BY
+
+    JOHN TODHUNTER.
+
+
+    DRAMATIS PERSONAE.
+
+    _Arthur Denham_      Mr. BUCKLAW.
+    _Fitzgerald_         Mr. NEVILLE DOONE.
+    _Cyril Vane_         Mr. ORLANDO BARNETT.
+    _Constance Denham_   Miss HALL CAINE.
+    _Blanche Tremaine_   Miss MARY KEEGAN.
+    _Miss Macfarlane_    Miss GLADYS HOMFREY.
+    _Undine_             Miss DORA BARTON.
+    _Jane_               Miss FORRESTER.
+
+
+    _The Play produced under the direction of_
+    Mr. H. DE LANGE.
+
+
+The ACTION of the play takes place in Denham's Studio in
+London, at the PRESENT DAY.
+
+
+
+
+The Black Cat.
+
+
+
+
+Act I.
+
+_Scene: Denham's Studio. Large highlight window in sloping roof at
+back. Under it, in back wall, door to landing. L of the
+door the corner is curtained off for model's dressing-room.
+R of door a large Spanish leather folding screen, which
+runs on castors, shuts off from the door the other corner, in which
+is a "throne," pushed up against the wall. Above the "throne" hangs
+a large square mirror in a carved black frame. In front of the
+"throne" is a light couch of Greek form, without back._
+
+_Fireplace, with chimney-breasts panelled in old oak, and high
+overmantel, in which are shelves and cupboards, L._
+
+_Against R wall an old oak cabinet, with carved cornice,
+and inlaid panelled doors. Close beside it stands on a pedestal a
+bust of Demeter. Near the cabinet, halfway up stage R C,
+an easel, on which is seen the back of a large picture._
+
+_Beyond the fireplace, and at right angles to it, a large sofa, or
+lounge, with square ends and back, broad low seat, loose cushions,
+and valance. In front of the fireplace an armchair, with a book face
+downward on one arm._
+
+_The walls of the studio are distempered in greenish-blue, the
+curtains of the model's dressing-room are in rich yellow plush or
+brocade, the couch and sofa covered in greenish-yellow stuffs._
+
+_Various artistic properties, tapestries, embroideries, etc.,
+hanging up, or thrown carelessly over Chippendale chairs and the
+screen._
+
+_Canvases leaning against the walls, on which hang designs and
+figure-studies in chalk and charcoal, with landscape-studies in oil
+and watercolour, nailed up without much attempt at arrangement._
+
+_Near the front, just R of the armchair, an oblong carved
+oak table, with materials for wood-drawing, paint-box, water in a
+tumbler, etc., is set end on to the footlights._
+
+_At the upper end of this table Undine is discovered, as she sits
+with a slate and arithmetic book before her, her elbows on the
+table, her head supported on both hands, holding a slate pencil from
+which a bit of sponge dangles by a string._
+
+
+Undine.
+
+(_pouting_) I hate these old sums! Mother's always making me do sums
+in the holidays. It isn't fair. Seven times three is--what's father
+reading? (_Rises, and takes up the book._) That's French, I know.
+Father's always reading French. G.Y.P. Gyp? I wonder what it's
+about. (_Puts the book down, sits, yawns, and takes up the pencil._)
+Seven times three is--twenty-one. Put down one and carry two. Oh,
+but it's pence and shillings. I can't do pence and shillings!
+(_Throws down the pencil; it falls off the table._) Horrid old
+things! they're always coming wrong. (_She rises lazily, and stoops
+to pick up the pencil, then looks round her, stretching her arms and
+yawning._) I say, what fun to make a libation to Demeter! I will!
+Let's see. I wish I had mother's Greek dress. I must have one of
+father's rags. This'll do. (_Drapes herself in a piece of
+embroidery, runs up stage, jumps on "throne," and poses before the
+mirror._) It's awfully jolly dressing up. But I have no wine. Oh, I
+know--I'll take some of father's painting water--though it's rather
+black-and-whity. (_Takes up the glass, and approaches the statue._)
+Hail, Demeter! I have no wine for you, but here's some water.
+(_Makes libation._) I suppose I should pray for something now. Oh, I
+do wish you'd stop mother persecuting me in the holidays like this!
+But you can't, you dear old thing. Father says the old gods are
+dead. I wish they'd come alive again. (_Crosses to table._)
+
+(_Enter Denham. Undine drops embroidery, kicks it under the table,
+and sits._)
+
+Denham.
+
+Well, imp, what's up now? (_He comes to the fireplace, and takes a
+pipe from the rack._) Rags again! I shall have to lock them up, I
+see. (_Takes up the embroidery, and throws it over a chair._) Get to
+your work at once! Sit up straight. (_He crosses L, seats
+himself in the armchair, lights his pipe, and takes up the book,
+Undine resumes her crouched position at the table._)
+
+Undine.
+
+(_pouting_) It's very hard to have to do sums in the holidays.
+
+Denham.
+
+(_crosses to table behind Undine_) You are behind your class, you
+know. (_Looking over her._) Well, seven times three?
+
+Undine.
+
+Let's see--twenty-one?
+
+Denham.
+
+And how many shillings in that?
+
+Undine.
+
+I suppose two shillings and one penny.
+
+Denham.
+
+Nonsense! Don't suppose anything so un-English. How many pence in a
+shilling?
+
+Undine.
+
+Twelve--I suppose.
+
+Denham.
+
+Well, twelve from twenty-one leaves--
+
+(_Undine counts on her fingers_)
+
+How many?
+
+Undine.
+
+About eight, I think.
+
+Denham.
+
+Try again, stupid!
+
+Undine.
+
+But, father, I think there _ought_ to be ten pence in a shilling.
+
+Denham.
+
+Why _ought_ there, you monkey?
+
+Undine.
+
+Oh, because then, don't you see, you could count on your fingers all
+right, but now there are too many pennies for your fingers, and so
+you never can tell how many are over.
+
+Denham.
+
+Very convenient. But come now, twelve from twenty-one?
+
+Undine.
+
+(_counting again_) Nine?
+
+Denham.
+
+(_resuming his book_) All right then. Down with it in the pence
+column, and get on.
+
+Undine.
+
+(_kissing him_) Oh, you jolly old father! I should like to do my
+sums with you always.
+
+Denham.
+
+Heaven forbid! Get on! Get on! (_Crosses to chair L._)
+
+(_A pause._)
+
+Undine.
+
+Father! _Father!_
+
+Denham.
+
+H'm!
+
+Undine.
+
+I say, FATHER!
+
+Denham.
+
+Do let me read in peace.
+
+Undine.
+
+But, father--
+
+Denham.
+
+Well?
+
+Undine.
+
+Do the Greeks worship Demeter now?
+
+Denham.
+
+No, not now.
+
+Undine.
+
+The old Greeks were the cleverest people that ever lived, and they
+had the nicest gods. Don't you wish there were goddesses now,
+father? (_Rises, and leans against table._)
+
+Denham.
+
+(_absently_) Yes, of course.
+
+Undine.
+
+Goddesses sometimes fell in love with _people_, father--didn't they?
+
+Denham.
+
+People who didn't happen to be gods? It did occur sometimes, they
+say.
+
+Undine.
+
+And one might fall in love with you, father. That _would_ be fun!
+
+Denham.
+
+That would be awful. But do stop this chatter, and get on.
+
+Undine.
+
+She'd give _me_ all sorts of jolly things.
+
+(_A pause._)
+
+_Mrs. Denham_ (_outside the door_) In a quarter of an hour will do,
+Jane.
+
+Denham.
+
+Here comes mother!
+
+Undine.
+
+Oh, bother these horrid old sums! (_Flops into chair._)
+
+(_Enter Mrs. Denham, with flowers. She comes to the cabinet to place
+them in a vase, and sees the water spilt._)
+
+Mrs. Denham.
+
+What's all this mess? What have you been doing, miss? (_Crosses to
+Undine._)
+
+Undine.
+
+(_rising and standing before her_) Please, mother, I only made a
+libation.
+
+Mrs. Denham.
+
+You naughty, _wicked_ girl! Oh, this wicked, _wicked_ waste of time!
+
+Undine.
+
+(_whimpering_) But, mother, I only--
+
+Mrs. Denham.
+
+Hold your tongue, miss. Don't attempt to make excuses. (_Steps back,
+looks at Undine._) And just _look_ at that pinafore, that was put on
+you clean this morning, and now it is all over dirt! You have been
+climbing trees again.
+
+Undine.
+
+(_whimpering_) I wasn't climbing trees. I only climbed _one_ tree.
+
+Denham.
+
+(_aside_) Well parried!
+
+Mrs. Denham.
+
+Oh, these mean prevarications! If I take my eye off you for a
+moment, you disobey me. But you _shall_ obey me--you shall obey!
+(_Shakes the child; she screams._)
+
+Denham.
+
+Dear! Dear!
+
+Mrs. Denham.
+
+How dare you scream at me like that?
+
+Undine.
+
+(_crying_) But you're hurting me.
+
+Mrs. Denham.
+
+Bear it then, bear it _decently_, without screaming like a beast.
+Have you done your sums?
+
+Undine.
+
+Not all.
+
+Mrs. Denham.
+
+(_looking at sums_) Only one done, and that not right. Oh, this
+_wicked_ waste of time! You are killing me and killing yourself.
+When you waste your time you are wasting your life. Why _will_ you
+waste your time?
+
+Undine.
+
+I don't know.
+
+Mrs. Denham.
+
+Then you must be taught to know.
+
+Denham.
+
+May I say a word? I am chiefly to blame. We were talking about the
+Greek gods.
+
+Mrs. Denham.
+
+Oh well, if _you_ encourage her in her laziness, I can do nothing.
+(_Crosses L as she speaks, then turns suddenly._) Get out
+of my sight, miss! It is time for you to go out now. Go away, and
+take off that pinafore. You are a disgrace to your father and to me.
+(_Gives her a final shake. Undine runs out screaming._) Oh dear! Oh
+dear! There! Listen to that precious daughter of yours, filling the
+house with her yells. (_She presses her hands over her ears._) Oh,
+that child will be the death of me! (_Throws herself down upon the
+couch._) She ought never to have been born. Her existence is a
+mistake and a curse.
+
+Denham.
+
+(_sighing_) Yes, we are all mistakes from the ideal standpoint.
+
+Mrs. Denham.
+
+It makes me mad to think that I--I--should have brought such an
+idiot into the world!
+
+Denham.
+
+Yes, you are an over-populated woman, dear. (_Rises up to her._) The
+modern woman is very easily over-populated.
+
+Mrs. Denham.
+
+You can joke about it, of course. To me it is a serious calamity.
+(_Weeps._)
+
+Denham.
+
+Well, dear, at least we have not repeated our initial mistake.
+(_Crosses to picture._)
+
+Mrs. Denham.
+
+Do you regret it?
+
+Denham.
+
+God forbid! I only regret that our relations were not always
+strictly platonic. That is the highest practical ideal of the
+age--modern woman being what she is.
+
+Mrs. Denham.
+
+Yes, I know you despise me in your heart. You are always sneering at
+me as a modern woman. What do you mean?
+
+Denham.
+
+(_crosses to her_) I agree with Michelet: "_La femme est une
+malade._"
+
+Mrs. Denham.
+
+And what is man?
+
+Denham.
+
+(_sits in armchair_) Oh, a sick creature too--that's the worst of
+it. The world spirit is moulting, and we're all sick together.
+
+Mrs. Denham.
+
+Phrases, phrases, always phrases! When I am most in earnest you put
+me off with a jest.
+
+Denham.
+
+"If I laugh at any mortal thing, 'tis that I may not weep."
+
+Mrs. Denham.
+
+(_sobbing_) I know I have disappointed you; I know you are not
+satisfied with me; I have not made you happy.
+
+Denham.
+
+(_starting up and pacing_) Happy? Give me life! Give me life!
+Happiness can take care of itself. But there is no use in crying
+"Give, give!" like the horse-leech. If we want impossibilities we
+must achieve them. (_Crosses R._)
+
+Mrs. Denham.
+
+You want incompatible things.
+
+Denham.
+
+Of course I do. So do you. Your reason and your instincts are at
+war, just like mine. That is our sickness.
+
+Mrs. Denham.
+
+How at war?
+
+Denham.
+
+Your reason tells you that woman is independent, self-sufficing.
+Your instincts cry feebly for passion, that savage outlaw which
+still lies in wait for the modern woman, to carry her whither she
+would not. Hence your lapse from strict agnostic morality into
+matrimony, bondage, subjection, and the mistake, Undine.
+
+Mrs. Denham.
+
+That child has come between us. I think children often do.
+
+Denham.
+
+Is that one of the _necessary_ horrors of matrimony?
+
+Mrs. Denham.
+
+Heaven help me, that girl drives me mad!
+
+Denham.
+
+Nerves, nerves, as usual. She irritates you, and you irritate her.
+The mere presence of a child sets your teeth on edge. (_Crosses, and
+sits R of table._)
+
+Mrs. Denham.
+
+My brain has been torn to pieces by children all my life. I was a
+slave to my own brothers and sisters, because I was the eldest.
+
+Denham.
+
+That was very hard, I know; but your own child is different, surely?
+
+Mrs. Denham.
+
+You seem to think I don't love her?
+
+Denham.
+
+Not wisely, but too well--as you love me.
+
+(_Re-enter Undine, dressed to go out, and stands just inside door.
+Mrs. Denham rises, and Undine comes slowly towards her._)
+
+Mrs. Denham.
+
+Well, dear, have you washed your hands and face?
+
+Undine.
+
+Yes, mother.
+
+Mrs. Denham.
+
+That's my nice clean little girl. (_She embraces and kisses her._)
+Why does my little girl make mother angry?
+
+Undine.
+
+I don't know.
+
+Mrs. Denham.
+
+Well, kiss father, and go out while it is fine and bright.
+
+Undine.
+
+(_coming behind Denham, and pulling back his head_) Father, I'm
+going to bring you some buttercups, to put on your table and make
+your work look pretty.
+
+Denham.
+
+Thanks, my wee one. And bring me some sunshine in their cups, like a
+good little fairy.
+
+Undine.
+
+I will.
+
+Denham.
+
+(_kissing her_) Good-bye, and now run away.
+
+Undine.
+
+I'll bring you some speedwell, mother.
+
+Mrs. Denham.
+
+(_kissing her_) Thanks, my little Undine.
+
+(_Undine goes out, then peeps back through the door._)
+
+Undine.
+
+And I'll make a daisy chain for Demeter.
+
+Mrs. Denham.
+
+That _will_ be pretty. Good-bye.
+
+Undine.
+
+Good-bye. (_Kisses her hand to Denham._)
+
+(_Exit Undine._)
+
+Denham.
+
+Well, it isn't such a very wicked idiot, after all. Now is it?
+(_Crosses L, and sits._)
+
+Mrs. Denham.
+
+Oh, she is good enough when she hasn't to do what she dislikes.
+(_Crosses back of table._)
+
+Denham.
+
+Children _are_ shockingly human, just like you and me. I wish I
+could cure you of this intense irritability, Constance.
+
+Mrs. Denham.
+
+You have often lost your own temper with her when you have tried to
+teach her anything--often enough. (_Sits L of table._)
+
+Denham.
+
+Yes, it was sheer stupidity. It is a bad educational method. It
+involves loss of dignity on both sides. Be as stern as you please,
+but not furious.
+
+Mrs. Denham.
+
+Furious! (_Rises_) Thank you for the word. (_Crosses R._) I
+know I am making myself hated by her and despised by you; but I must
+do my duty as best I can in the teeth of your cruel criticism. I
+_must_ think of her future.
+
+Denham.
+
+(_rises, and lights pipe_) Oh, damn the future--and the past too!
+You take life too seriously. You are a born self-tormentor, too full
+of anxiety to live. You have the worst form of the great malady of
+the age, conscience in the agnostic form. You suffer from the new
+hysteria.
+
+Mrs. Denham.
+
+I am not hysterical.
+
+Denham.
+
+Pardon me, we are all hysterical nowadays. We have lost our
+self-possession. You don't kick on the hearthrug and that kind of
+thing. A bucket of cold water is not "indicated" in your case.
+
+Mrs. Denham.
+
+It seems to me you are always throwing buckets of cold water over
+me.
+
+Denham.
+
+For heaven's sake, go and reform the world! That is the modern
+woman's true vocation--and cure. Denounce our sensuality and
+selfishness from the platform, as well as from the hearth. They are
+the defects of our qualities. If you don't like us as we are, mould
+us.
+
+Mrs. Denham.
+
+(_approaching_) That is what we are trying to do.
+
+Denham.
+
+Yes. You have not mastered your material yet. Your technique is a
+little crude. (_He resumes his seat in the armchair, and puts down
+his pipe as she comes._)
+
+Mrs. Denham.
+
+(_kneeling beside him_) Why will you push me away from you, Arthur?
+You know I only want to be your wife. You are always implying that
+our marriage is a failure. Why not say it directly?
+
+Denham.
+
+We are creatures of the transition. We have not quite found the new
+centre of equilibrium. Marriage, except as a symbol, is either a
+superfluous bond or the consecration of a mistake. You have taught
+us this great truth, anyhow.
+
+Mrs. Denham.
+
+Why did you get married then?
+
+Denham.
+
+Practically it is still a necessary evil, like war and politics. The
+brute world, howling, forces us into bonds. It is our business to
+adjust them so as to gall us as little as possible.
+
+Mrs. Denham.
+
+(_starting up, crosses R_) If the bonds gall you so much,
+break them. Don't spend your breath in this puling talk. If you are
+tired of me, go! As far as I am concerned, I set you free. Find some
+other woman, if you can, who will be more satisfactory.
+
+Denham.
+
+(_rising, and standing with his back to the fire_) But why one other
+woman? Why not extend my freedom to two?
+
+Mrs. Denham.
+
+Two or a dozen, what is it to me?
+
+Denham.
+
+A dozen, Constance? Do you take me for a Turk? I have often told you
+every man should be content with three wives. More than this verges
+upon polygamy. But blessed is he who finds the three in one!
+
+Mrs. Denham.
+
+Indeed. Have you found that in Gyp?
+
+Denham.
+
+No, not directly; though Gyp fills me with thoughts that do often
+lie too deep for tears. Her cynicism is always illuminating.
+
+Mrs. Denham.
+
+I wish I could say the same of yours. But why three, and not a
+dozen?
+
+Denham.
+
+There are only three possible women in the world, the Divine
+Mistress--
+
+Mrs. Denham.
+
+And the "Divine Matron"--I have heard this sickening cant before.
+
+Denham.
+
+Cant? Philosophy! But don't forget the third, The Divine
+Virgin--Womanhood fashioning itself independently after its own
+ideal. She has driven us, naked and ashamed, into the desert of
+disillusion.
+
+Mrs. Denham.
+
+Truth, truth--let me have truth, though it kill me! Men are cowards;
+they dare not face the naked facts of life.
+
+Denham.
+
+Men are poets. Facts are but the crude stuff of life. Imagination is
+all.
+
+Mrs. Denham.
+
+Oh, if you want romance, had you not better go and look for your
+Divine Mistress? Perhaps you may find some ugly truths in her too.
+
+Denham.
+
+(_laughing_) One woman is surely enough for the purposes of
+disillusion. It is too late to begin sowing one's wild oats. There
+are no dangerous women about. If there were one healthy women in the
+world--(_Crosses to picture._)
+
+Mrs. Denham.
+
+Well?
+
+Denham.
+
+You might have some cause for jealousy.
+
+Mrs. Denham.
+
+You would quit the wreck?
+
+Denham.
+
+If it were really a wreck--perhaps. But why should it be? (_He takes
+her in his arms, and kisses her._) For Heaven's sake, cease to
+wallow in the mud of pessimism! Have faith in yourself and
+Nature--or at least Human-nature.
+
+Mrs. Denham.
+
+Oh, if I could, if I could! (_A knock at the door._)
+
+Denham.
+
+Come in.
+
+(_Enter Jane with a telegram, which she hands to Mrs. Denham._)
+
+Jane.
+
+Please, m'm, a telegram; the boy's waiting!
+
+(_Mrs. Denham tears open the telegram._)
+
+Mrs. Denham.
+
+(_pointing to spilt water_) Just wipe up that water, Jane, and push
+back this table. (_Jane wipes up water, moves table against
+R, wall, and takes away Undine's slate and book._)
+
+Mrs. Denham.
+
+(_reads_) "In town; will call this afternoon."
+
+Jane.
+
+Is there any answer, m'm?
+
+Mrs. Denham.
+
+No answer. (_Exit Jane._) Arthur! this is from Blanche Tremaine. She
+is in town, and comes here to-day. Let me see; it must be more than
+ten years since we've met--before we were married.
+
+Denham.
+
+Blanche Tremaine? Who is she?
+
+Mrs. Denham.
+
+My old class-fellow at our college in town. She played in our Greek
+play. She was just seventeen then.
+
+Denham.
+
+Younger than you?
+
+Mrs. Denham.
+
+Two years. Yes; she must be about eight-and-twenty now. You know I
+told you about her. She married a Mr. Overton.
+
+Denham.
+
+Overton? I seem to have heard the name. Didn't she run away from her
+husband, or something?
+
+Mrs. Denham.
+
+Yes, poor thing! He led her an awful life.
+
+Denham.
+
+Oh, and then she married the co-respondent! I remember.
+
+Mrs. Denham.
+
+What an interest you take in these scandals!
+
+Denham.
+
+Of course, dear. A scandal is a typical case of the great social
+disease.
+
+Mrs. Denham.
+
+She promised to be handsome.
+
+Denham.
+
+I wonder whether this woman is a weak fool, or a bold experimenter
+in the art of life?
+
+Mrs. Denham.
+
+How so?
+
+Denham.
+
+Why, having had the courage to come down from the cross, should she
+go back to it again?
+
+Mrs. Denham.
+
+What cross?
+
+Denham.
+
+What is woman's cross from the foundation of the world but man, man?
+The cords are the bonds of marriage, her children are the nails, and
+love her crown of thorns.
+
+Mrs. Denham.
+
+Very poetical, no doubt.
+
+Denham.
+
+Bitter truth, as you are never tired of demonstrating to me. Do you
+think the unfortunate cross has not had his share of the torment?
+
+Mrs. Denham.
+
+Too light a share for his tyranny, cruelty, and, above all, his
+_mean_ hypocrisy. May he burn in some spiritual fire for that!
+
+Denham.
+
+So he does; it runs in his veins. Well, something better may come of
+it, some day. By-the-bye, I expect some men to see my picture.
+
+Mrs. Denham.
+
+Brynhild?
+
+Denham.
+
+Yes, such as she is. (_Crosses_ R, _and looks at the
+picture._) Another failure, of course. (_Sighs._)
+
+Mrs. Denham.
+
+Why will you always speak of your work so despondently?
+
+Denham.
+
+Because I want to do better. Vanity, I suppose. (_He comes back
+towards the fireplace._)
+
+Mrs. Denham.
+
+Just move out this sofa. (_They move sofa to_ C.) Who are
+coming?
+
+Denham.
+
+Oh, Fitzgerald, of course, and possibly Cyril Vane.
+
+Mrs. Denham. That little creature? You know I detest him.
+
+Denham.
+
+Why _little_? Do you estimate men of genius by the pound?
+
+Mrs. Denham.
+
+Men of genius, indeed? The man has a second-hand intellect.
+
+Denham.
+
+Really, you sometimes say a good thing--that is, an ill-natured one.
+How you hate culture! (_Enter Jane, showing in Fitzgerald._)
+
+Jane.
+
+Mr. Fitzgerald! (_Exit Jane._)
+
+(_Fitzgerald saunters up to Mrs. Denham, stops suddenly, straddling
+his legs, and shakes hands loosely and absently._)
+
+Fitzgerald.
+
+Lovely day, eh? Have you heard the news?
+
+Denham.
+
+We never have heard the news.
+
+Mrs. Denham.
+
+You are the only gossip who comes our way.
+
+Fitzgerald.
+
+(_good-humouredly_) Gossip, eh? Oh, you needn't think I mind being
+denounced from your domestic altar, Mrs. Denham! I know you're dying
+to hear the last bit of scandal.
+
+Mrs. Denham.
+
+Take pity on me then.
+
+Fitzgerald.
+
+I know this'll interest you awfully. Pottleton Smith's wife's run
+away at last. Now wasn't I right? (_Looks smilingly at both for
+sympathy._) I always said she would, you know.
+
+Mrs. Denham.
+
+Poor silly little flirt! I'm very sorry.
+
+Fitzgerald.
+
+(_rubbing his hands_) I'm--I'm awfully glad. It'll be the saving of
+poor Smith. Though he's awfully cut up about it, of course.
+
+Denham.
+
+Did she run away with--any one in particular?
+
+Fitzgerald.
+
+A Captain Crosby or Cosby, or something. He's in some horse
+regiment, the cavalry or something. He's--he's an awful scamp, a
+blackleg and all that, but an awfully nice fellow. I met him at
+Smith's the other day, and they--they--they were carrying on all the
+time under poor little Smith's nose. (_He saunters absently to the
+easel and looks at the picture._) The picture--eh? It's--it's
+awfully good, you know--an advance on your last.
+
+(_During this speech Denham also goes to the easel._)
+
+Mrs. Denham.
+
+Don't you think so?
+
+Fitzgerald.
+
+Yes, it's an advance, decidedly. What is it, eh? I forget.
+
+Denham.
+
+Brynhild.
+
+Fitzgerald.
+
+Oh, Brynhild! The horse is awfully good, you know--savage and that;
+but the woman isn't ugly enough--at least, you haven't quite got the
+right kind of ugliness, eh?
+
+Denham.
+
+Unfortunately I meant her to be beautiful.
+
+Mrs. Denham.
+
+(_smiling_) And I gave him some sittings, Mr. Fitzgerald.
+
+Fitzgerald.
+
+(_with a genial laugh_) Did you, now? Well, he tried to improve on
+you--that was it. (_With great conviction to Denham._) But--but
+surely you're wrong in that. Brynhild was an ugly, passionate woman.
+The passionate woman is always ugly. The passionate woman has
+character, and character is always ugly.
+
+Denham.
+
+Yes, I know what you mean. But I thought--no, the thing's a failure.
+Don't bother about it, but come and sit down. Have a cigarette?
+(_Gives him a cigarette._)
+
+Fitzgerald.
+
+Thanks.
+
+(_They sit down, Fitzgerald lights cigarette, and puffs solemnly
+before he speaks again._)
+
+Mrs. Smith (_puff_), you didn't know her well? Did you, Mrs. Denham?
+(_Puff._)
+
+Mrs. Denham.
+
+No--not well.
+
+Fitzgerald.
+
+You know I painted her portrait (_looks at lighted end of
+cigarette_), portrait (_leans back in his chair, replaces cigarette
+in his mouth, and puffs again. Then putting his hands behind his
+head, he stretches out his legs, and looks at the ceiling_), so I
+knew her like my own sister. (_Puff._) She was a pretty little devil
+(_puff_), awfully aristocratic, mind you, vulgar, of course,
+an'--an' poor refined little Smith just _didn't_ drop his H's.
+(_Puffs, chuckles to himself._) Yes, she was a born jade. (_Puff._)
+I--I liked her awfully. (_Puff._)
+
+Mrs. Denham.
+
+You seem to like every one awfully.
+
+Fitzgerald.
+
+(_with fervour, sitting up in his chair, and flinging away his
+half-smoked cigarette_) So I do. I enjoy the Human Comedy. Now you
+don't enjoy the Human Comedy a bit.
+
+Mrs. Denham.
+
+It comes too near me.
+
+Denham.
+
+A cab at the door; this may be Vane. (_Crosses_ L _to
+fire._)
+
+Fitzgerald.
+
+Vane? That's splendid! He cuts me dead now, because I reviewed his
+last Society Verses, with some other men's, under the head, "Our
+Minor Poets," in _Free Lances_.
+
+Denham.
+
+Oh, an editorial? Serves you right, you Jack-of-all-trades. How if
+some brother Minor Critic were to class you as a Minor Painter?
+
+Fitzgerald.
+
+For Heaven's sake introduce me to him.
+
+(_Enter Jane, showing in Vane._)
+
+Jane.
+
+Mr. Vane!
+
+(_Exit Jane._)
+
+(_Vane shakes hands languidly with Mrs. Denham and Denham, and
+stares at Fitzgerald, who smiles genially._)
+
+Denham.
+
+Ah, Vane, glad to see you.
+
+Vane.
+
+How d'ye do? Ah, Mrs. Denham, that tea-gown is charming.
+
+Mrs. Denham.
+
+Flattery from you, Mr. Vane, is more than flattery. Pray excuse me
+for a moment.
+
+(_Exit Mrs. Denham._)
+
+Denham.
+
+Fitzgerald, you know Vane, of course?
+
+Fitzgerald.
+
+Upon my word I scarcely know. _Do_ we know each other, Vane?
+
+Vane.
+
+My dear Fitzgerald, when will you learn that you can never know me?
+(_Crosses to picture._)
+
+Fitzgerald.
+
+Then, my dear Vane, I must learn to be resigned. (_Fitzgerald turns
+away, and takes up Gyp. Vane looks at the picture._) What's this?
+"Autour du Marriage," eh? (_Opens book, and reads, then lies on
+sofa, still reading._)
+
+Vane.
+
+Ah, the Brynhild! My dear Denham, why _will_ you do such things?
+
+Denham.
+
+What have I done?
+
+Vane.
+
+Not what you have tried to do--to paint an epic picture.
+
+Denham.
+
+Is that wrong?
+
+Vane.
+
+Worse than wrong; it is a _betise_. (_Comes to fire, and stands with
+his back to it._) You might as well try to write a long poem. Such
+things are certainly _long_, and as certainly not _poems_. That huge
+thing is not a picture.
+
+Denham.
+
+Ah, you write quatrains. Should no poem exceed four lines?
+
+Vane.
+
+Not only should not, but in our present state of development,
+_cannot_. The quatrain is the analogue of the Greek gem, the
+_consummate_ flower of the national art of the period. It will take
+at _least_ a century to perfect and exhaust it. Have you seen my
+book, "Three Quatrains"?
+
+Denham.
+
+No; have you published it lately?
+
+Vane.
+
+My dear Denham! I never _publish_ anything. In a wilderness of
+mediocrity obscurity is fame.
+
+Denham.
+
+Yes, a well-advertised obscurity. But surely you _have_ published
+poems?
+
+Vane.
+
+Where have you lived, my dear fellow? I breathe a poem into the air,
+and the world hears. If some one prints it, can I help it? One does
+not print, wake, and become famous; one becomes famous, and the
+world awakes, cackles, and prints one.
+
+Fitzgerald.
+
+By-the-bye, Vane, there's a quatrain in your "In the House of
+Hathor" I wanted to ask you about.
+
+Vane.
+
+Which?
+
+Fitzgerald.
+
+Let me see--it begins:
+
+    "I saw a serpent in my Lady's heart,"--
+
+Vane.
+
+Ah! spare me the torment of hearing--
+
+Fitzgerald.
+
+Your own lines?
+
+Vane.
+
+_Mur_-dered!
+
+    "I saw the serpent of my Lady's heart,
+    Lovely and leprous; and a violet sigh
+    Shook the wan, yellowing leaves of threnody,
+    Bruised in the holy chalice of my Art."
+
+Fitzgerald.
+
+Ah yes! I didn't quite catch the meaning.
+
+Vane.
+
+Meaning? It is a piece of _mu_-sic, in which I have skilfully
+e-_lu_-ded ALL _meaning_.
+
+Fitzgerald.
+
+Oh, I see! (_Resumes his book._)
+
+Denham.
+
+(_to Vane_) Have a cigarette? (_Denham offers him a cigarette; he
+takes one absently, then lets it drop back into the box._)
+
+Vane.
+
+Thanks, no--I never smoke. It has become so vulgar.
+
+Denham.
+
+Really? What do you do then--_absinthe_?
+
+Vane.
+
+For the purposes of art it is antiquated. (_He sighs._) I have tried
+_haschish_.
+
+Denham.
+
+Well?
+
+Vane.
+
+Without distinct results--for one's style, that is.
+
+Denham.
+
+Oh!
+
+Vane.
+
+One sometimes sees oneself inventing the Narghile. It involves the
+black slave, of course, and might lead to a true retrogressive
+progress--even to the _Harim_. One pities the superfluous woman,
+there are so many about.
+
+Denham.
+
+Yet Mormonism seems to be a failure.
+
+Vane.
+
+It was so _dreadfully_ upholstered!
+
+Denham.
+
+The _Harim_ would be a new field for the collector. How prices would
+run up!
+
+Vane.
+
+Ah, Denham, never touch a dream with the vulgarity of real things!
+(_Crosses to picture._)
+
+(_Fitzgerald, who has been reading Gyp, suddenly comes forward with
+the book in his hand, and breaks in._)
+
+Fitzgerald.
+
+This Gyp's _awfully_ good. Who is he, eh?
+
+Vane.
+
+(_with patient scorn_) A woman!
+
+Fitzgerald.
+
+(_with conviction_) To be sure! That makes it--splendid! (_Chuckles
+to himself, sits again on sofa, and goes on reading._)
+
+Vane.
+
+(_looking at picture_) Will you never learn to be an _artist_,
+Denham? The modern picture should be a painted quatrain, with
+colours for words--words which say nothing, because everything has
+been said, but which _suggest_ all that has been felt and dreamed.
+Art is the initiation into a mood, a mystery--a sphinx whose riddle
+every one can answer, yet no one understand.
+
+Fitzgerald.
+
+(_shutting the book on his finger_) Bravo, Vane! 'Pon my word, I
+begin to believe in you.
+
+Vane.
+
+I can endure even that.
+
+Denham.
+
+I am on the wrong tack then?
+
+Vane.
+
+My dear fellow, look at that canvas. What a method! You are like an
+amateur pianist who tries laboriously to obtain tone, without having
+mastered the keyboard. One cannot _blunder_ into great art. Only
+Englishmen make the attempt. You are a nation of amateurs. (_He
+turns away, and sees a sketch on the_ L _wall_) Did you do
+this?
+
+Denham.
+
+My brush did it somehow.
+
+Vane.
+
+Ah! this is exquisite--or would be if you could paint. Why, _why_
+not learn the technique of your art, and make these notes of a mood,
+a moment, so as to give real delight?
+
+Denham.
+
+Upon my word, Vane, you are right. That sketch is worth a wilderness
+of Brynhilds. But look here! (_Crosses to picture. He opens a pocket
+knife, and makes a long cut across the figure of Brynhild._) There
+goes a year's work.
+
+Fitzgerald.
+
+(_rising_) By Jove!
+
+Vane.
+
+My dear fellow, I congratulate you. The year's work is not thrown
+away--now. (_Re-enter Mrs. Denham._)
+
+Mrs. Denham.
+
+Oh, Mr. Vane, what have you made him do?
+
+Vane.
+
+My dear Mrs. Denham, I have saved your husband's reputation for a
+few months at least. He cannot do anything so _consummately_ bad in
+_less_. Pray, pray, do not try to understand art! Women never can;
+they have not yet developed the sixth sense--the sense of _Beauty_.
+But I must really tear myself away.
+
+(_Mrs. Denham sits gloomily on throne, ignoring Vane._)
+
+Denham.
+
+Won't you stay and have some tea?
+
+Vane.
+
+Thanks, no. Lady Mayfair made me promise to go and hear her new
+tenor. One knows what one has to expect, but one goes.
+
+(_Enter Jane, showing in Miss Macfarlane._)
+
+Jane.
+
+Miss Macfarlane!
+
+(_Miss Macfarlane shakes hands with Mrs. Denham and Denham, and nods
+to Fitzgerald and Vane._)
+
+Miss Macfarlane.
+
+How d'ye do, Fitz? Ah, Vane! you here? Don't run away.
+
+Vane.
+
+Unfortunately I must. The wounds of our last encounter are not yet
+healed.
+
+Miss Macfarlane.
+
+Pshaw, man! _I_ don't use poisoned weapons.
+
+Vane.
+
+Ah, Miss Macfarlane, the broadsword is very effective in your hands!
+(_Going._)
+
+Fitzgerald.
+
+Oh, Vane, will you dine with me at the Bohemians on Friday? I want
+you to hear--
+
+Vane.
+
+The Bohemians? Impossible!
+
+Fitzgerald.
+
+You'll see life, at any rate.
+
+Vane.
+
+My dear fellow, I _have_ seen life. _Don't_ ask me to see it again.
+It is a painful spectacle. Adieu!
+
+(_Exit._)
+
+Miss Macfarlane.
+
+(_looking at picture_) Why, what's all this?
+
+Mrs. Denham.
+
+Arthur, I shall never forgive you for destroying your picture--just
+because that wretched little creature was spiteful about it.
+
+Denham.
+
+Pooh! He wasn't spiteful. He only told me the truth about it, in his
+own jargon. I knew it already.
+
+Miss Macfarlane.
+
+Oh, but it's none so bad, my dear boy--if it's a failure, it's a
+good wholesome failure. (_Crosses_ L _to fire._)
+
+(_Enter Jane, showing in Mrs. Tremaine._)
+
+Jane.
+
+Mrs. Tremaine! (_Exit Jane._)
+
+Mrs. Denham.
+
+My dear Blanche!
+
+Mrs. Tremaine.
+
+My dear Constance! (_They embrace._)
+
+Mrs. Denham.
+
+My husband, Mrs. Tremaine. Miss Macfarlane, Mr. Fitzgerald. (_She
+introduces them._)
+
+Fitzgerald.
+
+(_thrusting the book into his side pocket_) Well, I must run away.
+(_Crosses_ C.)
+
+Denham.
+
+Must you go?
+
+Fitzgerald.
+
+Yes--I've--I've a lot of things to do. Good-bye. (_Shakes hands
+absently._)
+
+Denham.
+
+Oh, Fitz, I want to show you something. Will you excuse me for a
+moment, Mrs. Tremaine?
+
+(_Exeunt Denham and Fitzgerald._)
+
+Mrs. Denham.
+
+Do sit down, and let us have a little quiet talk.
+
+(_They sit down. Mrs. Denham crosses and sits on sofa_ R;
+_Mrs. Tremaine on sofa_ L, _and Miss Macfarlane in armchair
+by fire, quietly observe each other._)
+
+You are looking splendidly, Blanche.
+
+Mrs. Tremaine.
+
+Yes, I'm in very good form. But you're not looking well--rather
+pale, you know.
+
+Mrs. Denham.
+
+I'm a little tired, that's all. I am so glad to see you again. Why
+have you quite given me up?
+
+Mrs. Tremaine.
+
+Well, you see, I have been rather making a mess of my life, and I
+have not been much in town. Besides, I was a little shy about
+coming, after--all my escapades.
+
+Mrs. Denham.
+
+You know I'm not a censorious person, Blanche. I don't think our
+conventional morality very admirable, and I never adored the patient
+Griselda.
+
+Mrs. Tremaine.
+
+You don't know how I feel your kindness, Constance. I have had a
+hard time of it, so far; but now I have taken my life into my own
+hands, and I mean to live it out.
+
+Mrs. Denham.
+
+But your husband? You married again, did you not?
+
+Mrs. Tremaine.
+
+Yes. Fancy a woman making that mistake twice! But, you see, I was in
+an equivocal position. I had left my first husband, Miss Macfarlane;
+I don't want to conceal my misdeeds.
+
+Miss Macfarlane.
+
+Oh, don't expect paving stones from an old woman like me! I judge
+every case on its own merits. I know what men are, though I've been
+content to gain my experience at my friends' expense. I tell ye I
+know more about the ins and outs of marriages than most married
+women, just as the curler on the bank sees most of the game. You
+mayn't have been anything worse than a fool, and ye mayn't have been
+even that.
+
+Mrs. Tremaine.
+
+Thank you. I was a fool, of course. You see, my first marriage was a
+mistake altogether. It was my mother's doing. I knew nothing of
+marriage, or love either, for that matter. That came afterwards,
+and--all the scandal.
+
+Miss Macfarlane.
+
+And may I ask, young woman, have you run away from your second
+husband? You say that marriage was a mistake too.
+
+Mrs. Tremaine.
+
+No; he is dead now.
+
+Miss Macfarlane.
+
+But you don't--(_Looks at her dress._)
+
+Mrs. Tremaine.
+
+No, I don't _afficher_ eternal bereavement. We were separated for
+two years.
+
+Mrs. Denham.
+
+Poor Blanche! Then it was not a success?
+
+Mrs. Tremaine.
+
+No; it was not a success.
+
+Miss Macfarlane.
+
+Well, we mustn't ask why?
+
+Mrs. Tremaine.
+
+Oh, I'm in the humour for confession. I think you can understand. We
+got on well enough while I was--free. But he did the chivalrous
+thing--asked me to marry him; and I was glad enough to scramble back
+to the platform of respectability.
+
+Miss Macfarlane.
+
+Well, I understand that, anyhow.
+
+Mrs. Tremaine.
+
+That seemed to kill the romance, such as it was. I need not go into
+the sordid details, but we quarrelled finally about money--my
+money. My husband took to gambling in stocks. But I have managed to
+keep my little pittance, fortunately. Well, that is enough of my
+affairs. Have you any children, Constance?
+
+Mrs. Denham.
+
+One little girl, just nine. Have you any?
+
+Mrs. Tremaine.
+
+No--none.
+
+Miss Macfarlane.
+
+A woman who has had such unpleasant experiences ought to hate and
+despise men. But of course _you_ don't?
+
+Mrs. Tremaine.
+
+(_laughing_) No--I don't think I hate men exactly. I despise some
+men heartily.
+
+Miss Macfarlane.
+
+They're gey ill to live wi', eh?
+
+Mrs. Tremaine.
+
+I don't think marriage suits me, somehow. I suppose it suits some
+people. But I think it often tends to reduce them to a dead level of
+commonplace. The artificial bond makes people too sure of each
+other. It does not do to take love too much for granted, I think.
+
+(_Re-enter Denham._)
+
+Mrs. Denham.
+
+Well, Arthur, have you got rid of Mr. Fitzgerald?
+
+Denham.
+
+Yes--I'm so glad to have made your acquaintance, Mrs. Tremaine.
+
+Mrs. Tremaine.
+
+Thanks. It is so pleasant meeting unconventional people.
+
+Miss Macfarlane.
+
+(_Rising_) Eh! we've all been getting solemn and lugubrious. I must
+be going, my dear. Won't you show me your drawing-room? (_Mrs.
+Denham rises._) You wanted my advice about curtains, didn't you?
+
+Mrs. Denham.
+
+Will you excuse me, Blanche? We are refurnishing our drawing-room. I
+don't want _you_ to come just yet. Arthur will entertain you.
+
+Denham.
+
+Oh, with pleasure! (_Exeunt Mrs. Denham and Miss Macfarlane._) How
+do you think Constance is looking, Mrs. Tremaine? (_Draws chair
+over, and sits near her._)
+
+Mrs. Tremaine.
+
+It struck me she was looking rather worn and ill.
+
+Denham.
+
+I'm afraid she is.
+
+Mrs. Tremaine.
+
+She has let herself run down too much. Does she go in for
+exercise--tennis or anything?
+
+Denham.
+
+Nothing of the kind, I am sorry to say.
+
+Mrs. Tremaine.
+
+Oh, I could not live without exercise! I used to ride while I could
+afford it, and I always try to do gymnastics or something.
+
+Denham.
+
+I'm sure you're right. Do you intend to stay in town now?
+
+Mrs. Tremaine.
+
+Yes, I hope to get some work. I have enough income to keep me going;
+but I want some real employment.
+
+Denham.
+
+Quite right. (_Rises, and puts log of wood on fire, then stands with
+tongs in his hand and looks at her; puts down tongs._) Well, until
+you get something that suits you, I wish you would give me some
+sittings. I'll give you the regular model's wages--a shilling an
+hour--no, I'll give you two--two shillings an hour--there!
+
+Mrs. Tremaine.
+
+Thank you, it is a generous offer. I have sat before without the
+shillings, and will again with pleasure--if you will promise to talk
+to me?
+
+Denham.
+
+I won't promise, but I shall talk all the same. So you have sat
+before?
+
+Mrs. Tremaine.
+
+Yes, artists seem to like painting me; I don't know why. I don't
+profess to be a beauty.
+
+Denham.
+
+Of course no woman is beautiful; but some women have the art of
+persuading you that they are. You have this art.
+
+Mrs. Tremaine.
+
+(_laughing_) Really you are very polite. Am I to take that as a
+compliment?
+
+Denham.
+
+No, as sincere praise. I am never polite to people I like, and I
+like you.
+
+Mrs. Tremaine.
+
+Thanks. I like to be liked; and I can forgive your want of
+politeness, if you are never more brutally rude than you have been.
+I suppose I am to take it as the rudeness of a man of genius?
+
+Denham.
+
+No--like all unsuccessful people who worry themselves over art--I am
+only a man of _some_ genius--a very different thing, I assure you.
+
+Mrs. Tremaine.
+
+Are _you_ unsuccessful?
+
+Denham.
+
+A man who paints pictures that please only his wife is surely
+unsuccessful? But I don't want to bore you with myself. It only
+means that I feel we are friends already.
+
+Mrs. Tremaine.
+
+You don't know how pleasant it is to be with people who don't look
+upon me as a dreadfully wicked woman.
+
+Denham.
+
+No doubt, like all persons of distinction, you belong to the
+criminal classes; but we are all emancipated here.
+
+(_Re-enter Mrs. Denham and Miss Macfarlane, who goes straight to the
+fire as she speaks._)
+
+Mrs. Denham.
+
+Oh, Arthur, that precious black cat of yours!
+
+Miss Macfarlane.
+
+We've settled the curtains, now for the cat.
+
+Denham.
+
+What has he been doing now?
+
+Mrs. Denham.
+
+In the larder again. Really that beast must be got rid of. I will
+not stand such abominations any longer.
+
+Denham.
+
+Well, don't ask me to be executioner, that's all.
+
+Mrs. Tremaine.
+
+But surely you're not going to kill a black cat? It is awfully
+unlucky.
+
+(_Miss Macfarlane keeps Mrs. Tremaine under observation._)
+
+Denham.
+
+Are you superstitious?
+
+Mrs. Tremaine.
+
+I suppose I am. Those peacock feathers made me shiver when I came
+in.
+
+Mrs. Denham.
+
+Are peacock's feathers unlucky?
+
+Mrs. Tremaine.
+
+Yes; didn't you know that?
+
+Mrs. Denham.
+
+No.
+
+Denham.
+
+Constance is not superstitious. It is her worst fault. A little
+superstition gives colour to life.
+
+Mrs. Tremaine.
+
+Do let _me_ take the cat, Constance!
+
+Mrs. Denham.
+
+I am sure you are welcome to the beast.
+
+Denham.
+
+Thanks, Mrs. Tremaine.
+
+Mrs. Denham.
+
+Arthur, take Mrs. Tremaine down to have some tea.
+
+Denham.
+
+Will you come, Mrs. Tremaine?
+
+(_Exeunt Denham and Mrs. Tremaine._)
+
+Miss Macfarlane.
+
+(_retaining Mrs. Denham_) My dear, beware of that woman! (_Crosses
+to Mrs. Denham._)
+
+Mrs. Denham.
+
+Of Blanche--why?
+
+Miss Macfarlane.
+
+Ye have a husband, that's all.
+
+Mrs. Denham.
+
+But you don't suppose--
+
+Miss Macfarlane.
+
+Eh, I suppose nothing. But that woman loves men. I can see it with
+half an eye.
+
+Mrs. Denham.
+
+If my husband does not love me, let him leave me. (_Crosses
+C._)
+
+Miss Macfarlane.
+
+Fiddlesticks, my dear; don't go in for heroics. Of course he loves
+you. Does it follow he can't love another woman into the bargain?
+They think they can, at any rate.
+
+Mrs. Denham.
+
+I don't care for such love.
+
+Miss Macfarlane.
+
+Of course not. But in this world we must make sure of what we can
+grab; and then we can grab a bit more, and a bit more, maybe.
+
+Mrs. Denham.
+
+I can trust my husband.
+
+Miss Macfarlane.
+
+(_coming to Mrs. Denham_) Right; but don't trust him into
+temptation. Mind you, she's charming. Men haven't been flogged into
+constancy, as we have. Remember that. I'm not old-maidish, my dear,
+though I've escaped holy matrimony. I don't profess hatred of men,
+they're none so much worse than we are; but they're different,
+and--pardon my strong language--they're damnably brought up. (_They
+go up stage towards door._) Beware of that woman, I tell ye. Don't
+let her get a footing here. And now, give me some tea.
+
+
+ACT DROP.
+
+
+
+
+Act II.
+
+_Scene: The Studio. Denham discovered at easel near the front
+R, a small table with colours, etc., beside him, painting
+Mrs. Tremaine, in a black evening dress. She sits in a chair upon
+the "throne" a piece of tapestry behind her, up the stage
+L. Oak table against L wall, above fireplace._
+
+
+Denham.
+
+Head a little more up. No, I don't want you like that.
+
+Mrs. Tremaine.
+
+Come and pose me then.
+
+Denham.
+
+All right. (_He poses her, then goes back to the easel._) By Jove!
+this is getting serious. This is the best thing I have done.
+
+Mrs. Tremaine.
+
+So you say of them all. This is the third attempt. How many more do
+you intend to make?
+
+Denham.
+
+Oh, I don't know! I should like to go on as long as I could make
+headway. (_He paints in silence for some time._) There, I am getting
+something I never got before--the real woman at last.
+
+Mrs. Tremaine.
+
+May I see?
+
+Denham.
+
+For Heaven's sake, don't stir! (_Paints again._) Blanche!
+
+Mrs. Tremaine.
+
+Well?
+
+Denham.
+
+Do you know I was a fool, to say you were not beautiful?
+
+Mrs. Tremaine.
+
+You only spoke the truth.
+
+Denham.
+
+It is a higher truth to say you are; and you seem to have grown
+_more_ beautiful this last month.
+
+Mrs. Tremaine.
+
+Oh, I am happier now!
+
+Denham.
+
+Happier?
+
+Mrs. Tremaine.
+
+Yes. You don't know what an oasis this studio has been to me. I
+shall be sorry to go back to the desert.
+
+Denham.
+
+Well, I never had a better model. I have learnt a lot since I began
+to paint you.
+
+Mrs. Tremaine.
+
+I am so glad if I have been of any use. Have you ever painted
+Constance?
+
+Denham.
+
+I have tried; but she's a fidgety sitter, and always looks like an
+incarnation of despair. (_He approaches her._) May I arrange these
+folds a little?
+
+Mrs. Tremaine.
+
+Certainly.
+
+Denham.
+
+(_arranging skirt of dress_) That will do. The fan so--head a
+_little_ more to the left--so. (_He goes back, and paints in silence
+again._) This is coming splendidly. I dare not do much more to the
+head.
+
+Mrs. Tremaine.
+
+Can you finish it to-day?
+
+Denham.
+
+As much as I can finish anything. (_Paints again in silence._) I
+wish Constance had some of your reposeful quality. I can't think
+what ails her. She gets more irritable and pessimistic every day.
+
+Mrs. Tremaine.
+
+Perhaps you irritate her.
+
+Denham.
+
+I? But, good heavens!--(_Stops painting, and looks at her._)
+
+Mrs. Tremaine.
+
+Yes, I know. You think you are very patient, while you treat her
+with a--what shall I say?--a sort of contemptuous respect.
+
+Denham.
+
+Really? I am sorry if it seems so. I wish I could rouse her out of
+the slough of despond.
+
+Mrs. Tremaine.
+
+Perhaps she is disappointed?
+
+Denham.
+
+We are all disappointed. It is the niggardliness of Nature--the old
+woman in the shoe. (_Paints again in silence._) Do you believe in
+love, Blanche? Still?
+
+Mrs. Tremaine.
+
+(_sighing_) Yes, I think I do. There is not very much else left for
+one to believe in, nowadays.
+
+Denham.
+
+So do I--as a dream.
+
+Mrs. Tremaine.
+
+Ah! You are the pessimist now.
+
+Denham.
+
+Why make mad efforts to realise it?
+
+Mrs. Tremaine.
+
+A necessity of our nature, I suppose.
+
+Denham.
+
+What does the modern woman desire or expect from a man? You are sick
+of marriage, it seems.
+
+Mrs. Tremaine.
+
+As it exists--yes.
+
+Denham.
+
+Well, the instinctive _amourette_ had its poetry--in Arcadia. Keep
+your hands quiet a moment.
+
+Mrs. Tremaine.
+
+Let me warm them first. Remember we are in the grip of a London
+May.
+
+Denham.
+
+All right--come. (_She comes over to the picture. He stops her._)
+No, you must not look yet.
+
+Mrs. Tremaine.
+
+You have become quite a tyrant, do you know?
+
+(_She goes to the fire._)
+
+Denham.
+
+(_taking her hands_) Cold? Yes; I have kept you too long. You have
+such good hands! I wish I could paint them.
+
+Mrs. Tremaine.
+
+(_kneels at fire, and warms her hands_) One more chance!
+
+Denham.
+
+I shall make the most of it. Well, but what do you want? A
+friendship, passionate and Platonic? Why, it takes all the tyranny
+of a strong man like Swift to keep instinct within bounds. The
+victory killed Stella and Vanessa.
+
+Mrs. Tremaine.
+
+Oh, we are more rational now! Then, there were two of them; that was
+the difficulty there.
+
+Denham.
+
+Yes, there were two of them. Except in a desert island, there is
+always a danger of that.
+
+Mrs. Tremaine.
+
+Why are men so inconstant?
+
+Denham.
+
+Why are women so charming--and unsatisfactory? We deceive ourselves,
+and are deceived, just like you.
+
+Mrs. Tremaine.
+
+You amuse yourselves, and we pay.
+
+Denham.
+
+It is the will of God--of Nature, I should say. She is an artist;
+but as for her morality--
+
+Mrs. Tremaine.
+
+One can't say much for that.
+
+Denham.
+
+Art is Nature's final aim. Love is the Art of Arts, and Art is long.
+
+Mrs. Tremaine.
+
+But could you not be a _little_ more constant, if you tried?
+
+Denham.
+
+Oh, _we_ can resist temptation, when we are not tempted--just like
+women.
+
+Mrs. Tremaine.
+
+Your _capacity_ for temptation is wonderful.
+
+Denham.
+
+Yes. _We_ know our own frailty, _you_ never quite realise yours.
+
+Mrs. Tremaine.
+
+What has made you so cynical?
+
+Denham.
+
+The bitterness of life. Are your hands warm yet? (_Takes her
+hands._)
+
+Mrs. Tremaine.
+
+Yes, I can go back now.
+
+(_She goes back to the "throne." He poses her, and returns to the
+easel._)
+
+Denham.
+
+(_painting again_) Marriage must certainly be modified. A woman
+should have some honourable way of escape, when her husband gets
+tired of her.
+
+Mrs. Tremaine.
+
+(_laughing_) How delicately you put it! But the wife? If you had to
+bear all you so chivalrously inflict on us in "honourable" marriage,
+I wonder how many marriages there would be?
+
+Denham.
+
+Instinct would be too strong for us still. But we should outscheme
+Nature. We should invent. What has a woman ever invented since the
+beginning of the world? Well, you can easily rail us out of
+marriage. How will you live then?
+
+Mrs. Tremaine.
+
+As we are trying to live now.
+
+Denham.
+
+I believe woman's great ambition is to do all the work of the world,
+and maintain man in idleness.
+
+Mrs. Tremaine.
+
+That would be awful! You would all be artists and minor poets then.
+
+Denham.
+
+You, I believe, prefer "the Free Union," as it is called, to
+marriage?
+
+Mrs. Tremaine.
+
+If it were practicable.
+
+Denham.
+
+Ah yes! We can't live innocently and comfortably in "open sin,"
+until the kingdom of heaven comes.
+
+Mrs. Tremaine.
+
+(_laughing_) No, I fear there are still difficulties. But, after
+all, one can do--well, almost anything; if one does it from
+conscientious motives--and knows one's way about.
+
+Denham.
+
+Yes. And how charming the relationship might be made! Women would
+really study the art of keeping a lover. But what, in Heaven's name,
+is the sympathetic modern man to do, who feels that to love one of
+these creatures of a finer clay, in his rough masculine fashion, is
+to "insult," or "enslave," or injure her, in one way or another? "I
+love you, therefore God forbid I should marry you!"--that is the
+newest gospel.
+
+Mrs. Tremaine.
+
+We are not all such miserable creatures as you imagine. Treat us
+decently well, and we can stand a good deal, without whining like
+men--poor persecuted saints!
+
+Denham.
+
+It is quite impossible to treat you well in this "imperfect
+dispensation." Bah! let us talk of something else.
+
+(_Enter Mrs. Denham, dressed to go out._)
+
+Mrs. Denham.
+
+This letter has come for you, Blanche, sent on from your house.
+
+Mrs. Tremaine.
+
+Thanks so much. I have been expecting it. Will you excuse me?
+(_Opens letter and reads._)
+
+Mrs. Denham.
+
+I am sorry to interrupt you, Arthur, but I am just going out. Can
+you give me a cheque?
+
+Denham.
+
+Certainly. But first look at this.
+
+Mrs. Denham.
+
+(_looks at the picture_) Better, I think.
+
+Denham.
+
+Eyes too big now?
+
+Mrs. Denham.
+
+No, not now. Let me have the cheque, and I will go.
+
+(_Denham crosses in front of easel to table, takes cheque book from
+a drawer in the table, and writes. Mrs. Tremaine rises and crosses
+C._)
+
+Denham.
+
+Is that all you have to say?
+
+Mrs. Denham.
+
+Oh, my opinion is of no value! I think you have improved; but, you
+know, I like your ideal work best.
+
+Denham.
+
+This is miles ahead of anything I have done.
+
+Mrs. Denham.
+
+Perhaps--as a piece of painting.
+
+Denham.
+
+I am finding my way at last. Here is the cheque.
+
+Mrs. Denham.
+
+(_crosses L, takes cheque, and crosses C_) You
+will stay to dinner, Blanche, of course?
+
+Mrs. Tremaine.
+
+Thanks very much, but I can't possibly.
+
+Denham.
+
+I am so sorry, but why?
+
+Mrs. Tremaine.
+
+(_waving the letter, crosses in front of easel, and goes down
+R_) Work, work! I have got an engagement.
+
+Mrs. Denham.
+
+I congratulate you.
+
+Denham.
+
+But what is it? You have never told us what you have been working at
+in secret.
+
+Mrs. Tremaine.
+
+No. It might have come to nothing. I am to sing three songs at a
+private concert.
+
+Denham.
+
+A good house?
+
+Mrs. Tremaine.
+
+Capital--and good people to hear me. I may choose my own songs,
+Italian, German, or English. I have a fortnight to prepare, and I am
+to be _paid_!
+
+Denham.
+
+Brava!
+
+Mrs. Denham.
+
+You are not going just yet?
+
+Mrs. Tremaine.
+
+No, not immediately. (_Crosses to "throne" and sits again. Denham
+follows her._)
+
+Mrs. Denham.
+
+We shall meet again then. Good-bye!
+
+Mrs. Tremaine.
+
+(_as Denham arranges her skirt_) _A bientot!_
+
+(_Exit Mrs. Denham. Denham begins to paint._)
+
+Denham.
+
+Well, you mysterious creature, I think you have chosen your
+profession well. Your voice is lovely, and your style--well, not bad
+in these days of execrable singing.
+
+Mrs. Tremaine.
+
+Do you know, it was your praise that made me think seriously of
+this?
+
+Denham.
+
+(_absorbed in painting_) Really? But why would you never sing to me
+since that evening?
+
+Mrs. Tremaine.
+
+I have been working so hard; I wanted to surprise you.
+
+Denham.
+
+And now you will?
+
+Mrs. Tremaine.
+
+Perhaps--some time. (_A pause, Denham painting in silence._)
+
+Denham.
+
+Come down and look at this thing now. I can do no more to it.
+
+Mrs. Tremaine.
+
+(_comes over to the easel, Denham puts down brush and palette_) But
+this is splendid!
+
+Denham.
+
+(_taking pipe_) Better, isn't it? (_Crosses L, to table,
+and strikes a match._)
+
+Mrs. Tremaine.
+
+Oh _yes_! But how you _have_ flattered me! I shall be reduced to a
+proper humility when I look in the glass. (_Turns and glances at
+mirror, then again at picture._)
+
+Denham.
+
+Never mind the glass. That's how I see you.
+
+Mrs. Tremaine.
+
+(_crosses C and drops him a curtsey_) Thank you, sir. An
+uncynical compliment at last!
+
+Denham.
+
+(_bowing_) 'Tis but your due, madam, I protest. Come, sit down, and
+let us be lazy. (_Pushes armchair round for Mrs. Tremaine, takes
+chair from "throne" and sits near her._) We have worked very hard.
+Do you ever go to the theatre?
+
+Mrs. Tremaine.
+
+Sometimes.
+
+Denham.
+
+Does it amuse you?
+
+Mrs. Tremaine.
+
+Oh yes! I like a good three act farce.
+
+Denham.
+
+So do I. But our serious plays are amusing in a deeper way--now that
+we have begun timidly to scratch the surface of things. I wonder, if
+you and I were put on the stage, what they would say of us?
+
+Mrs. Tremaine.
+
+But there is nothing to make a play about in _us_.
+
+Denham.
+
+They would certainly say there was "no situation," though perhaps--
+
+Mrs. Tremaine.
+
+What _is_ a situation?
+
+Denham.
+
+Oh, you know--something threadbare, the outraged husband driving his
+erring wife about the stage--all that sort of thing.
+
+Mrs. Tremaine.
+
+I love an outraged husband; they are so magnificently moral!
+
+Denham.
+
+Unfortunately I am on no such pinnacle. (_Rises._) I can only humbly
+ask you, when will you sit again?
+
+Mrs. Tremaine.
+
+Oh, now that you have painted that masterpiece, I must resign the
+privilege of being your model.
+
+Denham.
+
+That is unkind of you, Blanche. But why? (_Puts his pipe down._)
+
+Mrs. Tremaine.
+
+You can't go on painting _me_ for ever.
+
+Denham.
+
+I _shall_ go on painting you for ever. But you will surely give me
+an occasional sitting?
+
+Mrs. Tremaine.
+
+No; I must be stern. (_Rises and crosses C._) I must work
+seriously now.
+
+Denham.
+
+At least you'll come and see us? You'll come and sing the savageness
+out of this bear?
+
+Mrs. Tremaine.
+
+No; I must go back into the desert.
+
+Denham.
+
+Seriously?
+
+Mrs. Tremaine. Yes.
+
+Denham.
+
+I knew it must come to an end, Blanche. (_Crosses C._)
+Well, we have had a good time.
+
+Mrs. Tremaine.
+
+Yes. It has been pleasant here.
+
+Denham.
+
+You have been my good genius. Do you know, I was getting sick of it
+all before you came?
+
+Mrs. Tremaine.
+
+Sick of what?
+
+Denham.
+
+Of myself, of art, of life.
+
+Mrs. Tremaine.
+
+That was foolish. I am glad if I have reconciled you to existence.
+
+Denham.
+
+You have made me alive again, opened a door to new possibilities,
+let me out into the sunshine.
+
+Mrs. Tremaine.
+
+Well, don't go back into the shadow. (_Taking her hat, she goes
+towards mirror._)
+
+Denham.
+
+No. I will go forward.
+
+Mrs. Tremaine.
+
+That is right; and now I must go. (_About to take cloak._)
+
+Denham.
+
+No, you must not go yet. Come and sit upon your throne once more.
+(_Mrs. Tremaine stops._)
+
+Mrs. Tremaine.
+
+But you are not going to paint again?
+
+Denham.
+
+No. I only want to look at you. Do grant me this last grace! (_He
+replaces chair on "throne."_)
+
+Mrs. Tremaine.
+
+(_puts down hat, and crosses L_) Really you are too absurd!
+(_She sits on the "throne."_)
+
+Denham.
+
+(_crosses C_) Thanks. And now I want you to read something.
+(_Goes to table and takes paper from drawer._)
+
+Mrs. Tremaine.
+
+What must I read?
+
+Denham.
+
+This sonnet.
+
+Mrs. Tremaine.
+
+Your own?
+
+Denham.
+
+Mine--and yours. Read it aloud.
+
+Mrs. Tremaine.
+
+I did not know you were a poet.
+
+Denham.
+
+Every man is a poet once in his life. You have made me one. (_He
+sits at her feet on the "throne."_)
+
+Mrs. Tremaine.
+
+(_Reads_):
+
+TO A BEAUTIFUL WOMAN.
+
+(_Looks down at him and smiles._)
+
+    Some women are Love's toys, kiss'd and flung by,
+      Some his pale martyrs: thou art womanhood,
+      Superbly symbol'd in rare flesh and blood.
+    Eternal Beauty, she for whom we sigh,
+    Dowers thee with her own eternity;
+      Thou art Love's sibyl: in proud solitude
+      O'er his old mysteries thy deep eyes brood,
+    And at thy feet his rich dominions lie.
+    Hast thou a heart? Let me desire it still.
+      Torture my heart to life with thy disdain;
+        Yet smile, give me immortal dreams, still be
+    My Muse, my inspiration, vision, will!
+      I ask no pity, I demand but pain:
+        And if I love thee, what is that to thee?
+
+It sounds very well; but I'm afraid I don't quite understand it.
+
+Denham.
+
+That is the highest praise you could give it; if it be
+unintelligible it _must_ be fine. It means "_mes hommages_!"
+(_Kisses her hand._) And now come down! (_He hands her down from the
+"throne"._)
+
+Mrs. Tremaine.
+
+(_with a shy laugh, crosses_ R) But you don't mean to say
+that you have said all those fine words about me?
+
+Denham.
+
+Yes--_to_ you, Blanche. I love you. What is that to you? (_Comes
+down to fire._)
+
+Mrs. Tremaine.
+
+It is very flattering, no doubt, to be made love to in pretty
+verses. (_With a mocking smile._) Is this your "situation" at last?
+
+Denham.
+
+Yes, it is a situation.
+
+Mrs. Tremaine.
+
+(_sharply_) Oh, I see! I am to be a sort of lay figure for your
+poetry, as well as your painting; the Laura of this new Petrarch.
+Thank you! (_She bows with a little laugh._)
+
+Denham.
+
+I love you, Blanche, I love you!
+
+Mrs. Tremaine.
+
+Say it in verse as much as you like. It does not sound nice in
+prose. Don't let us make fools of ourselves, Mr. Denham.
+
+Denham.
+
+We can't avoid it, Mrs. Tremaine. To do it with dignity is all that
+can be expected of us.
+
+Mrs. Tremaine.
+
+(_with increased vexation_) That's impossible. (_Crosses_ R, _and
+takes cloak._) Don't let us spoil a pleasant friendship with nonsense
+of this kind. Let me keep that--and your sonnet--and good-bye!
+
+(_She comes down to_ L C. _Denham takes her cloak and puts
+it on her, keeping his hands on her shoulders._)
+
+Denham.
+
+As you please. Call it friendship, or anything you like. To me it is
+new life. You have simply taken possession of me from the
+first--imagination, heart, soul, everything. I live in you, I see
+your face, I hear your voice, I speak to you when you are absent,
+just as if you were present. I call you aloud by your name--Blanche,
+Blanche!
+
+(_She starts away from him, and the cloak remains in his hands._)
+
+Mrs. Tremaine.
+
+Hush, hush, Mr. Denham! I ought not to listen to such words from
+you. I never dreamed--
+
+Denham.
+
+(_throwing cloak over back of sofa_) I know, I know. Women never do;
+they go on their way like blindfold fates. Is there such a thing as
+a magnetic attraction--affinity? I never believed in it till I saw
+you.
+
+Mrs. Tremaine.
+
+(_laughs nervously_) With how little ingenuity men make love!
+
+Denham.
+
+Don't laugh at my raving, you cruel Blanche! I know it sounds as
+foolish as a schoolboy's valentine; but it is as sincere--and
+inadequate. Words are stupid things. (_He takes her hands, and looks
+in her face._)
+
+Mrs. Tremaine.
+
+Do let us part friends. If you are in earnest, you must know this is
+wicked as well as foolish.
+
+Denham.
+
+Yes, it is always wicked to snatch a moment's supreme happiness in
+this world. _If_ I am in earnest! You know I am in earnest! (_He
+strokes her hair, then, as she turns away, he puts his arm round her
+waist and draws her to him._) Blanche, my beautiful Blanche! I did
+not mean to say all this, but it was too strong for me.
+
+Mrs. Tremaine.
+
+Let me go, Mr. Denham!
+
+Denham.
+
+(_releasing her_) Well, go! (_Crosses L._) Go, if you can!
+
+Mrs. Tremaine.
+
+(_angrily_) I can and will. (_Turns to take her cloak._)
+
+Denham.
+
+Do you know, Blanche, I thought you loved me?
+
+Mrs. Tremaine.
+
+(_turning sharply_) Then you were more foolish than I thought.
+(_Softening._) Perhaps I was to blame, but I meant nothing wrong.
+
+Denham.
+
+Oh, I acquit you completely! We drifted--that was all. Jest
+sometimes turns to earnest. Well, go--go with those tears in your
+eyes. There is nothing worth crying about--more than is becoming.
+
+Mrs. Tremaine.
+
+Don't say unkind things to me. I can't bear them, though I suppose I
+deserve them. I liked you, and your admiration flattered my vanity;
+and I suppose I may have made you think I cared more for you than--I
+did.
+
+Denham.
+
+Well, you don't love me. What does it matter? _I_ love _you_; that
+is the important thing to me. I thank you for that eternal
+possession. Let it be a dream, austere and pure. Passion has its own
+ascetic cell, where it can fast and scourge itself. I ask you for
+nothing, Blanche. I am yours wholly. Do what you like with me.
+
+Mrs. Tremaine.
+
+Go back to your wife.
+
+Denham.
+
+Yes--my poor Constance! Well, Blanche, at least you and I can't
+utterly spoil each other's lives. We can't _marry_ each other.
+
+Mrs. Tremaine.
+
+Don't say any more. Let us forget all this.
+
+Denham.
+
+Forget? No. But we must renounce. You, too, will wear the sackcloth.
+
+Mrs. Tremaine.
+
+(_petulantly_) Why should _I_ wear sackcloth?
+
+Denham.
+
+My dear Blanche, you are not such a fine coquette as you imagine.
+(_Going close up to her._) Do you think I can't read those beautiful
+eyes of yours? You love me! Your love fills the air like the
+fragrance of a flower. (_He clasps her in his arms._)
+
+Mrs. Tremaine.
+
+(_impatiently_) Suppose I did. _Apres?_
+
+Denham.
+
+You do love me, Blanche? (_Kisses her._)
+
+Mrs. Tremaine.
+
+(_with inward rage_) Yes, I love you. (_Suddenly embracing him._) I
+love you! What does it matter?
+
+Denham.
+
+Oh, it is the eternal tragedy! We must renounce.
+
+(_Half releasing her._)
+
+Mrs. Tremaine.
+
+Why must we renounce? Now that you have gone so far, why turn back?
+
+Denham.
+
+(_releasing her_) It is the least of evils. How should I hide you
+from the world's vile slanders? Let us keep our dream unsullied.
+(_Crosses_ L.)
+
+Mrs. Tremaine.
+
+I have been through the fire already, and could face it again--for a
+man I loved, and who loved me.
+
+Denham.
+
+But it would scorch you worse than before. Then, Constance!
+
+Mrs. Tremaine.
+
+(_with scorn_) Ay, Constance! You ought to have thought of her
+before. (_Passionately._) Why have you spoken to me? Why have you
+compelled _me_ to speak, if you are not bold enough to break the
+bonds that are strangling you?
+
+Denham.
+
+Because I must. Don't tempt me, Blanche. We shall sometimes meet,
+look in each other's eyes, and keep our secret. It is best so. I
+love you so much that I would save you from yourself.
+
+Mrs. Tremaine.
+
+I don't understand such love. (_Turns away_ R.)
+
+Denham.
+
+Women never do. They prefer being treated like dogs. Is it nothing
+that we have met heart to heart for one sweet moment, that you have
+rested a moment in my arms? To me it is a glimpse of the
+unattainable heaven of love. (_Going up to her._) Kiss me once,
+Blanche, and farewell!
+
+Mrs. Tremaine.
+
+It must be for ever, then.
+
+(_They kiss, and remain clasped in each other's arms._)
+
+(_Enter Mrs. Denham suddenly._)
+
+Mrs. Denham.
+
+Arthur! Oh, I see, I am in the way! (_She is about to retire._)
+
+Denham.
+
+(_coming forward_) No; come in, Constance. Blanche is going away.
+(_Crosses_ L.)
+
+Mrs. Denham.
+
+Indeed! I must apologise for interrupting a very pretty parting
+scene. Had I not better retire until your interesting _tete-a-tete_
+is over?
+
+Denham.
+
+There is no necessity. It is over.
+
+Mrs. Denham.
+
+(_coming down_ C) Then may I ask for an explanation
+of--what I have unintentionally seen?
+
+Denham.
+
+Certainly. You have a right to ask anything you please.
+
+Mrs. Denham.
+
+Well?
+
+Denham.
+
+We have had our fit of madness. Now we are sane, and Blanche is
+going away. That is all. (_Goes to table_ L.)
+
+Mrs. Denham.
+
+Oh, indeed! Arthur, Arthur, I trusted in your love, and you have
+betrayed me. You love this woman!
+
+Mrs. Tremaine.
+
+(_coming down_) Let _me_ speak, Constance. If there be a fault or a
+folly in the matter, it is mine. You hate me; you have cause. I
+have--been vain and selfish. I thought, like many another woman, I
+could play with temptation--
+
+Mrs. Denham.
+
+(_with fierce scorn_) And with your experience, too!
+
+Mrs. Tremaine.
+
+I know my own weakness now. But I am going away, Constance--going
+away out of your lives for ever. If I have sinned, I can expiate.
+
+Mrs. Denham.
+
+Expiate! A fine word, with which we drug our consciences. You have
+treated me basely, cruelly, treacherously, and you _will expiate_! A
+common thief can at least make restitution. Can you do that? You are
+going away, taking my husband's heart with you. Can you give me that
+back? I would rather you had stabbed me--killed me with one merciful
+stroke.
+
+Mrs. Tremaine.
+
+No, I am taking nothing with me--nothing but my own folly. I have
+been the toy of your husband's imagination, that is all. To him this
+has been nothing more than a passing flirtation.
+
+Mrs. Denham.
+
+You love him, and he loves you. Don't palter with the truth.
+(_Crosses_ L.)
+
+Mrs. Tremaine.
+
+Yes, I love him; but he does _not_ love me. If either of us have
+cause for jealousy, it is not you.
+
+Mrs. Denham.
+
+(_laughing bitterly_) You jealous of me? You dare to say this?
+(_Moves towards door._)
+
+Denham.
+
+For God's sake, Constance, don't let us lose our heads! Let us be
+just to each other. This was our fate. Call it our fault, if you
+will. We have been in the grip of a strong temptation; but we have
+given each other up.
+
+(_Mrs. Tremaine puts on her hat, cloak, and gloves._)
+
+Mrs. Denham.
+
+(_coming back_ C) Given each other up! Do you think you can
+satisfy _me_ with such phrases? I am to be your faithful wife, I
+suppose; content with whatever poor shreds of affection you choose
+to dole out to me, while all your thoughts are with another woman.
+It would have been more straightforward, (_with withering contempt_)
+I won't say more _manly_, to have told me plainly: "I cannot love
+you, therefore I must leave you." But this intrigue behind my back
+is despicable--despicable!
+
+Denham.
+
+(_pacing about angrily_) Intrigue! Yes, of course. You always knew
+the value of an ugly word. (_Restraining himself._) Otherwise you
+have put the abstract morality of the thing admirably. But I am
+unprincipled enough not to want to desert my wife and child, merely
+because I love another woman.
+
+Mrs. Denham.
+
+Oh yes, compromise, compromise, the god that men worship! Go to your
+mistress, if she will have you. I renounce you.
+
+Mrs. Tremaine.
+
+(_laughing bitterly_) Excuse me, but our little comedy is played
+out. I am out of the story. (_Exit._)
+
+Denham.
+
+(_crosses up to door_) Stay, Blanche! You must not go like this. One
+moment, Constance.
+
+(_Exit, following Mrs. Tremaine._)
+
+Mrs. Denham.
+
+(_flinging herself down on the sofa_) My God! my God! what am I to
+do? How am I to live? I cannot stay in this house with a man who no
+longer loves me. Oh, if _she_ had not come between us! Yes, yes! A
+pretty face and a little flattery outweighs a life's devotion. Oh,
+it is hard, it is hard!
+
+(_A pause. Then enter Undine._)
+
+Undine.
+
+Mother! Are you sick?
+
+Mrs. Denham.
+
+No, dear. I have a headache, that's all.
+
+Undine.
+
+I'm sorry, mother. (_Kisses her._)
+
+Mrs. Denham.
+
+(_clasping her in her arms_) Well, what does my little girl want
+now?
+
+Undine.
+
+May I go and play with Maude and Bertie after school to-morrow, and
+stay to tea?
+
+Mrs. Denham.
+
+You may go and play; but you know I cannot let you stay to tea.
+
+Undine.
+
+Oh, but why? They want me to stay to tea.
+
+Mrs. Denham.
+
+You know you broke your promise the last time, and stayed without
+leave.
+
+Undine.
+
+But I forgot--I really did.
+
+Mrs. Denham.
+
+You must be taught not to forget. Now I'll give you one more chance.
+You may go and play, but you _must_ come back to tea. Promise me
+that you will.
+
+Undine.
+
+Well, I promise. But it's very hard to remember promises, when you
+want to do a thing very much.
+
+Mrs. Denham.
+
+Yes; but you must learn to be trustworthy. Now run away. (_Exit
+Undine._)
+
+The child hates me, I know. I suppose I must expect nothing but
+dislike and contempt. She is her father's child. I wish I had died
+long ago. (_Crosses_ R, _and sits by table._)
+
+(_A pause, then re-enter Denham._)
+
+Denham.
+
+Well, Blanche is gone.
+
+Mrs. Denham.
+
+(_listlessly_) Indeed!
+
+Denham.
+
+(_seating himself_) To the advanced moralist, I know I am an object
+of contempt. I can't help that.
+
+Mrs. Denham.
+
+(_rising_) If you have come here to insult me with sneering
+speeches, I will go. (_Crosses_ C _up stage._)
+
+Denham.
+
+Let us leave this tone of falsetto, Constance, and speak seriously
+to each other. I have come to you for help in this crisis of our
+lives. Sit down. (_Gives her a chair._)
+
+Mrs. Denham.
+
+(_sitting_) To me! That is very magnanimous.
+
+Denham.
+
+No. You are the only friend I have.
+
+Mrs. Denham.
+
+Well?
+
+Denham.
+
+You bid me desert the nest?
+
+Mrs. Denham.
+
+Since it is cold.
+
+Denham.
+
+Is it so cold?
+
+Mrs. Denham.
+
+Need you ask? (_Shivers._) If you do not quit it, I will.
+
+Denham.
+
+I have no doubt you will do what you think right. The question is,
+what _is_ right? (_Rises, and looks at her._)
+
+Mrs. Denham.
+
+(_looking away from him_) You have always held yourself aloof from
+me. All my love has been powerless to gain an entrance into your
+heart. Now it is too late. I give up the useless struggle.
+
+(_Crosses_ L, _and sits in armchair crouching over fire._)
+
+Denham.
+
+(_passionately_) Held myself aloof! Good God! is that my fault? You
+want something that you can neither excite nor reciprocate. (_With a
+sudden change of manner._) No--it was my own dulness of heart. My
+poor Constance! This has been a revelation for us both. But you
+don't know how I have tried to conform to your ideals--to spare you
+in every possible way.
+
+Mrs. Denham.
+
+(_bitterly_) Yes, you have been very patient, very forbearing, no
+doubt. It is better to kill a woman than to tolerate her.
+
+Denham.
+
+You did not always think so. You wanted love in the form of an
+unselfish intellectual friendship. Well, I have tried to love you
+unselfishly, God knows! It is an impossible basis for marriage.
+However, we _are_ married. May we not at least be friends? (_Comes
+and stands by her chair._) Do you think marriage exists for the sake
+of ideal love? What about Undine?
+
+Mrs. Denham.
+
+I presume you will provide for your daughter?
+
+Denham.
+
+Is she not yours too?
+
+Mrs. Denham.
+
+She loves you; she does not love me. I suppose I don't deserve it. I
+know you think I have been a bad wife, a bad mother. I am better out
+of your way. (_Weeps._)
+
+Denham.
+
+This is morbid. Oh, if I could have cured you! Constance! (_He
+caresses her hair._)
+
+Mrs. Denham.
+
+Don't touch me! It is an insult.
+
+Denham.
+
+(_sighing_) I suppose I have lost the right of comforting you.
+(_Crosses_ R.)
+
+Mrs. Denham.
+
+I don't want your pity. (_Rises._)
+
+Denham.
+
+Perhaps I want yours.
+
+Mrs. Denham.
+
+(_indignantly_) Suppose _you_ had caught _me_ in a low intrigue, and
+I had dared to speak to you as you have spoken to me--without so
+much as a word that implied sorrow or repentance, what would you say
+to me?
+
+Denham.
+
+I would ask your forgiveness humbly enough if that were of any use.
+It isn't, I know. Sins that are instinctive, not of malice, lie too
+deep for forgiveness.
+
+Mrs. Denham.
+
+A fine aphorism, no doubt. How does it apply?
+
+Denham.
+
+You can't forgive insults that were not intended, and a "low
+intrigue" which was only a mad, selfish leap for life. Let us part
+then, if you please. We missed our moment for passion long ago, if
+that is what you want.
+
+Mrs. Denham.
+
+My want aches deeper. Well, you love another woman. Go to her. Let
+her make you happy if she can.
+
+Denham.
+
+Why should I go to her? I love her as a dream; let me keep her as a
+dream. Why should I spoil her life as I have spoiled yours?
+
+Mrs. Denham.
+
+You could not spoil her life as you have spoiled mine, if you love
+her.
+
+Denham.
+
+(_half to himself as he comes down stage_ R) It is a
+magnificent temptation. To give one's passion its full reckless
+swing, to feel the blood bounding in one's veins--
+
+Mrs. Denham.
+
+Why not? And leave the woman to pay.
+
+Denham.
+
+(_with a reckless bitterness_) Yes, that's the devil of it. You have
+put me out of conceit with love. Your chamber of horrors haunts my
+imagination. If a woman could give us all she promises, we should be
+like gods. But she can't. Why should we worry about it? Why ask for
+cakes and ale, when sermons and soda-water are so much better for
+us?
+
+Mrs. Denham.
+
+You never loved me. Your cakes and ale are no concern of mine.
+(_Crosses to table. Knock at door._) Come in!
+
+(_Enter Jane, showing in Miss Macfarlane._)
+
+Jane.
+
+Miss Macfarlane!
+
+(_Exit._)
+
+Miss Macfarlane.
+
+Well, my dear, how are you all? Eh! but what's the matter now? (_She
+looks from one to the other._) Mrs. Tremaine, I suppose?
+
+Denham.
+
+Mrs. Tremaine has gone away--back to the desert, as she says.
+
+Miss Macfarlane.
+
+And high time for her, too. Upon my word, I should like to give that
+fascinating person a bit of my mind.
+
+Denham.
+
+And me too, I am sure.
+
+Miss Macfarlane.
+
+Well, as you ask me, Mr. Denham, I think your conduct in bringing
+that woman into the house, and carrying on a flirtation with her
+under your wife's eyes, was simply abominable. It was an insult to
+Constance. Did ye ever consider that? It was not the conduct of a
+gentleman!
+
+Denham.
+
+No, a gentleman should throw a decent veil of secrecy over
+his--flirtations. But, you see, if I had done that, I should have
+been a hypocrite; now I'm only a brute.
+
+Miss Macfarlane.
+
+Oh, my dear boy, don't be a brute, and then you needn't be a
+hypocrite. There's the way out of that.
+
+Denham.
+
+It is a narrow way.
+
+Miss Macfarlane.
+
+If ye can't have good morals, at least have good manners. (_Crosses
+L._)
+
+Denham.
+
+Oh, good manners are becoming obsolete. They are too much trouble
+for this Bohemian age. Ladies and gentlemen went out with gold
+snuffboxes and hooped petticoats; we are trying to be men and women
+now, frankly and brutally.
+
+Miss Macfarlane.
+
+Eh! and I suppose ye thought ye were learning to be a man by playing
+at Adam and Eve with Mrs. Tremaine?
+
+Denham.
+
+(_crosses_ R) We drifted, we drifted.
+
+Miss Macfarlane.
+
+A man has no _right_ to _drift_, Mr. Denham. Ye have to look before
+ye, and pick your steps in this world; at any rate, when other
+people are hurt by your slips. An irresponsible animal isn't a man.
+
+Denham.
+
+I wish we had a Court of Love, Miss Macfarlane, with you for
+President. But, if you'll excuse me, I shall leave you with
+Constance now. I know she would like to speak to you.
+
+(_Exit._)
+
+Miss Macfarlane.
+
+Well, my dear, what is it? You see I claim the privilege of an old
+friend.
+
+Mrs. Denham.
+
+I can bear my burden alone, Miss Macfarlane. (_Crosses_ C.)
+
+Miss Macfarlane.
+
+Of course you can, my dear. But there's no harm in a little honest
+sympathy.
+
+Mrs. Denham.
+
+(_sobbing and embracing her_) Oh, I beg your pardon! But I am so
+miserable, so miserable!
+
+Miss Macfarlane.
+
+There, there--that's right. (_Leads Mrs. Denham to sofa._) And now
+you can tell me or not, just as you like.
+
+Mrs. Denham.
+
+What is there to tell? It is all over--that is all. (_She sits down,
+weeping._)
+
+Miss Macfarlane.
+
+But what's all over? We sometimes think things are all over, when
+they're only beginning. A thunderstorm's not the Day of Judgment. It
+clears the air.
+
+Mrs. Denham.
+
+This _is_ the Day of Judgment for me. I am weighed in the balance
+and found wanting. I wish I were dead.
+
+Miss Macfarlane.
+
+Nonsense, dear; you're no failure. But I'll tell ye what the two of
+you are--a pair of fools; that's what you are. You should have put
+your foot down, my dear. _She_ was the Black Cat you ought to have
+got rid of, and nipped this business in the bud. I don't know how
+far it has gone. Does he want to run away with her?
+
+Mrs. Denham.
+
+No; he professes to have given her up.
+
+Miss Macfarlane.
+
+Then he's none such a fool, after all. That woman would have led him
+a pretty dance!
+
+Mrs. Denham.
+
+He loves her--let him go to her. (_Rises and crosses_ L.
+_Stopped by Miss Macfarlane._)
+
+Miss Macfarlane.
+
+Fiddlesticks, my dear! Don't force him into her arms. Mind you, he
+has vowed to cherish you as well as to love you; and how can he do
+that if you drive him away? Do ye remember one of his misquotations
+from Byron:
+
+    "Man's love is from his life a thing apart,
+    'Tis woman's main subsistence?"
+
+There's truth in that.
+
+Mrs. Denham.
+
+Men make love, like everything else, a mere _game_.
+
+Miss Macfarlane.
+
+Ay, you're right there. But until _we_ hold the purse strings, it's
+hard to keep them to the strict rules o' the game.
+
+Mrs. Denham.
+
+That is a vile injustice! I may not be able to fight on equal terms,
+but I will never submit. If he does not go, I will. (_Crosses_
+R.)
+
+Miss Macfarlane.
+
+Don't wreck your lives for a man's passing fancy. If that's your new
+morality, I prefer the old. Don't turn this comedy into a tragedy.
+That's all very well on the stage, but we're not acting an Ibsen
+play; it doesn't pay in real life.
+
+Mrs. Denham.
+
+A good tragedy is better than a bad comedy.
+
+Miss Macfarlane.
+
+Come to your room, my dear. Have your cry out, sponge your eyes, and
+we'll have a quiet talk.
+
+Mrs. Denham.
+
+Oh, this sense of failure! It will drive me mad!
+
+ACT DROP.
+
+
+
+
+Act III.
+
+_Scene: The Studio. Mrs. Denham lying on sofa_ R C, _a
+shawl over her feet, her face buried in her hands, moaning
+inarticulately. Table as in_ ACT II.
+
+
+(_Enter Denham excitedly._)
+
+Denham.
+
+Constance!
+
+Mrs. Denham.
+
+(_moving and raising her head_) Well?
+
+Denham.
+
+Where is Undine?
+
+Mrs. Denham.
+
+Undine?
+
+Denham.
+
+Yes. Do you know where she is?
+
+Mrs. Denham.
+
+In her room, I suppose. I told her to stay there.
+
+Denham.
+
+She is not in the room--not in the house.
+
+Mrs. Denham.
+
+But--I locked the door.
+
+Denham.
+
+She must have got out of the window.
+
+Mrs. Denham.
+
+She can't have dropped from the balcony.
+
+Denham.
+
+Stay a moment. (_Exit._)
+
+Mrs. Denham.
+
+(_resuming her position_) No peace! No peace!
+
+(_Re-enter Denham._)
+
+Denham.
+
+Yes. Her skipping rope is tied to the rails. She must have dropped
+into the garden. She's as active as a cat.
+
+Mrs. Denham.
+
+And as sly. Another act of disobedience.
+
+Denham.
+
+Tell me, Constance, have you had a--I mean, have you punished her?
+
+Mrs. Denham.
+
+(_bitterly_) I beat her, since you are kind enough to inquire--beat
+her for her utter untrustworthiness and mean prevarication. I said I
+would, if she disobeyed me again.
+
+Denham.
+
+Poor little wretch! But what did you say to her? A mother's tongue
+is sometimes worse than her hands.
+
+Mrs. Denham.
+
+Yes, I know you think me a vulgar scold.
+
+Denham.
+
+I think you sometimes say more than you mean--more than you realise
+at the time. I wonder where the child has gone?
+
+Mrs. Denham.
+
+Oh, she has slunk away to some of her friends. (_Throwing off the
+shawl, and letting her feet drop on the ground._) Arthur, are you
+uneasy about her?
+
+Denham.
+
+Yes, rather. Jane heard her sobbing in her room, and saying she
+would run away.
+
+Mrs. Denham.
+
+Why didn't you tell me that before? (_Rises, and moves to and fro._)
+Oh, what have I done? What have I done?
+
+Denham.
+
+We must look for her. Some one may have seen her. Wait a moment.
+(_He opens the door, and meets Fitzgerald, who comes in smiling._)
+Fitzgerald!
+
+Fitzgerald.
+
+(_coming down to back of sofa_) Well, I've brought you back your
+little waif, Mrs. Denham.
+
+Mrs. Denham.
+
+Undine?
+
+Fitzgerald.
+
+Ay, Undine!
+
+Mrs. Denham.
+
+Oh, I am so thankful! But where is she?
+
+Fitzgerald.
+
+Well, I left her below, having some milk or something. She seemed
+quite done up--excitement or something--eh?
+
+Denham.
+
+Where did you meet her, Fitz?
+
+Fitzgerald.
+
+I was going to my studio, and I met--met her running along the road
+with--with a little white scared face, and no hat on her--and her
+curls flying behind her--an'--an'--'pon my word, I could hardly stop
+her But we met a little girl with a goat, an' we stroked the
+goat--eh, stroked the goat--an' that comforted her a bit.
+
+Mrs. Denham.
+
+But where was she going?
+
+Fitzgerald.
+
+Oh, that's the cream o' the joke! I had a great piece of work to get
+out of her what ailed her, an'--an'--would you believe it?--that
+Undine of yours--that Undine of yours was going back to her native
+element. The--the mite was looking for the Thames, to drown herself!
+
+Mrs. Denham.
+
+To drown herself?
+
+Fitzgerald.
+
+Ay. She told me, "Mother said--said she was too wicked to live--an'
+she--she didn't want her any more." By Jove! Mrs. Denham, you must
+be careful what you say to that imp. She'll take you at your
+word--eh?
+
+Mrs. Denham.
+
+How can we ever thank you, Mr. Fitzgerald?
+
+Denham.
+
+Well, we can laugh at it now; but it was rather a ghastly bit of
+tragi-comedy. A thousand thanks, Fitz, old fellow!
+
+Fitzgerald.
+
+Well, I hope she's none the worse for it. I carried her home on my
+back; an' I can tell you her heart was beating like--like the heart
+of a hunted mouse. I must be off, Arthur; I have a model coming.
+You'll bring the drawing round, eh? I must have it by five o'clock.
+
+Denham.
+
+I have about ten minutes' work on the background--the figures are
+all right. I'll bring it round just now.
+
+Fitzgerald.
+
+All right. Good-bye. (_Shakes hands, and exit._)
+
+Denham.
+
+Stay here, Constance. I'll bring the child to you.
+
+(_Exit, following Fitzgerald._)
+
+Mrs. Denham.
+
+Undine, my little Undine! Have I been a bad mother to you? And I
+have tried to do right. Oh, how I have tried! All in vain--all in
+vain. (_Paces up and down, then sits listlessly on the sofa._) Utter
+wreck! Utter wreck! Utter failure in everything!
+
+(_Re-enter Denham, with Undine. Mrs. Denham starts up._)
+
+Denham.
+
+Here's our little truant come back to mother.
+
+(_Undine comes down the stage slowly, looking dazed. Mrs. Denham
+embraces the child passionately._)
+
+Mrs. Denham.
+
+My little Undine! My little girl! Did she think mother wanted to get
+rid of her?
+
+Undine.
+
+(_with sorrowful indignation_) You said you wished I was dead, and I
+thought you didn't want me any more. I thought perhaps you were
+going to kill me with a knife, like Medea, and I didn't like that. I
+thought the river would be kinder.
+
+Mrs. Denham.
+
+That was foolish, Undine. Mother would not kill her own little girl.
+
+(_Sits down on sofa with Undine. Denham shrugs his shoulders, and
+sits down at the table to work at his drawing._)
+
+Undine.
+
+But I thought you meant what you said. You oughtn't to say what you
+don't mean, mother.
+
+Mrs. Denham.
+
+No, my darling, I ought not. But I was angry with you for being
+disobedient, and I suppose I said more than I meant. I don't
+remember, Arthur, I don't remember what I said.
+
+Denham.
+
+I quite understand that, dear.
+
+Mrs. Denham.
+
+Will my little girl forgive mother?
+
+Undine.
+
+Yes, you know I'll _always_ forgive you, mother. But you said I had
+brought shame upon father. (_Going up to Denham, bursting into
+indignant tears._) I don't _want_ to bring shame upon father!
+(_Takes out her handkerchief, and mops her face._)
+
+Denham.
+
+(_comforting her_) Of course not. But you know you should be
+obedient to mother, Undine, and keep your promises. Then we sha'n't
+be ashamed of our little girl.
+
+Undine.
+
+(_sobbing_) But there's no _use_ promising. Oh, I _am_ so tired!
+(_Yawns._)
+
+Denham.
+
+Well, suppose you go to sleep for a while?
+
+Mrs. Denham.
+
+She can lie on her bed, and I'll put mother's cloak over her. Would
+you like that?
+
+Undine.
+
+(_sleepily_) Yes.
+
+(_Mrs. Denham leads her away, the handkerchief falls on the floor._)
+
+Denham.
+
+(_gets up from the table, takes his pipe, lights it, and sits down
+again_) Everything seems torn up by the roots here. What is to
+become of that monkey? She has routed her mother, horse, foot, and
+dragoons, this time. Well, it's a wise mother that knows her own
+daughter. (_Works on again._) Going to drown herself! Perhaps it
+would have been better if her father had hung himself long ago.
+There's always that question of: To be or not to be?
+
+(_Re-enter Mrs. Denham._)
+
+Mrs. Denham.
+
+She's asleep, Arthur.
+
+Denham.
+
+Poor little ugly duck!
+
+Mrs. Denham.
+
+I suppose you think I have acted very injudiciously?
+
+Denham.
+
+(_sighing_) Oh, what does it matter what I think? You always act on
+principle. I _must_ try to get this drawing done.
+
+Mrs. Denham.
+
+Don't send me away, Arthur. You will soon be rid of me altogether.
+
+Denham.
+
+Don't say that, dear. I know you are very miserable about
+Undine--and other things. So am I. I wonder whether we are all going
+mad.
+
+Mrs. Denham.
+
+I think _I_ have gone mad.
+
+Denham.
+
+Do you say that in earnest?
+
+Mrs. Denham.
+
+You know there was--something in our family.
+
+Denham.
+
+Oh, nonsense, Constance! For Heaven's sake don't brood over that.
+There is something in every family, if one only inquires. Your
+nerves are over-strained. I wish you'd go to bed, and let me have
+some one to see you. You are looking like a ghost.
+
+Mrs. Denham.
+
+I feel like one. But I am not going to haunt the scene of my crimes
+any longer. I am going away--going away!
+
+Denham.
+
+Well, I'm going with you, then, to take care of you. We'll send
+Undine somewhere, and go abroad for a while.
+
+Mrs. Denham.
+
+Oh yes. You can be kind enough, if that were all.
+
+Denham.
+
+Will you never make peace?
+
+Mrs. Denham.
+
+The only peace I _can_ make.
+
+Denham.
+
+What do you mean?
+
+Mrs. Denham.
+
+I shall trouble you no longer.
+
+Denham.
+
+My dear girl, don't talk like that. It is ghastly. Constance, I must
+go to Fitzgerald with this wretched drawing. I have to give some
+directions about the reproduction. I sha'n't be long. Promise me
+that you won't do anything foolish--that I shall find you here when
+I come back.
+
+Mrs. Denham.
+
+Yes--you shall find me here.
+
+Denham.
+
+That's right. (_Goes to settee, and takes up shawl._) And now lie
+down here, and let me cover you with this shawl.
+
+Mrs. Denham.
+
+Very well. (_She lies down._) Arthur!
+
+Denham.
+
+Yes, dear.
+
+Mrs. Denham.
+
+Kiss me once before you go.
+
+Denham.
+
+Oh, if I may! (_Kisses her._) My poor Constance! I would give my
+heart's blood to comfort you. And meanwhile I'll send you a better
+thing--tea.
+
+Mrs. Denham.
+
+Thank you, dear. You have always tried to be good to me. You could
+not help being cruel, I suppose.
+
+Denham.
+
+I want to be good to you always. Well, good-bye, and God bless you!
+(_Kisses her._)
+
+Mrs. Denham.
+
+God bless you! (_Exit Denham._)
+
+Mrs. Denham.
+
+(_listens for a while, then starts up_) He had tears in his eyes
+when he kissed me. Poor Arthur! he thinks we are going to patch it
+up, I suppose. I am to live on pity--a man's pity, more akin to
+contempt than to love. Why _should_ he love me? I was not born to
+be loved, not made to be loved. And yet I wanted love so much. I
+wanted all or nothing, and I have got pity--pity that puts you in a
+madhouse, and comfortably leaves you to rot! Oh, my God! is this
+madness--this horror of darkness that seems pressing on my brain?
+(_A knock at the door._) What's that? Come in! (_Enter Jane with
+tea._) No, not there, Jane--the small table; and bring another cup,
+will you?
+
+Jane.
+
+Yes, m'm.
+
+(_Jane places tea-things, and exit._)
+
+Mrs. Denham.
+
+What have I to do? Ah, yes. (_Sits at the table and writes
+hurriedly. Re-enter Jane with a cup._) Jane, take this note to Mrs.
+Tremaine's at once. You know the house?
+
+Jane.
+
+Yes, m'm.
+
+Mrs. Denham.
+
+(_giving note_) Take it at once.
+
+Jane.
+
+Yes, m'm. Was I to wait for an answer, please?
+
+Mrs. Denham.
+
+No, Jane; no answer. (_Exit Jane._) She will be here directly. She
+_must_ come--and I? Yes--yes. There is no other way of quitting the
+wreck for _me_. The key? (_Searches her pockets._) Yes! (_She goes
+to the cupboard, opens it, and takes out a small bottle, places it
+on the tea-table, and looks at it; then takes out the stopper, and
+smells the poison._) It smells like some terrible flower. (_Re-stops
+and replaces the bottle._) And now to arrange--to arrange it all
+decently. (_Pushes the couch behind the screen, returns to the
+table, and pours out a cup of tea._) My throat is parched. (_Drinks
+eagerly._) Poor Arthur! He will be sorry--perhaps he will understand
+a little now. (_She pours the contents of the bottle into the cup._)
+The Black Cat had a friend; I am not so fortunate. It is a survival
+of the fittest, I suppose. The world was made for the sleek and
+treacherous. (_She replaces the bottle in the cupboard, then
+returns, and lays the keys on the table._) Yes, my little Undine,
+mother is tired too--so tired! Oh, sleep, sleep! If it were but
+eternal sleep--if I could be _sure_ I should never wake again! No
+more life. And yet I want to live. Oh, my God, I want to live!
+(_Paces to and fro, mechanically putting things in order; sees
+Undine's handkerchief on the ground, and picks it up._) Undine's
+little handkerchief, still wet with her tears--the last human thing
+on the brink of the abyss. Poor little rag; it will give me courage
+to face the darkness. (_Kisses it, and thrusts it into her bosom,
+then goes back to the table._) Perhaps I _do_ think too much of
+things--even of death. And now! (_Takes up the cup and shudders._)
+Who said "Poor Constance"? (_Puts it down again, and presses her
+hands to her ears._) There are voices in my brain--voices that burn
+like the flames of hell. Sleep, sleep--we must cheat the madness.
+(_Takes the cup, and passes_ R, _as if to go behind screen._) How
+awfully things look at you when you're going to die! I did not know
+this. There's Demeter with Undine's wreath of daisies withered on
+her head. My life has withered with them, since that day she made the
+libation. She forgot the speedwell for me. Mother! Mother! Mother!
+This is my libation! (_Drinks the poison, and lets the cup fall._) It
+is done! (_She stands a moment perfectly still._) My God! not sleep,
+but horror! Quick! Quick! (_Staggers behind the screen, and throws
+herself on the couch, where she is hidden from the audience._) Arthur!
+Arthur! Oh! save me! Arthur--oh! (_Moans and dies._)
+
+(_A pause, then enter Denham and Mrs. Tremaine._)
+
+Denham.
+
+Constance! I left her here on the sofa, and now--Constance! She must
+have gone to her room--she sometimes does. Have some tea, won't you?
+
+(_They approach the tea-table._)
+
+Mrs. Tremaine.
+
+I don't know why I have come here, I am sure. I never meant to see
+this place again; and yet, here I am, like the good-natured fool I
+always was.
+
+(_He places a chair for her by the table._)
+
+Denham.
+
+It was awfully good of you to come. That's such a strange letter for
+Constance to have written. She asked you to come here at once, for
+my sake and your own?
+
+Mrs. Tremaine.
+
+Yes. It's a mad kind of letter. (_She sits down._)
+
+Denham.
+
+I am very uneasy about her.
+
+Mrs. Tremaine.
+
+Well, what's that to me?
+
+Denham.
+
+Nothing, of course. Blanche, we have been living in hell since
+yesterday.
+
+Mrs. Tremaine.
+
+I daresay. I have not been in Paradise, I assure you. What are you
+going to do? (_Pours out some tea._)
+
+Denham.
+
+I don't know.
+
+Mrs. Tremaine.
+
+(_puts in sugar_) Will she--stay with you?
+
+Denham.
+
+What else can she do?
+
+Mrs. Tremaine.
+
+(_stirring her tea_) Then I wish you joy of the _menage_. You don't
+seem to have gained much by making a fool of me.
+
+Denham.
+
+You have renewed the world for me. The mere thought of you is
+sunshine. Here we have always been at loggerheads with life.
+
+Mrs. Tremaine.
+
+Then why--? (_Sips her tea._) Bah! Upon my word, Arthur Denham, that
+woman has drained you of your manhood like a vampire, made you the
+limp coward that you are.
+
+Denham.
+
+Not a word against Constance, or I shall hate you, Blanche. No--I am
+haunted by a ghost.
+
+Mrs. Tremaine.
+
+A metaphorical one?
+
+Denham.
+
+The ghost that came to Hamlet in the shape of his father--duty. It
+is a trick of my British bourgeois blood, I suppose.
+
+Mrs. Tremaine.
+
+What duty? To that internal Mrs. Grundy we call conscience? To the
+thing called Society? To the sacred bond of marriage? Her own
+principles are against you there. No--she holds you in some deeper
+way than this.
+
+Denham.
+
+It is true--she does.
+
+Mrs. Tremaine.
+
+(_rising_) Is it because you love _her_ that you abandon _me_? If
+so, say so; and I shall understand that I am a toy goddess, nothing
+more.
+
+Denham.
+
+She loves me.
+
+Mrs. Tremaine.
+
+Ah! a woman's love can blight as terribly as a man's--almost. Well,
+I like you none the worse for this curious spice of loyalty. It is
+so rare in a man.
+
+Denham.
+
+No--not so rare. Don't let us talk any more about it now. I think
+you begin to understand. But where can she be? I seem to feel her
+presence here. (_He looks behind the screen, then thrusts it aside,
+showing Mrs. Denham lying dead on the couch._) Blanche! Blanche!
+Look here! Is she--?
+
+Mrs. Tremaine.
+
+She has fainted--let me--!
+
+Denham.
+
+(_throws himself down beside the couch and puts his finger on her
+wrist_) Oh my God! Dead! Dead!
+
+Mrs. Tremaine.
+
+No, no, no! It is too terrible! Let us try if----(_Attempts to open
+dress, then recoils in horror._) And I had begun to hate her--yes,
+to _hate_ her. My poor good Constance!
+
+Denham.
+
+But how--? (_Rising._) _Is_ she dead, Blanche?
+
+Mrs. Tremaine.
+
+(_mastering her agitation_) Yes, dear, dead! She has taken poison.
+See here! (_Picks up the cup._) What a horrible death! Her face is
+awful!
+
+Denham.
+
+Oh, Constance, why did I leave you? I had a vague fear of
+something--but not this! (_Throws himself down again, and stoops to
+kiss her._) Ha! Prussic acid! No help! No hope! Yet she is warm.
+(_He starts up._) Could we--? But death is a matter of seconds with
+that infernal stuff. Blanche, Blanche, I have killed her!
+
+Mrs. Tremaine.
+
+I claim my share in the guilt.
+
+Denham.
+
+No, no. Leave me! Let the dead bury their dead!
+
+Mrs. Tremaine.
+
+If you wish me to leave you, dear, I will go.
+
+Denham.
+
+Yes--for God's sake, go! (_She moves towards the door._) But,
+Blanche, don't leave the house. I can't bear this alone.
+
+Mrs. Tremaine.
+
+(_returns to him_) You know, dear, I am yours always. Oh, don't hate
+me! I dare to say it in this presence. (_She kisses his hand. He
+shrinks from her._) Now I can go. (_She goes to the door and looks
+back as Denham kneels and clasps the body in his arms._) Will he
+hate me now? (_Exit Mrs. Tremaine._)
+
+Denham.
+
+Constance! I meant to have kept you from all the thorns of life! It
+was fate! It was fate!
+
+
+CURTAIN.
+
+
+
+
+       *       *       *       *       *
+
+Printed by Hazell, Watson, and Viney, Ld., London and Aylesbury.
+
+
+
+
+=THE INDEPENDENT THEATRE SERIES OF PLAYS.=
+
+EDITED BY J.T. GREIN.
+
+_Crown 8vo, 2s. 6d. net._
+
+       *       *       *       *       *
+
+The undermentioned are now ready:--
+
+I.
+
+=WIDOWERS' HOUSES=. By GEORGE BERNARD SHAW, with a Preface
+by the Author, an Address to Dramatic Critics, and an Appendix
+treating of the discussion raised by the performance.
+
+
+II.
+
+=ALAN'S WIFE=. Anonymous. With a Preface by WILLIAM ARCHER.
+
+
+III.
+
+=THE HEIRS OF RABOURDIN=. By EMILE ZOLA. Translated by
+A. TEIXEIRA DE MATTOS. With a Preface by the Author.
+
+
+IV.
+
+=THE BLACK CAT=. By Dr. TODHUNTER. With an Introduction by
+the Author.
+
+       *       *       *       *       *
+
+=DRAMA.=
+
+
+I.
+
+=THE GARDEN OF CITRONS=. By EMILIO MONTANARO. Translated by J.T. GREIN.
+With a Preface by JOHN GRAY. Paper Covers, 1s. net.
+
+
+II.
+
+=TWO PLAYS=. By MEYRICK MILTON. With a Preface by the Author.
+Crown 8vo, 2s. 6d. net.
+
+
+
+
+=ASK TO SEE A SPECIMEN COPY.=
+
+_NOW PUBLISHING._
+
+THE NEW ART SERIAL.
+
+The Most Exhaustive Work ever Published.
+
+THE HISTORY
+
+OF
+
+MODERN PAINTING
+
+_OVER 2,300 PAGES AND 1,300 ILLUSTRATIONS._
+
+Describes and Illustrates the Art of
+
+    =ENGLAND=,
+    =NORWAY & SWEDEN=,
+    =HOLLAND=,
+    =JAPAN=,
+    =FRANCE=,
+    =SCOTLAND=,
+    =RUSSIA=,
+    =BELGIUM=,
+    =SPAIN=,
+    =GERMANY=,
+    =AMERICA=,
+    =ITALY=, Etc.
+
+In 36 Monthly Parts, 1s. net, or 16 Monthly Parts
+
+Half-a-Crown net.
+
+Also in 3 Volumes, cloth gilt, Imperial 8vo, L2 15s. net, and
+
+Half Morocco, Library Edition, L3 15s. net.
+
+=WRITE FOR ILLUSTRATED PROSPECTUS.=
+
+
+_NOW READY._
+
+NEW NOVEL BY JOHN OLIVER HOBBES.
+
+=THE GODS, SOME MORTALS AND LORD WICKENHAM=.
+
+_By the Author of "Some Emotions and a Moral," "The Sinners'
+Comedy," etc._
+
+IN ONE VOL., 6s.
+
+       *       *       *       *       *
+
+BY JOCELYN QUILP.
+
+=BARON VERDIGRIS:=
+
+=A ROMANCE OF THE REVERSED DIRECTION.=
+
+WITH A FRONTISPIECE BY AUBREY BEARDSLEY.
+
+_Crown 8vo, 3s. 6d._
+
+       *       *       *       *       *
+
+By ANTHONY DEANE.
+
+=HOLIDAY RHYMES=.
+
+From "Punch," "Pall Mall," "St. James's," and "Westminster Gazettes,"
+etc.
+
+_Crown 8vo, 3s. 6d._
+
+       *       *       *       *       *
+
+EDITED BY THE MARQUIS DE RUVIGNY AND RAINEVAL.
+
+=THE LEGITIMIST KALENDAR=
+
+=FOR 1895.=
+
+Containing a full account of the claims of the Carlists in Spain,
+the Miguelists in Portugal, the _Blancs d'Espagne_ in France, and
+the Jacobite Party in England. Illustrated with Portraits of their
+Most Christian and Catholic Majesties the King and Queen of France,
+Spain, and Navarre. Published by Subscription only at 5s. net.
+Twenty-Five Copies on Dutch Hand-made Paper at One Guinea.
+Prospectus forwarded on application.
+
+
+=IN THE GREEN PARK=.
+
+By F. NORREYS CONNELL.
+
+WITH ILLUSTRATIONS BY F.H. TOWNSEND.
+
+_Crown 8vo, 3s. 6d._
+
+"Excellent fooling. Teems with classical chaff and latter-day
+badinage. The chief attraction is the uninterrupted flow of
+exuberant animal spirits which permeates its pages. Mr. Townsend's
+illustrations to this quaint work are decidedly funny."--_Daily
+Telegraph._
+
+"Full of clever and whimsical conceits. Will best be appreciated by
+Londoners, and welcome to the general reader."--_Morning Post._
+
+"Not at all a bad specimen of the New Humour."--_Truth._
+
+"The newest New Humour."--_National Observer._
+
+"Very clever. Mr. Connell's next volume is sure to be good."--_Black
+and White._
+
+"A fantastic and amusing work. Mr. Connell is a humorist, and a
+humorist of a distinctly original type. We have laughed heartily
+over this book. The whole is so piquantly flavoured and seasoned.
+Stories of the after-dinner type, audacious occasionally, but never
+coarse, and always redeemed by a pretty and nimble art. The author
+is a good fellow with his quips, and jests, and cranks; and nobody
+will regret making his acquaintance."--_Weekly Sun._
+
+       *       *       *       *       *
+
+=THE BACHELORS' CLUB=.
+
+By I. ZANGWILL.
+
+WITH ILLUSTRATIONS BY GEORGE HUTCHINSON.
+
+_Crown 8vo, 3s. 6d._
+
+ST. JAMES'S GAZETTE: "Some exceedingly clever fooling, and
+a happy audacity of whimsical invention."
+
+DAILY GRAPHIC: "A genuine humorist. We own to having
+laughed heartily, and appreciated the cleverness and the cynicism."
+
+STAR: "Mr. Zangwill has an original way of being funny. He
+is full of clever and witty, paradoxical and epigrammatical,
+surprises. His book is a splendid tonic for gloomy spirits."
+
+EVENING NEWS: "Not one in a score of the amusing books
+which come from the press is nearly so amusing as this."
+
+SUNDAY TIMES: "Read, laugh over, and profit by the history
+of 'The Bachelors' Club,' capitally told by a fresh young writer."
+
+GLOBE: "A clever and interesting book. Agreeable satire.
+Store of epigram."
+
+REFEREE: "A new comic writer. There is a touch of the
+devilry of Heine in Mr. Zangwill's wit."
+
+SCOTSMAN: "Any one who has listened to what the wild waves
+say as they beat the shores of Bohemia will read the book with
+enjoyment and appreciate its careless merriment."
+
+FREEMAN'S JOURNAL: "Very clever and amusing; highly
+interesting, humorous and instructive."
+
+PICTORIAL WORLD: "One of the smartest books of the season.
+Brimful of funny ideas, comically expressed."
+
+MAN OF THE WORLD: "Witty to excess. To gentlemen who dine
+out, the book will furnish a stock of 'good things' upon every
+conceivable subject of conversation."
+
+GRANTA: "A book of genuine humour. Full of amusing things.
+The style is fresh and original."
+
+
+DISILLUSION:
+
+_A STORY WITH A PREFACE._
+
+BY DOROTHY LEIGHTON,
+
+_Author of "As a Man is Able."_
+
+THREE VOLS. AT ALL LIBRARIES.
+
+       *       *       *       *       *
+
+"The leading characters in this typically modern tale are very
+well drawn, and the author has distanced all her fellow-novelists
+of her own sex in the delineation of a woman whose heartlessness
+may be truly called devilish. The strength of this portrait is
+remarkable. The other woman is effective too, and the tangle of
+the relations of the three is put right by a device of startling
+originality."--_World._
+
+"Few cleverer books have come under our notice for many months
+past."--_Daily Telegraph._
+
+"A story with the one supreme merit of originality."--_Daily
+Chronicle._
+
+"Another study of the New Woman, and a most brilliant and convincing
+study. Celia Adair is almost an inspiration. Such a woman has never
+been drawn with more absolute truthfulness.... A very powerful and
+pathetic piece of work."--_Speaker._
+
+"A very clever story; ... it is on the crest of the wave."--_Review
+of Reviews._
+
+"Had we space, we should like to make a good many quotations from
+the sayings of Celia. Her principles are abominable, and her morals
+are of the laxest; but many of her remarks are original, pungent,
+and entertaining. A good deal of thought has evidently been expended
+upon this book,"--_Saturday Review._
+
+       *       *       *       *       *
+
+THE PENTAMERONE;
+
+OR,
+
+=The Tale of Tales=.
+
+_BEING A TRANSLATION FROM THE NEAPOLITAN._
+
+BY THE LATE
+
+CAPTAIN SIR RICHARD BURTON, K.C.M.G.
+
+A limited Edition in Two Volumes, demy 8vo, L3 3s.
+
+_A Large Paper Edition on Hand-made Paper, limited to_ 150 _numbered
+Copies_, L5 5s. _nett_.
+
+Prospectus on application.
+
+
+NEW WORK BY BARRY PAIN.
+
+
+THE KINDNESS OF THE CELESTIAL.
+
+By the Author of "In a Canadian Canoe," etc.
+
+_Crown 8vo, 3s. 6d._
+
+"Has a quaintness and distinction of its own, an elusive quality
+of style, a personal touch, that lends to it a whimsical
+fascination,"--_Daily News._
+
+
+BY THE SAME AUTHOR.
+
+IN A CANADIAN CANOE.
+
+_Fourth Edition. Crown 8vo, cloth, 2s. 6d._
+
+"The pleasant and even remarkable book which Mr. Barry Pain has
+contributed to the Whitefriars Library. The best thing in the book,
+to our mind, is 'The Celestial Grocery,' a quaint and thoroughly
+original blending of effervescent humour with grim pathos."--_Pall
+Mall Gazette._
+
+"Mr. Barry Pain has a decided sense of humour. The best things in
+the volume are the classical burlesques grouped under the title of
+'The Nine Muses minus One.' They are really clever and full of
+_esprit_."--_Academy._
+
+"Nor is he deficient in fancy, and 'The Celestial Grocery' is as
+whimsical as it is fresh. 'Bill' is in yet another vein, and proves
+that Mr. Pain can handle the squalor of reality: while the last half
+of 'The Girl and the Beetle,' the best of the book, suggests a
+certain comprehension of character."--_National Observer._
+
+"An original worker, a man who copies no one either in treatment or
+style--this, his first volume, should find a wide popularity."--_The
+Review of Reviews._
+
+"If you want a really refreshing book, a book whose piquant savour
+and quaint originality of style are good for jaded brains, buy and
+read _In a Canadian Canoe_.... There is in these stories a curious
+mixture of humour, insight, and pathos, with here and there a dash
+of grimness and a sprinkling of that charming irrelevancy which is
+of the essence of true humour. As for 'The Celestial Grocery,' I can
+only say that it is in its way a masterpiece."--_Punch._
+
+
+STORIES AND INTERLUDES.
+
+_Second Edition. Crown 8vo, cloth, 3s. 6d._
+
+"Mr. Pain has a delicate fancy and a graceful style, a bitter-sweet
+humour, and a plentiful endowment of 'the finer perceptions.'"_--Punch._
+
+"Amazingly clever.... Teems with satire and good
+things."--_Speaker._
+
+"'The Magic Morning,' though dealing with a young city man and his
+wife, has the atmosphere of far-away dreaminess which is so charming
+in some of Nathaniel Hawthorne's short stories."--_Saturday Review._
+
+"There is something delightfully, because unsatisfactorily,
+fascinating in these stories, with their touch of _diablerie_, their
+elusiveness."--_National Review._
+
+"If we laugh less over these pages than over the grotesque
+absurdities that abounded in the former collection of sketches, we
+are the more fascinated by the quiet subtlety of their humour, their
+irony and pathos."--_Evening News and Post._
+
+"There is a great charm about these stories and
+interludes."--_Vanity Fair._
+
+"Full of charm, fantasy, and pathos."--_Ladies' Pictorial._
+
+"The book as a whole is decidedly clever."--_Guardian._
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Black Cat, by John Todhunter
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE BLACK CAT ***
+
+***** This file should be named 17218.txt or 17218.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/7/2/1/17218/
+
+Produced by Michael Ciesielski, Cori Samuel and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+*** END: FULL LICENSE ***
+

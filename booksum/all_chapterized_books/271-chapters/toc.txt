@@ -1,0 +1,49 @@
+Part 1|Chapter 1|My Early Home|1.txt
+Part 1|Chapter 2|The Hunt|2.txt
+Part 1|Chapter 3|My Breaking In|3.txt
+Part 1|Chapter 4|Birtwick Park|4.txt
+Part 1|Chapter 5|A Fair Start|5.txt
+Part 1|Chapter 6|Liberty|6.txt
+Part 1|Chapter 7|Ginger|7.txt
+Part 1|Chapter 8|Ginger's Story Continued|8.txt
+Part 1|Chapter 9|Merrylegs|9.txt
+Part 1|Chapter 10|A Talk in the Orchard|10.txt
+Part 1|Chapter 11|Plain Speaking|11.txt
+Part 1|Chapter 12|A Stormy Day|12.txt
+Part 1|Chapter 13|The Devil's Trade Mark|13.txt
+Part 1|Chapter 14|James Howard|14.txt
+Part 1|Chapter 15|The Old Hostler|15.txt
+Part 1|Chapter 16|The Fire|16.txt
+Part 1|Chapter 17|John Manly's Talk|17.txt
+Part 1|Chapter 18|Going for the Doctor|18.txt
+Part 1|Chapter 19|Only Ignorance|19.txt
+Part 1|Chapter 20|Joe Green|20.txt
+Part 1|Chapter 21|The Parting|21.txt
+Part 2|Chapter 22|Earlshall|22.txt
+Part 2|Chapter 23|A Strike for Liberty|23.txt
+Part 2|Chapter 24|The Lady Anne, or a Runaway Horse|24.txt
+Part 2|Chapter 25|Reuben Smith|25.txt
+Part 2|Chapter 26|How it Ended|26.txt
+Part 2|Chapter 27|Ruined and Going Downhill|27.txt
+Part 2|Chapter 28|A Job Horse and His Drivers|28.txt
+Part 2|Chapter 29|Cockneys|29.txt
+Part 2|Chapter 30|A Thief|30.txt
+Part 2|Chapter 31|A Humbug|31.txt
+Part 3|Chapter 32|A Horse Fair|32.txt
+Part 3|Chapter 33|A London Cab Horse|33.txt
+Part 3|Chapter 34|An Old War Horse|34.txt
+Part 3|Chapter 35|Jerry Barker|35.txt
+Part 3|Chapter 36|The Sunday Cab|36.txt
+Part 3|Chapter 37|The Golden Rule|37.txt
+Part 3|Chapter 38|Dolly and a Real Gentleman|38.txt
+Part 3|Chapter 39|Seedy Sam|39.txt
+Part 3|Chapter 40|Poor Ginger|40.txt
+Part 3|Chapter 41|The Butcher|41.txt
+Part 3|Chapter 42|The Election|42.txt
+Part 3|Chapter 43|A Friend in Need|43.txt
+Part 3|Chapter 44|Old Captain and His Successor|44.txt
+Part 3|Chapter 45|Jerry's New Year|45.txt
+Part 4|Chapter 46|Jakes and the Lady|46.txt
+Part 4|Chapter 47|Hard Times|47.txt
+Part 4|Chapter 48|Farmer Thoroughgood and His Grandson Willie|48.txt
+Part 4|Chapter 49|My Last Home|49.txt

@@ -1,0 +1,30 @@
+|Chapter 1|How Candide was brought up in a Magnificent Castle, and how he was expelled thence |02.txt
+|Chapter 2|What became of Candide among the Bulgarians|03.txt
+|Chapter 3|How Candide made his escape from the Bulgarians, and what afterwards became of him|04.txt
+|Chapter 4|How Candide found his old Master Pangloss, and what happened to them|05.txt
+|Chapter 5|Tempest, Shipwreck, Earthquake, and what became of Doctor Pangloss, Candide, and James the Anabaptist|06.txt
+|Chapter 6|How the Portuguese made a Beautiful Auto-da-fe, to prevent any further Earthquakes: and how Candide was publicly whipped |07.txt
+|Chapter 7|How the Old Woman took care of Candide, and how he found the Object he loved|08.txt
+|Chapter 8|The History of Cunegonde|09.txt
+|Chapter 9|What became of Cunegonde, Candide, the Grand Inquisitor, and the Jew|10.txt
+|Chapter 10|In what distress Candide, Cunegonde, and the Old Woman arrived at Cadiz; and of their Embarkation|11.txt
+|Chapter 11|History of the Old Woman |12.txt
+|Chapter 12|The Adventures of the Old Woman continued|13.txt
+|Chapter 13|How Candide was forced away from his fair Cunegonde and the Old Woman|14.txt
+|Chapter 14|How Candide and Cacambo were received by the Jesuits of Paraguay |15.txt
+|Chapter 15|How Candide killed the brother of his dear Cunegonde |16.txt
+|Chapter 16|Adventures of the Two Travellers, with Two Girls, Two Monkeys, and the Savages called Oreillons|17.txt
+|Chapter 17|Arrival of Candide and his Valet at El Dorado, and what they saw there|18.txt
+|Chapter 18|What they saw in the Country of El Dorado  |19.txt
+|Chapter 19|What happened to them at Surinam and how Candide got acquainted with Martin|20.txt
+|Chapter 20|What happened at Sea to Candide and Martin|21.txt
+|Chapter 21|Candide and Martin, reasoning, draw near the Coast of France|22.txt
+|Chapter 22|What happened in France to Candide and Martin|23.txt
+|Chapter 23|Candide and Martin touched upon the Coast of England, and what they saw there|24.txt
+|Chapter 24|Of Paquette and Friar Giroflee |25.txt
+|Chapter 25|The Visit to Lord Pococurante, a Noble Venetian|26.txt
+|Chapter 26|Of a Supper which Candide and Martin took with Six Strangers, and who they were|27.txt
+|Chapter 27|Candide's Voyage to Constantinople|28.txt
+|Chapter 28|What happened to Candide, Cunegonde, Pangloss, Martin, etc.|29.txt
+|Chapter 29|How Candide found Cunegonde and the Old Woman again|30.txt
+|Chapter 30|The Conclusion|31.txt

@@ -1,0 +1,24 @@
+|Chapter 1|        The Cyclone|1.txt
+|Chapter 2|   The Council with The Munchkins|2.txt
+|Chapter 3| How Dorothy saved the Scarecrow|3.txt
+|Chapter 4|   The Road through the Forest|4.txt
+|Chapter 5|        The Rescue of the Tin Woodman|5.txt
+|Chapter 6|   The Cowardly Lion|6.txt
+|Chapter 7|   The Journey to The Great Oz|7.txt
+|Chapter 8|    The Deadly Poppy Field|8.txt
+|Chapter 9|   The Queen of the Field Mice|9.txt
+|Chapter 10|        The Guardian of the Gate|10.txt
+|Chapter 11|   The Wonderful Emerald City of Oz|11.txt
+|Chapter 12|   The Search for the Wicked Witch|12.txt
+|Chapter 13|    The Rescue|13.txt
+|Chapter 14|   The Winged Monkeys|14.txt
+|Chapter 15|   The Discovery of OZ, The Terrible|15.txt
+|Chapter 16|   The Magic Art of the Great Humbug|16.txt
+|Chapter 17|    How the Balloon was Launched|17.txt
+|Chapter 18|   Away to the South|18.txt
+|Chapter 19|   Attacked by the Fighting Trees|19.txt
+|Chapter 20|   The Dainty China Country|20.txt
+|Chapter 21|   The Lion Becomes the King of Beasts|21.txt
+|Chapter 22|    The Country of the Quadlings|22.txt
+|Chapter 23|   The Good Witch Grants Dorothy's Wish|23.txt
+|Chapter 24|    Home Again|24.txt

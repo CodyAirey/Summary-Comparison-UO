@@ -1,0 +1,61 @@
+
+### TITLE FIXES
+
+"Henry IV,"
+"King Henry IV"
+"Henry IV"
+
+"Winesburg, Ohio"
+"Winesburg Ohio"
+
+
+"Looking Backward": 28,
+"Looking Backward: 2000-1887": 28,
+
+"A Room With a View": 17,
+"A Room with a View": 20,
+
+"Alice's Adventures in Wonderland": 12,
+"Alice in Wonderland": 12,
+"Alice's Adventures In Wonderland": 10,
+
+"The House of Mirth book 1": 15,
+"The House of Mirth book 2": 14,
+"House of Mirth book 1": 15,
+"House of Mirth book 2": 14,
+
+"Notes from the Underground": 21,
+"Notes From Underground": 21,
+
+"Maggie: A Girl of the Streets": 19,
+"Maggie A Girl of the Streets": 19,
+
+"O Pioneers": 28,
+"O Pioneers!": 30,
+
+"Love's Labour's Lost": 9,
+"Love's Labours Lost": 9,
+
+"The Two Gentlemen of Verona": 18,
+"Two Gentlemen of Verona": 20,
+
+"The Merry Wives of Windsor": 23,
+"Merry Wives of Windsor": 22,
+
+"Cyrano de Bergerac": 46,
+"Cyrano De Bergerac": 46,
+
+"The Portrait of a Lady": 55,
+"Portrait of a Lady": 55,
+
+
+# CHAPTER COUNT ISSUES
+
+issues for any sort of book with a "finale" or "Prolouge" and whether or not a source chose to include that by default in the first/last chapter or keep it separate
+
+Includes / creates issues with normalized titles
+
+# ROMAN NUMERAL ISSUES
+
+
+# AGGREGATE CHAPTER ISSUES

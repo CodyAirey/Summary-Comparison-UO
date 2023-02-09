@@ -1,0 +1,51 @@
+Act 1|Introduction||1.txt
+Act 1|Scene 1||2.txt
+Act 1|Scene 2||3.txt
+Act 1|Scene 3||4.txt
+Act 1|Scene 4||5.txt
+Act 1|Scene 5||6.txt
+Act 1|Scene 6||7.txt
+Act 1|Scene 7||8.txt
+Act 2|Introduction||9.txt
+Act 2|Scene 1||10.txt
+Act 2|Scene 2||11.txt
+Act 2|Scene 3||12.txt
+Act 2|Scene 4||13.txt
+Act 2|Scene 5||14.txt
+Act 2|Scene 6||15.txt
+Act 2|Scene 7||16.txt
+Act 2|Scene 8||17.txt
+Act 2|Scene 9||18.txt
+Act 2|Scene 10||19.txt
+Act 2|Scene 11||20.txt
+Act 3|Introduction||21.txt
+Act 3|Scene 1||22.txt
+Act 3|Scene 2||23.txt
+Act 3|Scene 3||24.txt
+Act 3|Scene 4||25.txt
+Act 3|Scene 5||26.txt
+Act 3|Scene 6||27.txt
+Act 3|Scene 7||28.txt
+Act 3|Scene 8||29.txt
+Act 3|Scene 9||30.txt
+Act 3|Scene 10||31.txt
+Act 3|Scene 11||32.txt
+Act 3|Scene 12||33.txt
+Act 4|Introduction||34.txt
+Act 4|Scene 1||35.txt
+Act 4|Scene 2||36.txt
+Act 4|Scene 3||37.txt
+Act 4|Scene 4||38.txt
+Act 4|Scene 5||39.txt
+Act 4|Scene 6||40.txt
+Act 4|Scene 7||41.txt
+Act 4|Scene 8||42.txt
+Act 4|Scene 9||43.txt
+Act 4|Scene 10||44.txt
+Act 5|Introduction||45.txt
+Act 5|Scene 1||46.txt
+Act 5|Scene 2||47.txt
+Act 5|Scene 3||48.txt
+Act 5|Scene 4||49.txt
+Act 5|Scene 5||50.txt
+Act 5|Scene 6||51.txt

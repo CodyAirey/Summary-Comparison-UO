@@ -1,0 +1,23 @@
+|Chapter 1|SOME IN RAGS|02.txt
+|Chapter 2|AN AMERICAN CONSULT|03.txt
+|Chapter 3|FOR HER COUNTRY|04.txt
+|Chapter 4|THE YOUNG VINTNER|05.txt
+|Chapter 5|A COMPATRIOT|06.txt
+|Chapter 6|AT THE BLACK EAGLE|07.txt
+|Chapter 7|AN ELDER BROTHER|08.txt
+|Chapter 8|THE KING'S LETTER|09.txt
+|Chapter 9|GRETCHEN'S DAY|10.txt
+|Chapter 10|AFFAIRS OF STATE|11.txt
+|Chapter 11|THE SOCIALISTS|12.txt
+|Chapter 12|LOVE'S DOUBTS|13.txt
+|Chapter 13|A DAY DREAM|14.txt
+|Chapter 14|FIND THE WOMAN|15.txt
+|Chapter 15|THE WRONG MAN|16.txt
+|Chapter 16|HER FAN|17.txt
+|Chapter 17|AFTER THE VINTAGE|18.txt
+|Chapter 18|A WHITE SCAR|19.txt
+|Chapter 19|DISCLOSURES|20.txt
+|Chapter 20|THE KING|21.txt
+|Chapter 21|TWIN LOCKETS|22.txt
+|Chapter 22|A LITTLE FINGER|23.txt
+|Chapter 23|HAPPINESS|24.txt

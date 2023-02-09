@@ -1,0 +1,16 @@
+Act 1|Scene 1||1.txt
+Act 1|Scene 2||2.txt
+Act 2|Scene 1||3.txt
+Act 2|Scene 2||4.txt
+Act 3|Scene 1||5.txt
+Act 3|Scene 2||6.txt
+Act 3|Scene 3||7.txt
+Act 4|Scene 1||8.txt
+Act 4|Scene 2||9.txt
+Act 4|Scene 3||10.txt
+Act 5|Scene 1||11.txt
+Act 5|Scene 2||12.txt
+Act 5|Scene 3||13.txt
+Act 5|Scene 4||14.txt
+Act 5|Scene 5||15.txt
+Act 5|Scene 6||16.txt

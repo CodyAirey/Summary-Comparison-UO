@@ -1,0 +1,14 @@
+ACT 1|Scene 1||01.txt
+ACT 1|Scene 2||02.txt
+ACT 2|Scene 1||03.txt
+ACT 2|Scene 2||04.txt
+ACT 3|Scene 1||05.txt
+ACT 3|Scene 2||06.txt
+ACT 3|Scene 3||07.txt
+ACT 3|Scene 4||08.txt
+ACT 4|Scene 1||09.txt
+ACT 4|Scene 2||10.txt
+ACT 4|Scene 3||11.txt
+ACT 5|Scene 1||12.txt
+ACT 5|Scene 2||13.txt
+ACT 5|Scene 3||14.txt

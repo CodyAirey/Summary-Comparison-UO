@@ -1,0 +1,12 @@
+Part 1|Chapter 1|THE SON OF THE BRAHMAN|1.txt
+Part 1|Chapter 2|WITH THE SAMANAS|2.txt
+Part 1|Chapter 3|GOTAMA|3.txt
+Part 1|Chapter 4|AWAKENING|4.txt
+Part 2|Chapter 5|KAMALA|5.txt
+Part 2|Chapter 6|WITH THE CHILDLIKE PEOPLE|6.txt
+Part 2|Chapter 7|SANSARA|7.txt
+Part 2|Chapter 8|BY THE RIVER|8.txt
+Part 2|Chapter 9|THE FERRYMAN|9.txt
+Part 2|Chapter 10|THE SON|10.txt
+Part 2|Chapter 11|OM|11.txt
+Part 2|Chapter 12|GOVINDA|12.txt

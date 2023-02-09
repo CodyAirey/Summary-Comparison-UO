@@ -1,0 +1,10 @@
+Act 1|Scene 1||1.txt
+Act 1|Scene 2||2.txt
+Act 2|Scene 1||3.txt
+Act 2|Scene 2||4.txt
+Act 3|Scene 1||5.txt
+Act 3|Scene 2||6.txt
+Act 3|Scene 3||7.txt
+Act 4|Scene 1||8.txt
+Act 5|Scene 1||9.txt
+Act 5||EPILOGUE|10.txt

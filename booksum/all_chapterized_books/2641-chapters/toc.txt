@@ -1,0 +1,20 @@
+Part 1|Chapter 1|The Bertolini|02.txt
+Part 1|Chapter 2|In Santa Croce with No Baedeker|03.txt
+Part 1|Chapter 3|Music, Violets, and the Letter "S"|04.txt
+Part 1|Chapter 4|Fourth Chapter|05.txt
+Part 1|Chapter 5|Possibilities of a Pleasant Outing|06.txt
+Part 1|Chapter 6|The Reverend Arthur Beebe, the Reverend Cuthbert Eager, Mr. Emerson, Mr. George Emerson, Miss Eleanor Lavish, Miss Charlotte Bartlett, and Miss Lucy Honeychurch Drive Out in Carriages to See a View; Italians Drive Them|07.txt
+Part 1|Chapter 7|They Return|08.txt
+Part 2|Chapter 8|Medieval|09.txt
+Part 2|Chapter 9|Lucy as a Work of Art|10.txt
+Part 2|Chapter 10|Cecil as a Humourist|11.txt
+Part 2|Chapter 11|In Mrs. Vyse's Well-Appointed Flat|12.txt
+Part 2|Chapter 12|Twelfth Chapter|13.txt
+Part 2|Chapter 13|How Miss Bartlett's Boiler Was So Tiresome|14.txt
+Part 2|Chapter 14|How Lucy Faced the External Situation Bravely|15.txt
+Part 2|Chapter 15|The Disaster Within|16.txt
+Part 2|Chapter 16|Lying to George|18.txt
+Part 2|Chapter 17|Lying to Cecil|19.txt
+Part 2|Chapter 18|Lying to Mr. Beebe, Mrs. Honeychurch, Freddy, and the Servants|20.txt
+Part 2|Chapter 19|Lying to Mr. Emerson|21.txt
+Part 2|Chapter 20|The End of the Middle Ages|22.txt

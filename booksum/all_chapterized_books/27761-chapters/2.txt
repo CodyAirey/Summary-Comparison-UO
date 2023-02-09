@@ -1,0 +1,326 @@
+SCENE II.--A ROOM OF STATE IN THE PALACE.
+
+    _Trumpet March._
+
+    _Enter the_ KING _and_ QUEEN, _preceded by_ POLONIUS, HAMLET,
+    LAERTES,[23] Lords, Ladies, _and_ Attendants.
+
+  _King._ (R.C.) Though yet of Hamlet our dear brother's death
+  The memory be green;[24] and that it us befitted
+  To bear our hearts in grief, and our whole kingdom
+  To be contracted in one brow of woe;
+  Yet so far hath discretion fought with nature,
+  That we with wisest sorrow[25] think on him,
+  Together with remembrance of ourselves.
+  Therefore our sometime sister, now our queen,
+  The imperial jointress of this warlike state,
+  Have we, as 'twere with a defeated joy,[26]
+  Taken to wife: nor have we herein barr'd[27]
+  Your better wisdoms, which have freely gone
+  With this affair along:--For all, our thanks.
+  And now, Laertes, what's the news with you?
+  You told us of some suit; What is't, Laertes?
+
+  _Laer._ (R.)                   My dread lord,
+  Your leave and favour[28] to return to France;
+  From whence though willingly I came to Denmark,
+  To show my duty in your coronation,
+  Yet now, I must confess, that duty done,
+  My thoughts and wishes bend again toward France,
+  And bow them to your gracious leave and pardon.
+
+  _King._ Have you your father's leave? What says Polonious?
+
+  _Pol._ (R.) He hath, my lord, (wrung from me my slow leave
+  By laboursome petition; and, at last,
+  Upon his will I sealed my hard consent):[29]
+  I do beseech you, give him leave to go.
+
+  _King._ Take thy fair hour, Laertes; time be thine,
+  And thy best graces spend it at thy will![30]
+  But now, my cousin Hamlet, and my son,----
+
+  _Ham._ (L.) A little more than kin, and less than kind.[31]
+
+    [Aside.]
+
+  _King._ How is it that the clouds still hang on you?
+
+  _Ham._ Not so, my lord; I am too much i'the sun.[32]
+
+  _Queen._(L.C.) Good Hamlet, cast thy nighted colour[33] off,
+  And let thine eye look like a friend on Denmark.
+  Do not for ever with thy vailed lids[34]
+  Seek for thy noble father in the dust:
+  Thou know'st 'tis common, all that live must die,
+  Passing through nature to eternity.
+
+  _Ham._ Ay, madam, it is common.
+
+  _Queen._                          If it be,
+  Why seems it so particular with thee?
+
+  _Ham._ Seems, madam! nay, it is; I know not seems.
+  'Tis not alone my inky cloak, good mother,
+  Nor the dejected haviour of the visage,
+  No, nor the fruitful river in the eye,
+  Together with all forms, modes, shows of grief,
+  That can denote me truly: These, indeed, seem,
+  For they are actions that a man might play.
+  But I have that within which passeth show;[35]
+  These but the trappings[36] and the suits of woe.
+
+  _King._ 'Tis sweet and commendable in your nature, Hamlet,
+  To give these mourning duties to your father:
+  But, you must know, your father lost a father;
+  That father lost, lost his;[37] and the survivor bound,
+  In filial obligation, for some term
+  To do obsequious sorrow:[38] But to persever[39]
+  In obstinate condolement,[40] is a course
+  Of impious stubbornness; 'tis unmanly grief:
+  It shows a will most incorrect to Heaven.[41]
+  We pray you, throw to earth
+  This unprevailing[42] woe; and think of us
+  As of a father: for let the world take note,
+  You are the most immediate to our throne;
+  Our chiefest courtier, cousin, and our son.
+
+  _Queen._ Let not thy mother lose her prayers, Hamlet:
+  I pray thee, stay with us; go not to Wittenberg.
+
+  _Ham._ I shall in all my best obey you, madam.
+
+  _King._ Why, 'tis a loving and a fair reply;
+  Be as ourself in Denmark.--Madam, come;
+  This gentle and unforc'd accord of Hamlet
+  Sits smiling to my heart:[43] in grace whereof,[44]
+  No jocund health that Denmark drinks to-day,[45]
+  But the great cannon to the clouds shall tell;
+  Re-speaking earthly thunder.
+
+    [_Trumpet March repeated. Exeunt_ KING _and_ QUEEN,
+    _preceded by_ POLONIUS, Lords, Ladies, LAERTES, _and_
+    Attendants, R.H.]
+
+  _Ham._ O, that this too, too solid flesh would melt,
+  Thaw, and resolve itself[46] into a dew!
+  Or that the Everlasting had not fix'd
+  His canon[47] 'gainst self-slaughter! O God! O God!
+  How weary, stale, flat, and unprofitable
+  Seem to me all the uses of this world![48]
+  Fye on't! O fye! 'tis an unweeded garden,
+  That grows to seed; things rank and gross in nature
+  Possess it merely.[49] That it should come to this!
+  But two months dead!--nay, not so much, not two:
+  So excellent a king; that was, to this,
+  Hyperion to a satyr:[50] so loving to my mother,
+  That he might not beteem[51] the winds of heaven
+  Visit her face too roughly. Heaven and earth!
+  Must I remember? why, she would hang on him,
+  As if increase of appetite had grown
+  By what it fed on: And yet, within a month,--
+  Let me not think on't,--Frailty, thy name is Woman!--
+  A little month; or ere those shoes were old
+  With which she follow'd my poor father's body,
+  Like Niobe, all tears;--she married with my uncle,
+  My father's brother; but no more like my father
+  Than I to Hercules.
+  It is not, nor it cannot come to, good:
+  But break, my heart, for I must hold my tongue!
+
+    _Enter_ HORATIO, BERNARDO, _and_ MARCELLUS (R.H.)
+
+  _Hor._ Hail to your lordship!
+
+  _Ham._                       I am glad to see you well:
+  Horatio,--or I do forget myself.
+
+  _Hor._ The same, my lord, and your poor servant ever.
+
+  _Ham._ Sir, my good friend; I'll change that name with you:[52]
+  And what make you from Wittenberg, Horatio?--
+  Marcellus?
+
+    [_Crosses to_ C.]
+
+  _Mar._ (R.) My good lord,
+
+  _Ham._ (C.) I am very glad to see you; good even, sir.
+
+    [_To_ BERNARDO, R.]
+
+  But what, in faith,[53] make you[54] from Wittenberg?[55]
+
+  _Hor._ (L.) A truant disposition, good my lord.
+
+  _Ham._ I would not hear your enemy say so;
+  Nor shall you do mine ear that violence,
+  To make it truster of your own report
+  Against yourself: I know you are no truant.
+  But what is your affair in Elsinore?
+  We'll teach you to drink deep, ere you depart.
+
+  _Hor._ My lord, I came to see your father's funeral.
+
+  _Ham._ I pray thee, do not mock me, fellow-student;
+  I think it was to see my mother's wedding.
+
+  _Hor._ Indeed, my lord, it followed hard upon.
+
+  _Ham._ Thrift, thrift, Horatio! the funeral bak'd meats
+  Did coldly furnish forth the marriage tables.
+  Would I had met my dearest foe[56] in Heaven
+  Ere ever I had seen that day, Horatio!
+  My father,--Methinks, I see my father.
+
+  _Hor._                           Where,
+  My lord?
+
+  _Ham._ In my mind's eye, Horatio.
+
+  _Hor._ I saw him once; he was a goodly king.[57]
+
+  _Ham._ He was a man, take him for all in all,
+  I shall not look upon his like again.
+
+    [_Crosses to_ L.]
+
+  _Hor._ (C.) My lord, I think I saw him yesternight.
+
+  _Ham._ Saw who?
+
+  _Hor._ My lord, the king your father.
+
+  _Ham._                               The king my father!
+
+  _Hor._ Season your admiration for a while[58]
+  With an attent ear; till I may deliver,
+  Upon the witness of these gentlemen,
+  This marvel to you.
+
+  _Ham._             For Heaven's love, let me hear.
+
+  _Hor._ Two nights together had these gentlemen,
+  Marcellus and Bernardo, on their watch,
+  In the dead waste and middle of the night,[59]
+  Been thus encounter'd. A figure like your father,
+  Arm'd at all points exactly, cap-a-pe,
+  Appears before them, and, with solemn march
+  Goes slow and stately by them: thrice he walk'd
+  By their oppress'd and fear-surprised eyes,
+  Within his truncheon's length; whilst they, distill'd
+  Almost to jelly with the act of fear,[60]
+  Stand dumb, and speak not to him. This to me
+  In dreadful secrecy impart they did;
+  And I with them the third night kept the watch:
+  Where, as they had deliver'd, both in time,
+  Form of the thing, each word made true and good,
+  The apparition comes.
+
+  _Ham._ But where was this?
+
+    [_Crosses to_ MARCELLUS.]
+
+  _Mar._ (R.) My lord, upon the platform where we
+  watch'd.
+
+  _Ham._ (C.) Did you not speak to it?
+
+  _Hor._ (L.)                    My lord, I did;
+  But answer made it none: yet once methought
+  It lifted up its head, and did address[61]
+  Itself to motion, like as it would speak:
+  But, even then, the morning cock crew loud,
+  And at the sound it shrunk in haste away;
+  And vanish'd from our sight.
+
+  _Ham._                      'Tis very strange.
+
+  _Hor._ As I do live, my honour'd lord, 'tis true;
+  And we did think it writ down[62] in our duty
+  To let you know of it.
+
+  _Ham._ Indeed, indeed, sirs, but this troubles me.
+  Hold you the watch to-night?
+
+  _Mar._                      We do, my lord.
+
+  _Ham._ Arm'd, say you?
+
+  _Mar._                Arm'd, my lord.
+
+  _Ham._                               From top to toe?
+
+  _Mar._ My lord, from head to foot.
+
+  _Ham._                            Then saw you not
+  His face?
+
+  _Hor._ O, yes, my lord; he wore his beaver up.[63]
+
+  _Ham._ What, looked he frowningly?
+
+  _Hor._                            A countenance more
+  In sorrow than in anger.
+
+  _Ham._                  Pale or red?
+
+  _Hor._ Nay, very pale.
+
+  _Ham._                And fix'd his eyes upon you?
+
+  _Hor._ Most constantly.
+
+  _Ham._                 I would I had been there.
+
+  _Hor._ It would have much amaz'd you.
+
+  _Ham._                               Very like,
+  Very like. Stay'd it long?
+
+  _Hor._ While one with moderate haste might tell a hundred.
+
+  _Mar._}
+        } Longer, Longer.
+  _Ber._}
+
+  _Hor._ Not when I saw it.
+
+  _Ham._                   His beard was grizzl'd, No?
+
+  _Hor._ It was, as I have seen it in his life,
+  A sable silver'd.
+
+  _Ham._           I will watch to-night;
+  Perchance, 'twill walk again.
+
+  _Hor._ (C.)                  I warrant it will.
+
+  _Ham._ If it assume my noble father's person,
+  I'll speak to it, though hell itself should gape,
+  And bid me hold my peace.
+
+    [_Crosses to_ L.]
+                           I pray you all,
+  If you have hitherto conceal'd this sight,
+  Let it be tenable[64] in your silence still;
+  And whatsoever else shall hap to-night,
+  Give it an understanding, but no tongue;
+  I will requite your loves. So, fare you well:
+  Upon the platform, 'twixt eleven and twelve,
+  I'll visit you.
+
+  _Hor._ (R.) Our duty to your honour.
+
+  _Ham._ Your loves, as mine to you: Farewell.
+
+    [_Exeunt_ HORATIO, MARCELLUS, _and_ BERNARDO, R.H.]
+
+  My father's spirit in arms! all is not well;
+  I doubt some foul play: 'would the night were come;
+  Till then sit still, my soul: Foul deeds will rise,
+  Though all the earth o'erwhelm them, to men's eyes.
+    [_Exit_, L.H.]
+
+
+

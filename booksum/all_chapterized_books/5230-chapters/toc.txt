@@ -1,0 +1,28 @@
+|Chapter 1|The strange Man's Arrival|01.txt
+|Chapter 2|Mr. Teddy Henfrey's first Impressions|02.txt
+|Chapter 3|The thousand and one Bottles|03.txt
+|Chapter 4|Mr. Cuss interviews the Stranger|04.txt
+|Chapter 5|The Burglary at the Vicarage|06.txt
+|Chapter 6|The Furniture that went mad|07.txt
+|Chapter 7|The Unveiling of the Stranger|08.txt
+|Chapter 8|In Transit|09.txt
+|Chapter 9|Mr. Thomas Marvel|10.txt
+|Chapter 10|Mr. Marvel's Visit to Iping|11.txt
+|Chapter 11|In the "Coach and Horses"|12.txt
+|Chapter 12|The invisible Man loses his Temper|13.txt
+|Chapter 13|Mr. Marvel discusses his Resignation|14.txt
+|Chapter 14|At Port Stowe|15.txt
+|Chapter 15|The Man who was running|16.txt
+|Chapter 16|In the "Jolly Cricketers"|17.txt
+|Chapter 17|Dr. Kemp's Visitor|18.txt
+|Chapter 18|The invisible Man sleeps|19.txt
+|Chapter 19|Certain first Principles|20.txt
+|Chapter 20|At the House in Great Portland Street|21.txt
+|Chapter 21|In Oxford Street|22.txt
+|Chapter 22|In the Emporium|23.txt
+|Chapter 23|In Drury Lane|24.txt
+|Chapter 24|The Plan that failed|25.txt
+|Chapter 25|The Hunting of the invisible Man|26.txt
+|Chapter 26|The Wicksteed Murder|27.txt
+|Chapter 27|The Siege of Kemp's House|28.txt
+|Chapter 28|The Hunter hunted|29.txt

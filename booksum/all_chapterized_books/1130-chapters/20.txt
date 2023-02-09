@@ -1,0 +1,16 @@
+SCENE VIII.
+                      A plain near Actium
+
+             Enter CAESAR, with his army, marching
+
+  CAESAR. Taurus!
+  TAURUS. My lord?
+  CAESAR. Strike not by land; keep whole; provoke not battle
+    Till we have done at sea. Do not exceed
+    The prescript of this scroll. Our fortune lies
+    Upon this jump.                                       Exeunt
+
+ACT_3|SC_9
+
+
+

@@ -1,0 +1,1 @@
+{"name": "book 3, Book I", "summary": "Book I gives the novel's background, detailing Fyodor Pavlovich Karamazov's past and the three brothers' childhoods", "analysis": null, "url": "https://web.archive.org/web/20210305110438/https://www.sparknotes.com/lit/brothersk/section4/"}

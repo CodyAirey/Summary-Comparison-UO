@@ -1,0 +1,71 @@
+|Preface||preface.txt
+Book 1|Chapter 1|Sun and Shadow|01.txt
+Book 1|Chapter 2|Fellow Travellers|02.txt
+Book 1|Chapter 3|Home|03.txt
+Book 1|Chapter 4|Mrs Flintwinch has a Dream|04.txt
+Book 1|Chapter 5|Family Affairs|05.txt
+Book 1|Chapter 6|The Father of the Marshalsea|06.txt
+Book 1|Chapter 7|The Child of the Marshalsea|07.txt
+Book 1|Chapter 8|The Lock|08.txt
+Book 1|Chapter 9|little Mother|09.txt
+Book 1|Chapter 10|Containing the whole Science of Government|10.txt
+Book 1|Chapter 11|Let Loose|11.txt
+Book 1|Chapter 12|Bleeding Heart Yard|12.txt
+Book 1|Chapter 13|Patriarchal|13.txt
+Book 1|Chapter 14|Little Dorrit's Party|14.txt
+Book 1|Chapter 15|Mrs Flintwinch has another Dream|15.txt
+Book 1|Chapter 16|Nobody's Weakness|16.txt
+Book 1|Chapter 17|Nobody's Rival|17.txt
+Book 1|Chapter 18|Little Dorrit's Lover|18.txt
+Book 1|Chapter 19|The Father of the Marshalsea in two or three Relations|19.txt
+Book 1|Chapter 20|Moving in Society|20.txt
+Book 1|Chapter 21|Mr Merdle's Complaint|21.txt
+Book 1|Chapter 22|A Puzzle|22.txt
+Book 1|Chapter 23|Machinery in Motion|23.txt
+Book 1|Chapter 24|Fortune-Telling|24.txt
+Book 1|Chapter 25|Conspirators and Others|25.txt
+Book 1|Chapter 26|Nobody's State of Mind|26.txt
+Book 1|Chapter 27|Five-and-Twenty|27.txt
+Book 1|Chapter 28|Nobody's Disappearance|28.txt
+Book 1|Chapter 29|Mrs Flintwinch goes on Dreaming|29.txt
+Book 1|Chapter 30|The Word of a Gentleman|30.txt
+Book 1|Chapter 31|Spirit|31.txt
+Book 1|Chapter 32|More Fortune-Telling|32.txt
+Book 1|Chapter 33|Mrs Merdle's Complaint|33.txt
+Book 1|Chapter 34|A Shoal of Barnacles|34.txt
+Book 1|Chapter 35|What was behind Mr Pancks on Little Dorrit's Hand|35.txt
+Book 1|Chapter 36|The Marshalsea becomes an Orphan|36.txt
+Book 2|Chapter 1|Fellow Travellers|37.txt
+Book 2|Chapter 2|Mrs General|38.txt
+Book 2|Chapter 3|On the Road|39.txt
+Book 2|Chapter 4|A Letter from Little Dorrit|40.txt
+Book 2|Chapter 5|Something Wrong Somewhere|41.txt
+Book 2|Chapter 6|Something Right Somewhere|42.txt
+Book 2|Chapter 7|Mostly, Prunes and Prism|43.txt
+Book 2|Chapter 8|The Dowager Mrs Gowan is reminded that 'It Never Does'|44.txt
+Book 2|Chapter 9|Appearance and Disappearance|45.txt
+Book 2|Chapter 10|The Dreams of Mrs Flintwinch thicken|46.txt
+Book 2|Chapter 11|A Letter from Little Dorrit|47.txt
+Book 2|Chapter 12|In which a Great Patriotic Conference is holden|48.txt
+Book 2|Chapter 13|The Progress of an Epidemic|49.txt
+Book 2|Chapter 14|Taking Advice|50.txt
+Book 2|Chapter 15|No just Cause or Impediment why these Two Persons should not be joined together|51.txt
+Book 2|Chapter 16|Getting on|52.txt
+Book 2|Chapter 17|Missing|53.txt
+Book 2|Chapter 18|A Castle in the Air|54.txt
+Book 2|Chapter 19|The Storming of the Castle in the Air|55.txt
+Book 2|Chapter 20|Introduces the next|56.txt
+Book 2|Chapter 21|The History of a Self-Tormentor|57.txt
+Book 2|Chapter 22|Who Passes by this Road so late?|58.txt
+Book 2|Chapter 23|Mistress Affery makes a Conditional Promise, respecting her Dreams|59.txt
+Book 2|Chapter 24|The Evening of a Long Day|60.txt
+Book 2|Chapter 25|The Chief Butler Resigns the Seals of Office|61.txt
+Book 2|Chapter 26|Reaping the Whirlwind|62.txt
+Book 2|Chapter 27|The Pupil of the Marshalsea|63.txt
+Book 2|Chapter 28|An Appearance in the Marshalsea|64.txt
+Book 2|Chapter 29|A Plea in the Marshalsea|65.txt
+Book 2|Chapter 30|Closing in|66.txt
+Book 2|Chapter 31|Closed|67.txt
+Book 2|Chapter 32|Going|68.txt
+Book 2|Chapter 33|Going!|69.txt
+Book 2|Chapter 34|Gone|70.txt

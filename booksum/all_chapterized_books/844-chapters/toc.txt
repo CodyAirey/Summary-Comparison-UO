@@ -1,0 +1,3 @@
+ACT 1||Algernon Moncrieff's Flat in Half-Moon Street, W|1.txt
+ACT 2||The Garden at the Manor House, Woolton|2.txt
+ACT 3||Drawing-Room at the Manor House, Woolton|3.txt

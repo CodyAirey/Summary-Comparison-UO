@@ -1,0 +1,5 @@
+Act 1|Scene 1|Actus Primus|1.txt
+Act 2|Scene 1|Actus Secundus|2.txt
+Act 3|Scene 1|Actus Tertius|3.txt
+Act 4|Scene 1|Actus Quartus|4.txt
+Act 5|Scene 1|Actus Quintus|5.txt

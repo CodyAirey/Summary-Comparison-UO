@@ -1,0 +1,4 @@
+ACT 1||The Octagon Room in Sir Robert Chiltern's House in Grosvenor Square|1.txt
+ACT 2||Morning-room in Sir Robert Chiltern's House|2.txt
+ACT 3||The Library of Lord Goring's House in Curzon Street|3.txt
+ACT 4||Same as Act II|4.txt

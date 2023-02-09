@@ -1,0 +1,16 @@
+Part 1|Chapter 1||1.txt
+Part 1|Chapter 2||2.txt
+Part 1|Chapter 3||3.txt
+Part 1|Chapter 4||4.txt
+Part 1|Chapter 5||5.txt
+Part 1|Chapter 6||6.txt
+Part 1|Chapter 7||7.txt
+Part 1|Chapter 8||8.txt
+Part 2|Chapter 1||9.txt
+Part 2|Chapter 2||10.txt
+Part 2|Chapter 3||11.txt
+Part 2|Chapter 4||12.txt
+Part 2|Chapter 5||13.txt
+Part 2|Chapter 6||14.txt
+Part 2|Chapter 7||15.txt
+Part 2|Chapter 8||16.txt

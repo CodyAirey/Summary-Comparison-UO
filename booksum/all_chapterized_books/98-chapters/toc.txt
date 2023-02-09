@@ -1,0 +1,45 @@
+Book 1|Chapter 1|The Period|1.txt
+Book 1|Chapter 2|The Mail|2.txt
+Book 1|Chapter 3|The Night Shadows|3.txt
+Book 1|Chapter 4|The Preparation|4.txt
+Book 1|Chapter 5|The Wine-shop|5.txt
+Book 1|Chapter 6|The Shoemaker|6.txt
+Book 2|Chapter 1|Five Years Later|7.txt
+Book 2|Chapter 2|A Sight|8.txt
+Book 2|Chapter 3|A Disappointment|9.txt
+Book 2|Chapter 4|Congratulatory|10.txt
+Book 2|Chapter 5|The Jackal|11.txt
+Book 2|Chapter 6|Hundreds of People|12.txt
+Book 2|Chapter 7|Monseigneur in Town|13.txt
+Book 2|Chapter 8|Monseigneur in the Country|14.txt
+Book 2|Chapter 9|The Gorgon's Head|15.txt
+Book 2|Chapter 10|Two Promises|16.txt
+Book 2|Chapter 11|A Companion Picture|17.txt
+Book 2|Chapter 12|The Fellow of Delicacy|18.txt
+Book 2|Chapter 13|The Fellow of No Delicacy|19.txt
+Book 2|Chapter 14|The Honest Tradesman|20.txt
+Book 2|Chapter 15|Knitting|21.txt
+Book 2|Chapter 16|Still Knitting|22.txt
+Book 2|Chapter 17|One Night|23.txt
+Book 2|Chapter 18|Nine Days|24.txt
+Book 2|Chapter 19|An Opinion|25.txt
+Book 2|Chapter 20|A Plea|26.txt
+Book 2|Chapter 21|Echoing Footsteps|27.txt
+Book 2|Chapter 22|The Sea Still Rises|28.txt
+Book 2|Chapter 23|Fire Rises|29.txt
+Book 2|Chapter 24|Drawn to the Loadstone Rock|30.txt
+Book 3|Chapter 1|In Secret|31.txt
+Book 3|Chapter 2|The Grindstone|32.txt
+Book 3|Chapter 3|The Shadow|33.txt
+Book 3|Chapter 4|Calm in Storm|34.txt
+Book 3|Chapter 5|The Wood-Sawyer|35.txt
+Book 3|Chapter 6|Triumph|36.txt
+Book 3|Chapter 7|A Knock at the Door|37.txt
+Book 3|Chapter 8|A Hand at Cards|38.txt
+Book 3|Chapter 9| The Game Made|39.txt
+Book 3|Chapter 10|The Substance of the Shadow|40.txt
+Book 3|Chapter 11|Dusk|41.txt
+Book 3|Chapter 12|Darkness|42.txt
+Book 3|Chapter 13|Fifty-two|43.txt
+Book 3|Chapter 14|The Knitting Done|44.txt
+Book 3|Chapter 15|The Footsteps Die Out For Ever|45.txt

@@ -1,0 +1,12 @@
+|Chapter 1|Down the Rabbit-Hole|01.txt
+|Chapter 2|The Pool of Tears|02.txt
+|Chapter 3|A Caucus-Race and a Long Tale|03.txt
+|Chapter 4|The Rabbit Sends in a Little Bill|04.txt
+|Chapter 5|Advice from a Caterpillar|05.txt
+|Chapter 6|Pig and Pepper|06.txt
+|Chapter 7|A Mad Tea-Party|07.txt
+|Chapter 8|The Queen's Croquet-Ground|08.txt
+|Chapter 9|The Mock Turtle's Story|09.txt
+|Chapter 10|The Lobster Quadrille|10.txt
+|Chapter 11|Who Stole the Tarts?|11.txt
+|Chapter 12|Alice's Evidence|12.txt

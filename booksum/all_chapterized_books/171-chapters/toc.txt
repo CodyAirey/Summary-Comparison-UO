@@ -1,0 +1,35 @@
+Volume 1|CHAPTER 1|A Boarding School.|01.txt
+Volume 1|CHAPTER 2|Domestic Concerns.|02.txt
+Volume 1|CHAPTER 3|Unexpected Misfortunes.|03.txt
+Volume 1|CHAPTER 4|Change of Fortune.|04.txt
+Volume 1|CHAPTER 5|Such Things Are.|05.txt
+Volume 1|CHAPTER 6|An Intriguing Teacher.|06.txt
+Volume 1|CHAPTER 7|Natural Sense of Propriety Inherent in the Female Bosom.|07.txt
+Volume 1|CHAPTER 8|Domestic Pleasures Planned.|08.txt
+Volume 1|CHAPTER 9|We Know Not What a Day May Bring Forth.|09.txt
+Volume 1|CHAPTER 10|When We Have Excited Curiosity, It Is But an Act of Good Nature to Gratify it.|10.txt
+Volume 1|CHAPTER 11|Conflict of Love and Duty.|11.txt
+Volume 1|CHAPTER 12|Nature's last, best gift: Creature in whom excell'd, whatever could To sight or thought be nam'd! Holy, divine! good, amiable, and sweet! How thou art falln'!--|12.txt
+Volume 1|CHAPTER 13|Cruel Disappointment.|13.txt
+Volume 1|CHAPTER 14|Maternal Sorrow.|14.txt
+Volume 1|CHAPTER 15|Embarkation.|15.txt
+Volume 1|CHAPTER 16|Necessary Digression.|16.txt
+Volume 1|CHAPTER 17|A Wedding.|17.txt
+Volume 2|CHAPTER 18|Reflections.|18.txt
+Volume 2|CHAPTER 19|A Mistake Discovered.|19.txt
+Volume 2|CHAPTER 20|Chapter of Accidents.|20.txt
+Volume 2|CHAPTER 21|Teach me to feel another's woe, To hide the fault I see, That mercy I to others show That mercy show to me. POPE.|21.txt
+Volume 2|CHAPTER 22|Sorrows of the Heart.|22.txt
+Volume 2|CHAPTER 23|A Man May Smile, and Smile, and Be a Villain.|23.txt
+Volume 2|CHAPTER 24|Mystery Developed.|24.txt
+Volume 2|CHAPTER 25|Reception of a Letter.|25.txt
+Volume 2|CHAPTER 26|What Might Be Expected.|26.txt
+Volume 2|CHAPTER 27|Pensive she mourn'd, and hung her languid head, Like a fair lily overcharg'd with dew.|27.txt
+Volume 2|CHAPTER 28|A Trifling Retrospect.|28.txt
+Volume 2|CHAPTER 29|We Go Forward Again.|29.txt
+Volume 2|CHAPTER 30|And what is friendship but a name, A charm that lulls to sleep, A shade that follows wealth and fame, But leaves the wretch to weep.|30.txt
+Volume 2|CHAPTER 31|Subject Continued.|31.txt
+Volume 2|CHAPTER 32|Reasons Why and Wherefore.|32.txt
+Volume 2|CHAPTER 33|Which People Void of Feeling Need Not Read.|33.txt
+Volume 2|CHAPTER 34|Retribution.|34.txt
+Volume 2|CHAPTER 35|Conclusion.|35.txt

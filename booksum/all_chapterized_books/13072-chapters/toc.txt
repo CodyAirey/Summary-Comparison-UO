@@ -1,0 +1,12 @@
+|Lesson 1|Common Sense: What Is It?|01.txt
+|Lesson 2|The Fight Against Illusion|02.txt
+|Lesson 3|The Development of the Reasoning Power|03.txt
+|Lesson 4|Common Sense and Impulse|04.txt
+|Lesson 5|The Dangers of Sentimentality|05.txt
+|Lesson 6|The Utility of Common Sense in Daily Life|06.txt
+|Lesson 7|Power of Deduction|07.txt
+|Lesson 8|How to Acquire Common Sense|08.txt
+|Lesson 9|Common Sense and Action|09.txt
+|Lesson 10|The Most Thorough Business Man|10.txt
+|Lesson 11|Common Sense and Self-Control|11.txt
+|Lesson 12|Common Sense Does Not Exclude Great Aspirations|12.txt

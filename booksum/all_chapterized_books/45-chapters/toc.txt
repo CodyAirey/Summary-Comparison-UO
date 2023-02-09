@@ -1,0 +1,38 @@
+|Chapter 1|Mrs. Rachel Lynde Is Surprised|01.txt
+|Chapter 2|Matthew Cuthbert Is Surprised|02.txt
+|Chapter 3|Marilla Cuthbert Is Surprised|03.txt
+|Chapter 4|Morning at Green Gables|04.txt
+|Chapter 5|Anne's History|05.txt
+|Chapter 6|Marilla Makes Up Her Mind|06.txt
+|Chapter 7|Anne Says Her Prayers|07.txt
+|Chapter 8|Anne's Bringing-Up Is Begun|08.txt
+|Chapter 9|Mrs. Rachel Lynde Is Properly Horrified|09.txt
+|Chapter 10|Anne's Apology|10.txt
+|Chapter 11|Anne's Impressions of Sunday School|11.txt
+|Chapter 12|A Solemn Vow and Promise|12.txt
+|Chapter 13|The Delights of Anticipation|13.txt
+|Chapter 14|Anne's Confession|14.txt
+|Chapter 15|A Tempest in the School Teapot|15.txt
+|Chapter 16|Diana Is Invited to Tea with Tragic Results|16.txt
+|Chapter 17|A New Interest in Life|17.txt
+|Chapter 18|Anne to the Rescue|18.txt
+|Chapter 19|A Concert a Catastrophe and a Confession|19.txt
+|Chapter 20|A Good Imagination Gone Wrong|20.txt
+|Chapter 21|A New Departure in Flavorings|21.txt
+|Chapter 22|Anne is Invited Out to Tea|22.txt
+|Chapter 23|Anne Comes to Grief in an Affair of Honor|23.txt
+|Chapter 24|Miss Stacy and Her Pupils Get Up a Concert|24.txt
+|Chapter 25|Matthew Insists on Puffed Sleeves|25.txt
+|Chapter 26|The Story Club Is Formed|26.txt
+|Chapter 27|Vanity and Vexation of Spirit|27.txt
+|Chapter 28|An Unfortunate Lily Maid|28.txt
+|Chapter 29|An Epoch in Anne's Life|29.txt
+|Chapter 30|The Queens Class Is Organized|30.txt
+|Chapter 31|Where the Brook and River Meet|31.txt
+|Chapter 32|The Pass List Is Out|32.txt
+|Chapter 33|The Hotel Concert|33.txt
+|Chapter 34|A Queen's Girl|34.txt
+|Chapter 35|The Winter at Queen's|35.txt
+|Chapter 36|The Glory and the Dream|36.txt
+|Chapter 37|The Reaper Whose Name Is Death|37.txt
+|Chapter 38|The Bend in the road|38.txt

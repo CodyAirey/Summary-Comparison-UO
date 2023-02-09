@@ -1,0 +1,5 @@
+BOOK 1||Incipit Liber Primus|0.txt
+BOOK 2||Incipit Prohemium Secundi Libri|1.txt
+BOOK 3||Incipit prohemium tercii libri|2.txt
+BOOK 4||Incipit Prohemium Liber Quartus|3.txt
+BOOK 5||Incipit Liber Quintus|4.txt

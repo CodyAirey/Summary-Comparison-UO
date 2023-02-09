@@ -1,0 +1,62 @@
+|Chapter 1|Dombey and Son|01.txt
+|Chapter 2|In which Timely Provision is made for an Emergency that will sometimes arise in the best-regulated Families|02.txt
+|Chapter 3|In which Mr Dombey, as a Man and a Father, is seen at the Head of the Home-Department|03.txt
+|Chapter 4|In which some more First Appearances are made on the Stage of these Adventures|04.txt
+|Chapter 5|Paul's Progress and Christening|05.txt
+|Chapter 6|Paul's Second Deprivation|06.txt
+|Chapter 7|A Bird's-eye Glimpse of Miss Tox's Dwelling-place; also of the State of Miss Tox's Affections|07.txt
+|Chapter 8|Paul's further Progress, Growth, and Character|08.txt
+|Chapter 9|In which the Wooden Midshipman gets into Trouble|09.txt
+|Chapter 10|Containing the Sequel of the Midshipman's Disaster|10.txt
+|Chapter 11|Paul's Introduction to a New Scene|11.txt
+|Chapter 12|Paul's Education|12.txt
+|Chapter 13|Shipping Intelligence and Office Business|13.txt
+|Chapter 14|Paul grows more and more Old-fashioned, and goes Home for the holidays|14.txt
+|Chapter 15|Amazing Artfulness of Captain Cuttle, and a new Pursuit for Walter Gay|15.txt
+|Chapter 16|What the Waves were always saying|16.txt
+|Chapter 17|Captain Cuttle does a little Business for the Young people|17.txt
+|Chapter 18|Father and Daughter|18.txt
+|Chapter 19|Walter goes away|19.txt
+|Chapter 20|Mr Dombey goes upon a journey|20.txt
+|Chapter 21|New Faces|21.txt
+|Chapter 22|A Trifle of Management by Mr Carker the Manager|22.txt
+|Chapter 23|Florence solitary, and the Midshipman mysterious|23.txt
+|Chapter 24|The Study of a Loving Heart|24.txt
+|Chapter 25|Strange News of Uncle Sol|25.txt
+|Chapter 26|Shadows of the Past and Future|26.txt
+|Chapter 27|Deeper shadows|27.txt
+|Chapter 28|Alterations|28.txt
+|Chapter 29|The Opening of the Eyes of Mrs Chick|29.txt
+|Chapter 30|The Interval before the Marriage|30.txt
+|Chapter 31|The Wedding|31.txt
+|Chapter 32|The Wooden Midshipman goes to Pieces|32.txt
+|Chapter 33|Contrasts|33.txt
+|Chapter 34|Another Mother and Daughter|34.txt
+|Chapter 35|The Happy Pair|35.txt
+|Chapter 36|Housewarming|36.txt
+|Chapter 37|More Warnings than One|37.txt
+|Chapter 38|Miss Tox improves an Old Acquaintance|38.txt
+|Chapter 39|Further Adventures of Captain Edward Cuttle, Mariner|39.txt
+|Chapter 40|Domestic Relations|40.txt
+|Chapter 41|New Voices in the Waves|41.txt
+|Chapter 42|Confidential and Accidental|42.txt
+|Chapter 43|The Watches of the Night|43.txt
+|Chapter 44|A Separation|44.txt
+|Chapter 45|The Trusty Agent|45.txt
+|Chapter 46|Recognizant and Reflective|46.txt
+|Chapter 47|The Thunderbolt|47.txt
+|Chapter 48|The Flight of Florence|48.txt
+|Chapter 49|The Midshipman makes a Discovery|49.txt
+|Chapter 50|Mr Toots's Complaint|50.txt
+|Chapter 51|Mr Dombey and the World|51.txt
+|Chapter 52|Secret Intelligence|52.txt
+|Chapter 53|More Intelligence|53.txt
+|Chapter 54|The Fugitives|54.txt
+|Chapter 55|Rob the Grinder loses his Place|55.txt
+|Chapter 56|Several People delighted, and the Game Chicken disgusted|56.txt
+|Chapter 57|Another Wedding|57.txt
+|Chapter 58|After a Lapse|58.txt
+|Chapter 59|Retribution|59.txt
+|Chapter 60|Chiefly Matrimonial|60.txt
+|Chapter 61|Relenting|61.txt
+|Chapter 62|Final|62.txt

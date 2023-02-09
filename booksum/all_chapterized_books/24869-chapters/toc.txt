@@ -1,0 +1,494 @@
+||INVOCATION|1.txt
+BOOK 1|Canto I|Narad|2.txt
+BOOK 1|Canto II|Brahma's Visit|3.txt
+BOOK 1|Canto III|The Argument|4.txt
+BOOK 1|Canto IV|The Rhapsodists|5.txt
+BOOK 1|Canto V|Ayodhya|6.txt
+BOOK 1|Canto VI|The King|7.txt
+BOOK 1|Canto VII|The Ministers|8.txt
+BOOK 1|Canto VIII|Sumantra's Speech|9.txt
+BOOK 1|Canto IX|Rishyasring|10.txt
+BOOK 1|Canto X|Rishyasring Invited|11.txt
+BOOK 1|Canto XI|The Sacrifice Decreed|12.txt
+BOOK 1|Canto XII|The Sacrifice Begun|13.txt
+BOOK 1|Canto XIII|The Sacrifice Finished|14.txt
+BOOK 1|Canto XIV|Ravan Doomed|15.txt
+BOOK 1|Canto XV|The Nectar|16.txt
+BOOK 1|Canto XVI|The Vanars|17.txt
+BOOK 1|Canto XVII|Rishyasring's Return|18.txt
+BOOK 1|Canto XVIII|Rishyasring's Departure|19.txt
+BOOK 1|Canto XIX|The Birth Of The Princes|20.txt
+BOOK 1|Canto XX|Visvamitra's Visit|21.txt
+BOOK 1|Canto XXI|Visvamitra's Speech|22.txt
+BOOK 1|Canto XXII|Dasaratha's Speech|23.txt
+BOOK 1|Canto XXIII|Vasishtha's Speech|24.txt
+BOOK 1|Canto XXIV|The Spells|25.txt
+BOOK 1|Canto XXV|The Hermitage Of Love|26.txt
+BOOK 1|Canto XXVI|The Forest Of Tadaka|27.txt
+BOOK 1|Canto XXVII|The Birth Of Tadaka|28.txt
+BOOK 1|Canto XXVIII|The Death Of Tadaka|29.txt
+BOOK 1|Canto XXIX|The Celestial Arms|30.txt
+BOOK 1|Canto XXX|The Mysterious Powers.(166)|31.txt
+BOOK 1|Canto XXXI|The Perfect Hermitage|32.txt
+BOOK 1|Canto XXXII|Visvamitra's Sacrifice|33.txt
+BOOK 1|Canto XXXIII|The Sone|34.txt
+BOOK 1|Canto XXXIV|Brahmadatta|35.txt
+BOOK 1|Canto XXXV|Visvamitra's Lineage|36.txt
+BOOK 1|Canto XXXVI|The Birth Of Ganga|37.txt
+BOOK 1|Canto XXXIX|The Sons Of Sagar|38.txt
+BOOK 1|Canto XL|The Cleaving Of The Earth|39.txt
+BOOK 1|Canto XLI|Kapil|40.txt
+BOOK 1|Canto XLII|Sagar's Sacrifice|41.txt
+BOOK 1|Canto XLIII|Bhagirath|42.txt
+BOOK 1|Canto XLIV|The Descent Of Ganga|43.txt
+BOOK 1|Canto XLV|The Quest Of The Amrit|44.txt
+BOOK 1|Canto XLVI|Diti's Hope|45.txt
+BOOK 1|Canto XLVII|Sumati|46.txt
+BOOK 1|Canto XLVIII|Indra And Ahalya|47.txt
+BOOK 1|Canto XLIX|Ahalya Freed|48.txt
+BOOK 1|Canto L|Janak|49.txt
+BOOK 1|Canto LI|Visvamitra|50.txt
+BOOK 1|Canto LII|Vasishtha's Feast|51.txt
+BOOK 1|Canto LIII|Visvamitra's Request|52.txt
+BOOK 1|Canto LIV|The Battle|53.txt
+BOOK 1|Canto LV|The Hermitage Burnt|54.txt
+BOOK 1|Canto LVI|Visvamitra's Vow|55.txt
+BOOK 1|Canto LVII|Trisanku|56.txt
+BOOK 1|Canto LVIII|Trisanku Cursed|57.txt
+BOOK 1|Canto LIX|The Sons Of Vasishtha|58.txt
+BOOK 1|Canto LX|Trisanku's Ascension|59.txt
+BOOK 1|Canto LXI|Sunahsepha|60.txt
+BOOK 1|Canto LXII|Ambarisha's Sacrifice|61.txt
+BOOK 1|Canto LXIII|Menaka|62.txt
+BOOK 1|Canto LXIV|Rambha|63.txt
+BOOK 1|Canto LXV|Visvamitra's Triumph|64.txt
+BOOK 1|Canto LXVI|Janak's Speech|65.txt
+BOOK 1|Canto LXVII|The Breaking Of The Bow|66.txt
+BOOK 1|Canto LXVIII|The Envoys' Speech|67.txt
+BOOK 1|Canto LXIX|Dasaratha's Visit|68.txt
+BOOK 1|Canto LXX|The Maidens Sought|69.txt
+BOOK 1|Canto LXXI|Janak's Pedigree|70.txt
+BOOK 1|Canto LXXII|The Gift Of Kine|71.txt
+BOOK 1|Canto LXXIII|The Nuptials|72.txt
+BOOK 1|Canto LXXIV|Rama With The Axe.(254)|73.txt
+BOOK 1|Canto LXXV|The Parle|74.txt
+BOOK 1|Canto LXXVI|Debarred From Heaven|75.txt
+BOOK 1|Canto LXXVII|Bharat's Departure|76.txt
+BOOK 2|Canto I|The Heir Apparent|77.txt
+BOOK 2|Canto II|The People's Speech|78.txt
+BOOK 2|Canto III|Dasaratha's Precepts|79.txt
+BOOK 2|Canto IV|Rama Summoned|80.txt
+BOOK 2|Canto V|Rama's Fast|81.txt
+BOOK 2|Canto VI|The City Decorated|82.txt
+BOOK 2|Canto VII|Manthara's Lament|83.txt
+BOOK 2|Canto VIII|Manthara's Speech|84.txt
+BOOK 2|Canto IX|The Plot|85.txt
+BOOK 2|Canto X|Dasaratha's Speech|86.txt
+BOOK 2|Canto XI|The Queen's Demand|87.txt
+BOOK 2|Canto XII|Dasaratha's Lament|88.txt
+BOOK 2|Canto XIII|Dasaratha's Distress|89.txt
+BOOK 2|Canto XIV|Rama Summoned|90.txt
+BOOK 2|Canto XV|The Preparations|91.txt
+BOOK 2|Canto XVI|Rama Summoned|92.txt
+BOOK 2|Canto XVII|Rama's Approach|93.txt
+BOOK 2|Canto XVIII|The Sentence|94.txt
+BOOK 2|Canto XIX|Rama's Promise|95.txt
+BOOK 2|Canto XX|Kausalya's Lament|96.txt
+BOOK 2|Canto XXI|Kausalya Calmed|97.txt
+BOOK 2|Canto XXII|Lakshman Calmed|98.txt
+BOOK 2|Canto XXIII|Lakshman's Anger|99.txt
+BOOK 2|Canto XXIV|Kausalya Calmed|100.txt
+BOOK 2|Canto XXV|Kausalya's Blessing|101.txt
+BOOK 2|Canto XXVI|Alone With Sita|102.txt
+BOOK 2|Canto XXVII|Sita's Speech|103.txt
+BOOK 2|Canto XXVIII|The Dangers Of The Wood|104.txt
+BOOK 2|Canto XXIX|Sita's Appeal|105.txt
+BOOK 2|Canto XXX|The Triumph Of Love|106.txt
+BOOK 2|Canto XXXI|Lakshman's Prayer|107.txt
+BOOK 2|Canto XXXII|The Gift Of The Treasures|108.txt
+BOOK 2|Canto XXXIII|The People's Lament|109.txt
+BOOK 2|Canto XXXIV|Rama In The Palace|110.txt
+BOOK 2|Canto XXXV|Kaikeyi Reproached|111.txt
+BOOK 2|Canto XXXVI|Siddharth's Speech|112.txt
+BOOK 2|Canto XXXVII|The Coats Of Bark|113.txt
+BOOK 2|Canto XXXVIII|Care For Kausalya|114.txt
+BOOK 2|Canto XXXIX|Counsel To Sita|115.txt
+BOOK 2|Canto XL|Rama's Departure|116.txt
+BOOK 2|Canto XLI|The Citizens' Lament|117.txt
+BOOK 2|Canto XLII|Dasaratha's Lament|118.txt
+BOOK 2|Canto XLIII|Kausalya's Lament|119.txt
+BOOK 2|Canto XLIV|Sumitra's Speech|120.txt
+BOOK 2|Canto XLV|The Tamasa|121.txt
+BOOK 2|Canto XLVI|The Halt|122.txt
+BOOK 2|Canto XLVII|The Citizens' Return|123.txt
+BOOK 2|Canto XLVIII|The Women's Lament|124.txt
+BOOK 2|Canto XLIX|The Crossing Of The Rivers|125.txt
+BOOK 2|Canto L|The Halt Under The Ingudi.(322)|126.txt
+BOOK 2|Canto LI|Lakshman's Lament|127.txt
+BOOK 2|Canto LII|The Crossing Of Ganga|128.txt
+BOOK 2|Canto LIII|Rama's Lament|129.txt
+BOOK 2|Canto LIV|Bharadvaja's Hermitage|130.txt
+BOOK 2|Canto LV|The Passage Of Yamuna|131.txt
+BOOK 2|Canto LVI|Chitrakuta|132.txt
+BOOK 2|Canto LVII|Sumantra's Return|133.txt
+BOOK 2|Canto LVIII|Rama's Message|134.txt
+BOOK 2|Canto LIX|Dasaratha's Lament|135.txt
+BOOK 2|Canto LX|Kausalya Consoled|136.txt
+BOOK 2|Canto LXI|Kausalya's Lament|137.txt
+BOOK 2|Canto LXII|Dasaratha Consoled|138.txt
+BOOK 2|Canto LXIII|The Hermit's Son|139.txt
+BOOK 2|Canto LXIV|Dasaratha's Death|140.txt
+BOOK 2|Canto LXV|The Women's Lament|141.txt
+BOOK 2|Canto LXVI|The Embalming|142.txt
+BOOK 2|Canto LXVII|The Praise Of Kings|143.txt
+BOOK 2|Canto LXVIII|The Envoys|144.txt
+BOOK 2|Canto LXIX|Bharat's Dream|145.txt
+BOOK 2|Canto LXX|Bharat's Departure|146.txt
+BOOK 2|Canto LXXI|Bharat's Return|147.txt
+BOOK 2|Canto LXXII|Bharat's Inquiry|148.txt
+BOOK 2|Canto LXXIII|Kaikeyi Reproached|149.txt
+BOOK 2|Canto LXXIV|Bharat's Lament|150.txt
+BOOK 2|Canto LXXV|The Abjuration|151.txt
+BOOK 2|Canto LXXVI|The Funeral|152.txt
+BOOK 2|Canto LXXVII|The Gathering Of The Ashes|153.txt
+BOOK 2|Canto LXXVIII|Manthara Punished|154.txt
+BOOK 2|Canto LXXIX|Bharat's Commands|155.txt
+BOOK 2|Canto LXXX|The Way Prepared|156.txt
+BOOK 2|Canto LXXXI|The Assembly|157.txt
+BOOK 2|Canto LXXXII|The Departure|158.txt
+BOOK 2|Canto LXXXIII|The Journey Begun|159.txt
+BOOK 2|Canto LXXXIV|Guha's Anger|160.txt
+BOOK 2|Canto LXXXV|Guha And Bharat|161.txt
+BOOK 2|Canto LXXXVI|Guha's Speech|162.txt
+BOOK 2|Canto LXXXVII|Guha's Story|163.txt
+BOOK 2|Canto LXXXVIII|The Ingudi Tree|164.txt
+BOOK 2|Canto LXXXIX|The Passage Of Ganga|165.txt
+BOOK 2|Canto XC|The Hermitage|166.txt
+BOOK 2|Canto XCI|Bharadvaja's Feast|167.txt
+BOOK 2|Canto XCII|Bharat's Farewell|168.txt
+BOOK 2|Canto XCIII|Chitrakuta In Sight|169.txt
+BOOK 2|Canto XCIV|Chitrakuta|170.txt
+BOOK 2|Canto XCV|Mandakini|171.txt
+BOOK 2|Canto XCVI|The Magic Shaft.(374)|172.txt
+BOOK 2|Canto XCVII|Lakshman's Anger|173.txt
+BOOK 2|Canto XCVIII|Lakshman Calmed|174.txt
+BOOK 2|Canto XCIX|Bharat's Approach|175.txt
+BOOK 2|Canto C|The Meeting|176.txt
+BOOK 2|Canto CI|Bharata Questioned|177.txt
+BOOK 2|Canto CII|Bharat's Tidings|178.txt
+BOOK 2|Canto CIII|The Funeral Libation|179.txt
+BOOK 2|Canto CIV|The Meeting With The Queens|180.txt
+BOOK 2|Canto CV|Rama's Speech|181.txt
+BOOK 2|Canto CVI|Bharat's Speech|182.txt
+BOOK 2|Canto CVII|Rama's Speech|183.txt
+BOOK 2|Canto CVIII|Javali's Speech|184.txt
+BOOK 2|Canto CIX|The Praises Of Truth|185.txt
+BOOK 2|Canto CX|The Sons Of Ikshvaku.(389)|186.txt
+BOOK 2|Canto CXI|Counsel To Bharat|187.txt
+BOOK 2|Canto CXII|The Sandals|188.txt
+BOOK 2|Canto CXIII|Bharat's Return|189.txt
+BOOK 2|Canto CXIV|Bharat's Departure|190.txt
+BOOK 2|Canto CXV|Nandigram.(398)|191.txt
+BOOK 2|Canto CXVI|The Hermit's Speech|192.txt
+BOOK 2|Canto CXVII|Anasuya|193.txt
+BOOK 2|Canto CXVIII|Anasuya's Gifts|194.txt
+BOOK 2|Canto CXIX|The Forest|195.txt
+BOOK 3|Canto I|The Hermitage|196.txt
+BOOK 3|Canto II|Viradha|197.txt
+BOOK 3|Canto III|Viradha Attacked|198.txt
+BOOK 3|Canto IV|Viradha's Death|199.txt
+BOOK 3|Canto V|Sarabhanga|200.txt
+BOOK 3|Canto VI|Rama's Promise|201.txt
+BOOK 3|Canto VII|Sutikshna|202.txt
+BOOK 3|Canto VIII|The Hermitage|203.txt
+BOOK 3|Canto IX|Sita's Speech|204.txt
+BOOK 3|Canto X|Rama's Reply|205.txt
+BOOK 3|Canto XI|Agastya|206.txt
+BOOK 3|Canto XII|The Heavenly Bow|207.txt
+BOOK 3|Canto XIII|Agastya's Counsel|208.txt
+BOOK 3|Canto XIV|Jatayus|209.txt
+BOOK 3|Canto XV|Panchavati|210.txt
+BOOK 3|Canto XVI|Winter|211.txt
+BOOK 3|Canto XVII|Surpanakha|212.txt
+BOOK 3|Canto XVIII|The Mutilation|213.txt
+BOOK 3|Canto XIX|The Rousing Of Khara|214.txt
+BOOK 3|Canto XX|The Giants' Death|215.txt
+BOOK 3|Canto XXI|The Rousing Of Khara|216.txt
+BOOK 3|Canto XXII|Khara's Wrath|217.txt
+BOOK 3|Canto XXIII|The Omens|218.txt
+BOOK 3|Canto XXIV|The Host In Sight|219.txt
+BOOK 3|Canto XXV|The Battle|220.txt
+BOOK 3|Canto XXVI|Dushan's Death|221.txt
+BOOK 3|Canto XXVII|The Death Of Trisiras|222.txt
+BOOK 3|Canto XXVIII|Khara Dismounted|223.txt
+BOOK 3|Canto XXIX|Khara's Defeat|224.txt
+BOOK 3|Canto XXX|Khara's Death|225.txt
+BOOK 3|Canto XXXI|Ravan|226.txt
+BOOK 3|Canto XXXII|Ravan Roused|227.txt
+BOOK 3|Canto XXXIII|Surpanakha's Speech|228.txt
+BOOK 3|Canto XXXIV|Surpanakha's Speech|229.txt
+BOOK 3|Canto XXXV|Ravan's Journey|230.txt
+BOOK 3|Canto XXXVI|Ravan's Speech|231.txt
+BOOK 3|Canto XXXVII|Maricha's Speech|232.txt
+BOOK 3|Canto XXXVIII|Maricha's Speech|233.txt
+BOOK 3|Canto XXXIX|Maricha's Speech|234.txt
+BOOK 3|Canto XL|Ravan's Speech|235.txt
+BOOK 3|Canto XLI|Maricha's Reply|236.txt
+BOOK 3|Canto XLII|Maricha Transformed|237.txt
+BOOK 3|Canto XLIII|The Wondrous Deer|238.txt
+BOOK 3|Canto XLIV|Maricha's Death|239.txt
+BOOK 3|Canto XLV|Lakshman's Departure|240.txt
+BOOK 3|Canto XLVI|The Guest|241.txt
+BOOK 3|Canto XLVII|Ravan's Wooing|242.txt
+BOOK 3|Canto XLVIII|Ravan's Speech|243.txt
+BOOK 3|Canto XLIX|The Rape Of Sita|244.txt
+BOOK 3|Canto L|Jatayus|245.txt
+BOOK 3|Canto LI|The Combat|246.txt
+BOOK 3|Canto LII|Ravan's Flight|247.txt
+BOOK 3|Canto LIII|Sita's Threats|248.txt
+BOOK 3|Canto LIV|Lanka|249.txt
+BOOK 3|Canto LV|Sita In Prison|250.txt
+BOOK 3|Canto LVI|Sita's Disdain|251.txt
+BOOK 3|Canto LVII|Sita Comforted|252.txt
+BOOK 3|Canto LVIII|The Brothers' Meeting|253.txt
+BOOK 3|Canto LIX|Rama's Return|254.txt
+BOOK 3|Canto LX|Lakshman Reproved|255.txt
+BOOK 3|Canto LXI|Rama's Lament|256.txt
+BOOK 3|Canto LXII|Rama's Lament|257.txt
+BOOK 3|Canto LXIII|Rama's Lament|258.txt
+BOOK 3|Canto LXIV|Rama's Lament|259.txt
+BOOK 3|Canto LXV|Rama's Wrath|260.txt
+BOOK 3|Canto LXVI|Lakshman's Speech|261.txt
+BOOK 3|Canto LXVII|Rama Appeased|262.txt
+BOOK 3|Canto LXVIII|Jatayus|263.txt
+BOOK 3|Canto LXIX|The Death Of Jatayus|264.txt
+BOOK 3|Canto LXX|Kabandha|265.txt
+BOOK 3|Canto LXXI|Kabandha's Speech|266.txt
+BOOK 3|Canto LXXII|Kabandha's Tale|267.txt
+BOOK 3|Canto LXXIII|Kabandha's Counsel|268.txt
+BOOK 3|Canto LXXIV|Kabandha's Death|269.txt
+BOOK 3|Canto LXXV|Savari|270.txt
+BOOK 3|Canto LXXVI|Pampa|271.txt
+BOOK 4|Canto I|Rama's Lament|272.txt
+BOOK 4|Canto II|Sugriva's Alarm|273.txt
+BOOK 4|Canto III|Hanuman's Speech|274.txt
+BOOK 4|Canto IV|Lakshman's Reply|275.txt
+BOOK 4|Canto V|The League|276.txt
+BOOK 4|Canto VI|The Tokens|277.txt
+BOOK 4|Canto VII|Rama Consoled|278.txt
+BOOK 4|Canto VIII|Rama's Promise|279.txt
+BOOK 4|Canto IX|Sugriva's Story.(562)|280.txt
+BOOK 4|Canto X|Sugriva's Story|281.txt
+BOOK 4|Canto XI|Dundubhi|282.txt
+BOOK 4|Canto XII|The Palm Trees|283.txt
+BOOK 4|Canto XIII|The Return To Kishkindha|284.txt
+BOOK 4|Canto XIV|The Challenge|285.txt
+BOOK 4|Canto XV|Tara|286.txt
+BOOK 4|Canto XVI|The Fall Of Bali|287.txt
+BOOK 4|Canto XVII|Bali's Speech|288.txt
+BOOK 4|Canto XVIII|Rama's Reply|289.txt
+BOOK 4|Canto XIX|Tara's Grief|290.txt
+BOOK 4|Canto XX|Tara's Lament|291.txt
+BOOK 4|Canto XXI|Hanuman's Speech|292.txt
+BOOK 4|Canto XXII|Bali Dead|293.txt
+BOOK 4|Canto XXIII|Tara's Lament|294.txt
+BOOK 4|Canto XXIV|Sugriva's Lament|295.txt
+BOOK 4|Canto XXV|Rama's Speech|296.txt
+BOOK 4|Canto XXVI|The Coronation|297.txt
+BOOK 4|Canto XXVII|Rama On The Hill|298.txt
+BOOK 4|Canto XXVIII|The Rains|299.txt
+BOOK 4|Canto XXIX|Hanuman's Counsel|300.txt
+BOOK 4|Canto XXX|Rama's Lament|301.txt
+BOOK 4|Canto XXXI|The Envoy|302.txt
+BOOK 4|Canto XXXII|Hanuman's Counsel|303.txt
+BOOK 4|Canto XXXIII|Lakshman's Entry|304.txt
+BOOK 4|Canto XXXIV|Lakshman's Speech|305.txt
+BOOK 4|Canto XXXV|Tara's Speech|306.txt
+BOOK 4|Canto XXXVI|Sugriva's Speech|307.txt
+BOOK 4|Canto XXXVII|The Gathering|308.txt
+BOOK 4|Canto XXXVIII|Sugriva's Departure|309.txt
+BOOK 4|Canto XXXIX|The Vanar Host|310.txt
+BOOK 4|Canto XL|The Army Of The East|311.txt
+BOOK 4|Canto XLI|The Army Of The South|312.txt
+BOOK 4|Canto XLII|The Army Of The West|313.txt
+BOOK 4|Canto XLIII|The Army Of The North|314.txt
+BOOK 4|Canto XLIV|The Ring|315.txt
+BOOK 4|Canto XLV|The Departure|316.txt
+BOOK 4|Canto XLVI|Sugriva's Tale|317.txt
+BOOK 4|Canto XLVII|The Return|318.txt
+BOOK 4|Canto XLVIII|The Asur's Death|319.txt
+BOOK 4|Canto XLIX|Angad's Speech|320.txt
+BOOK 4|Canto L|The Enchanted Cave|321.txt
+BOOK 4|Canto LI|Svayamprabha|322.txt
+BOOK 4|Canto LII|The Exit|323.txt
+BOOK 4|Canto LIII|Angad's Counsel|324.txt
+BOOK 4|Canto LIV|Hanuman's Speech|325.txt
+BOOK 4|Canto LV|Angad's Reply|326.txt
+BOOK 4|Canto LVI|Sampati|327.txt
+BOOK 4|Canto LVII|Angad's Speech|328.txt
+BOOK 4|Canto LVIII|Tidings Of Sita|329.txt
+BOOK 4|Canto LIX|Sampati's Story|330.txt
+BOOK 4|Canto LX|Sampati's Story|331.txt
+BOOK 4|Canto LXI|Sampati's Story|332.txt
+BOOK 4|Canto LXII|Sampati's Story|333.txt
+BOOK 4|Canto LXIII|Sampati's Story|334.txt
+BOOK 4|Canto LXIV|The Sea|335.txt
+BOOK 4|Canto LXV|The Council|336.txt
+BOOK 4|Canto LXVI|Hanuman|337.txt
+BOOK 4|Canto LXVII|Hanuman's Speech|338.txt
+BOOK 5|Canto I|Hanuman's Leap|339.txt
+BOOK 5|Canto II|Lanka|340.txt
+BOOK 5|Canto III|The Guardian Goddess|341.txt
+BOOK 5|Canto IV|Within The City|342.txt
+BOOK 5|Canto VI|The Court|343.txt
+BOOK 5|Canto VII|Ravan's Palace|344.txt
+BOOK 5|Canto VIII|The Enchanted Car|345.txt
+BOOK 5|Canto IX|The Ladies' Bower|346.txt
+BOOK 5|Canto X|Ravan Asleep|347.txt
+BOOK 5|Canto XI|The Banquet Hall|348.txt
+BOOK 5|Canto XII|The Search Renewed|349.txt
+BOOK 5|Canto XIII|Despair And Hope|350.txt
+BOOK 5|Canto XIV|The Asoka Grove|351.txt
+BOOK 5|Canto XV|Sita|352.txt
+BOOK 5|Canto XVI|Hanuman's Lament|353.txt
+BOOK 5|Canto XVII|Sita's Guard|354.txt
+BOOK 5|Canto XVIII|Ravan|355.txt
+BOOK 5|Canto XIX|Sita's Fear|356.txt
+BOOK 5|Canto XX|Ravan's Wooing|357.txt
+BOOK 5|Canto XXI|Sita's Scorn|358.txt
+BOOK 5|Canto XXII|Ravan's Threat|359.txt
+BOOK 5|Canto XXIII|The Demons' Threats|360.txt
+BOOK 5|Canto XXIV|Sita's Reply|361.txt
+BOOK 5|Canto XXV|Sita's Lament|362.txt
+BOOK 5|Canto XXVI|Sita's Lament|363.txt
+BOOK 5|Canto XXVII|Trijata's Dream|364.txt
+BOOK 5|Canto XXX|Hanuman's Deliberation|365.txt
+BOOK 5|Canto XXXI|Hanuman's Speech|366.txt
+BOOK 5|Canto XXXII|Sita's Doubt|367.txt
+BOOK 5|Canto XXXIII|The Colloquy|368.txt
+BOOK 5|Canto XXXIV|Hanuman's Speech|369.txt
+BOOK 5|Canto XXXV|Hanuman's Speech|370.txt
+BOOK 5|Canto XXXVI|Rama's Ring|371.txt
+BOOK 5|Canto XXXVII|Sita's Speech|372.txt
+BOOK 5|Canto XXXVIII|Sita's Gem|373.txt
+BOOK 5|Canto XLI|The Ruin Of The Grove|374.txt
+BOOK 5|Canto XLII|The Giants Roused|375.txt
+BOOK 5|Canto XLIII|The Ruin Of The Temple|376.txt
+BOOK 5|Canto XLIV|Jambumali's Death|377.txt
+BOOK 5|Canto XLV|The Seven Defeated|378.txt
+BOOK 5|Canto XLVI|The Captains|379.txt
+BOOK 5|Canto XLVII|The Death Of Aksha|380.txt
+BOOK 5|Canto XLVIII|Hanuman Captured|381.txt
+BOOK 5|Canto XLIX|Ravan|382.txt
+BOOK 5|Canto L|Prahasta's Questions|383.txt
+BOOK 5|Canto LI|Hanuman's Reply|384.txt
+BOOK 5|Canto LII|Vibhishan's Speech|385.txt
+BOOK 5|Canto LIII|The Punishment|386.txt
+BOOK 5|Canto LIV|The Burning Of Lanka|387.txt
+BOOK 5|Canto LV|Fear For Sita|388.txt
+BOOK 5|Canto LVI|Mount Arishta|389.txt
+BOOK 5|Canto LVII|Hanuman's Return|390.txt
+BOOK 5|Canto LVIII|The Feast Of Honey|391.txt
+BOOK 5|Canto LXV|The Tidings|392.txt
+BOOK 5|Canto LXVI|Rama's Speech|393.txt
+BOOK 6|Canto I|Rama's Speech|394.txt
+BOOK 6|Canto II|Sugriva's Speech|395.txt
+BOOK 6|Canto III|Lanka|396.txt
+BOOK 6|Canto IV|The March|397.txt
+BOOK 6|Canto V|Rama's Lament|398.txt
+BOOK 6|Canto VI|Ravan's Speech|399.txt
+BOOK 6|Canto VII|Ravan Encouraged|400.txt
+BOOK 6|Canto VIII|Prahasta's Speech|401.txt
+BOOK 6|Canto IX|Vibhishan's Counsel|402.txt
+BOOK 6|Canto X|Vibhishan's Counsel|403.txt
+BOOK 6|Canto XI|The Summons|404.txt
+BOOK 6|Canto XII|Ravan's Speech|405.txt
+BOOK 6|Canto XIII|Ravan's Speech|406.txt
+BOOK 6|Canto XIV|Vibhishan's Speech|407.txt
+BOOK 6|Canto XV|Indrajit's Speech|408.txt
+BOOK 6|Canto XVI|Ravan's Speech|409.txt
+BOOK 6|Canto XVII|Vibhishan's Flight|410.txt
+BOOK 6|Canto XVIII|Rama's Speech|411.txt
+BOOK 6|Canto XIX|Vibhishan's Counsel|412.txt
+BOOK 6|Canto XX|The Spies|413.txt
+BOOK 6|Canto XXI|Ocean Threatened|414.txt
+BOOK 6|Canto XXII|Ocean Threatened|415.txt
+BOOK 6|Canto XXIII|The Omens|416.txt
+BOOK 6|Canto XXIV|The Spy's Return|417.txt
+BOOK 6|Canto XXV|Ravan's Spies.(938)|418.txt
+BOOK 6|Canto XXVI|The Vanar Chiefs|419.txt
+BOOK 6|Canto XXVII|The Vanar Chiefs|420.txt
+BOOK 6|Canto XXVIII|The Chieftains|421.txt
+BOOK 6|Canto XXIX|Sardula Captured|422.txt
+BOOK 6|Canto XXX|Sardula's Speech|423.txt
+BOOK 6|Canto XXXI|The Magic Head|424.txt
+BOOK 6|Canto XXXII|Sita's Lament|425.txt
+BOOK 6|Canto XXXIII|Sarama|426.txt
+BOOK 6|Canto XXXIV|Sarama's Tidings|427.txt
+BOOK 6|Canto XXXV|Malyavan's Speech|428.txt
+BOOK 6|Canto XXXVI|Ravan's Reply|429.txt
+BOOK 6|Canto XXXVII|Preparations|430.txt
+BOOK 6|Canto XXXVIII|The Ascent Of Suvela|431.txt
+BOOK 6|Canto XXXIX|Lanka|432.txt
+BOOK 6|Canto XL|Ravan Attacked|433.txt
+BOOK 6|Canto XLI|Rama's Envoy|434.txt
+BOOK 6|Canto XLII|The Sally|435.txt
+BOOK 6|Canto XLIII|The Single Combats|436.txt
+BOOK 6|Canto XLIV|The Night|437.txt
+BOOK 6|Canto XLV|Indrajit's Victory|438.txt
+BOOK 6|Canto XLVI|Indrajit's Triumph|439.txt
+BOOK 6|Canto XLVII|Sita|440.txt
+BOOK 6|Canto XLVIII|Sita's Lament|441.txt
+BOOK 6|Canto XLIX|Rama's Lament|442.txt
+BOOK 6|Canto L|The Broken Spell|443.txt
+BOOK 6|Canto LI|Dhumraksha's Sally|444.txt
+BOOK 6|Canto LII|Dhumraksha's Death|445.txt
+BOOK 6|Canto LIII|Vajradanshtra's Sally|446.txt
+BOOK 6|Canto LIV|Vajradanshtra's Death|447.txt
+BOOK 6|Canto LIX|Ravan's Sally|448.txt
+BOOK 6|Canto LX|Kumbhakarna Roused|449.txt
+BOOK 6|Canto LXI|The Vanars' Alarm|450.txt
+BOOK 6|Canto LXII|Ravan's Request|451.txt
+BOOK 6|Canto LXIII|Kumbhakarna's Boast|452.txt
+BOOK 6|Canto LXIV|Mahodar's Speech|453.txt
+BOOK 6|Canto LXV|Kumbhakarna's Speech|454.txt
+BOOK 6|Canto LXVI|Kumbhakarna's Sally|455.txt
+BOOK 6|Canto LXVII|Kumbhakarna's Death|456.txt
+BOOK 6|Canto LXVIII|Ravan's Lament|457.txt
+BOOK 6|Canto LXIX|Narantak's Death|458.txt
+BOOK 6|Canto LXX|The Death Of Trisiras|459.txt
+BOOK 6|Canto LXXI|Atikaya's Death|460.txt
+BOOK 6|Canto LXXII|Ravan's Speech|461.txt
+BOOK 6|Canto LXXIII|Indrajit's Victory|462.txt
+BOOK 6|Canto LXXIV|The Medicinal Herbs|463.txt
+BOOK 6|Canto LXXV|The Night Attack|464.txt
+BOOK 6|Canto XCIII|Ravan's Lament|465.txt
+BOOK 6|Canto XCVI|Ravan's Sally|466.txt
+BOOK 6|Canto C|Ravan In The Field|467.txt
+BOOK 6|Canto CI|Lakshman's Fall|468.txt
+BOOK 6|Canto CII|Lakshman Healed|469.txt
+BOOK 6|Canto CIII|Indra's Car|470.txt
+BOOK 6|Canto CVI|Glory To The Sun|471.txt
+BOOK 6|Canto CVIII|The Battle|472.txt
+BOOK 6|Canto CIX|The Battle|473.txt
+BOOK 6|Canto CX|Ravan's Death|474.txt
+BOOK 6|Canto CXI|Vibhishan's Lament|475.txt
+BOOK 6|Canto CXII|The Rakshas Dames|476.txt
+BOOK 6|Canto CXIII|Mandodari's Lament|477.txt
+BOOK 6|Canto CXIV|Vibhishan Consecrated|478.txt
+BOOK 6|Canto CXV|Sita's Joy|479.txt
+BOOK 6|Canto CXVI|The Meeting|480.txt
+BOOK 6|Canto CXVII|Sita's Disgrace|481.txt
+BOOK 6|Canto CXVIII|Sita's Reply|482.txt
+BOOK 6|Canto CXIX|Glory To Vishnu|483.txt
+BOOK 6|Canto CXX|Sita Restored|484.txt
+BOOK 6|Canto CXXI|Dasaratha|485.txt
+BOOK 6|Canto CXXII|Indra's Boon|486.txt
+BOOK 6|Canto CXXIII|The Magic Car|487.txt
+BOOK 6|Canto CXXIV|The Departure|488.txt
+BOOK 6|Canto CXXV|The Return|489.txt
+BOOK 6|Canto CXXVI|Bharat Consoled|490.txt
+BOOK 6|Canto CXXVII|Rama's Message|491.txt
+BOOK 6|Canto CXXVIII|Hanuman's Story|492.txt
+BOOK 6|Canto CXXIX|The Meeting With Bharat|493.txt
+BOOK 6|Canto CXXX|The Consecration|494.txt

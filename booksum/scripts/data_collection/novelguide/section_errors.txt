@@ -1,0 +1,14 @@
+16	https://web.archive.org/web/20210215030710/https://www.novelguide.com/lord-jim/summaries/chapter41-43	Lord Jim: Chapters 41-43	../../raw_summaries/novelguide/summaries/Lord Jim
+1	https://web.archive.org/web/20210708184822/https://www.novelguide.com/richard-ii/summaries/act1-scene1	Richard II: Novel Summary: Act 1 Scene 1	../../raw_summaries/novelguide/summaries/Richard II
+0	https://web.archive.org/web/20201022042432/https://www.novelguide.com/loves-labours-lost/novel-summary	Love's Labours Lost: Novel Summary: Act 1, Scene 1	../../raw_summaries/novelguide/summaries/Love's Labours Lost
+1	https://web.archive.org/web/20201022042432/https://www.novelguide.com/loves-labours-lost/summaries/act1-scene2	Love's Labours Lost: Novel Summary: Act 1, Scene 2	../../raw_summaries/novelguide/summaries/Love's Labours Lost
+3	https://web.archive.org/web/20210211232013/https://www.novelguide.com/main-street/summaries/chapters13-18	Main Street: Novel Summary: Chapters 13-18	../../raw_summaries/novelguide/summaries/Main Street
+11	https://web.archive.org/web/20210421073237/http://www.novelguide.com/emma/summaries/chap34-36	Emma: Novel Summary: Chapter 34- Chapter 36	../../raw_summaries/novelguide/summaries/Emma
+18	https://web.archive.org/web/20210421073237/http://www.novelguide.com/emma/summaries/chap55	Emma: Novel Summary: Chapter 55	../../raw_summaries/novelguide/summaries/Emma
+6	https://web.archive.org/web/20210213004212/https://www.novelguide.com/wuthering-heights/summaries/chapter15-16	Wuthering Heights: Novel Summary: Chapters 15-16	../../raw_summaries/novelguide/summaries/Wuthering Heights
+0	https://web.archive.org/web/20200927043357/https://www.novelguide.com/frankenstein/novel-summary	Frankenstein: Summary: Letter 1-Letter 2	../../raw_summaries/novelguide/summaries/Frankenstein
+6	https://web.archive.org/web/20201022042257/https://www.novelguide.com/henry-v/summaries/act2-scen4	Henry V: Novel Summary: Act 2, Scene 4	../../raw_summaries/novelguide/summaries/Henry V
+23	https://web.archive.org/web/20201022042257/https://www.novelguide.com/henry-v/summaries/act4-scen8	Henry V: Novel Summary: Act 4, Scene 8	../../raw_summaries/novelguide/summaries/Henry V
+0	https://web.archive.org/web/20201204112235/https://www.novelguide.com/a-dolls-house/novel-summary	A Doll's House: Summary	../../raw_summaries/novelguide/summaries/A Doll's House
+1	https://web.archive.org/web/20201204112235/https://www.novelguide.com/a-dolls-house/summaries/act-one	A Doll's House: Novel Summary: Act One	../../raw_summaries/novelguide/summaries/A Doll's House
+1	https://web.archive.org/web/20201205114447/https://www.novelguide.com/king-lear/summaries/act1-scene3-act1-scene4	King Lear: Novel Summary: Act 1, Scene 3-Act 1, Scene 4	../../raw_summaries/novelguide/summaries/King Lear

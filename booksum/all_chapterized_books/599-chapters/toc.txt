@@ -1,0 +1,67 @@
+|Chapter 1|Chiswick Mall|01.txt
+|Chapter 2|In Which Miss Sharp and Miss Sedley Prepare to Open the Campaign|02.txt
+|Chapter 3|Rebecca Is in Presence of the Enemy|03.txt
+|Chapter 4|The Green Silk Purse|04.txt
+|Chapter 5|Dobbin of Ours|05.txt
+|Chapter 6|Vauxhall|06.txt
+|Chapter 7|Crawley of Queen's Crawley|07.txt
+|Chapter 8|Private and Confidential|08.txt
+|Chapter 9|Family Portraits|09.txt
+|Chapter 10|Miss Sharp Begins to Make Friends|10.txt
+|Chapter 11|Arcadian Simplicity|11.txt
+|Chapter 12|Quite a Sentimental Chapter|12.txt
+|Chapter 13|Sentimental and Otherwise|13.txt
+|Chapter 14|Miss Crawley at Home|14.txt
+|Chapter 15|In Which Rebecca's Husband Appears for a Short Time|15.txt
+|Chapter 16|The Letter on the Pincushion|16.txt
+|Chapter 17|How Captain Dobbin Bought a Piano|17.txt
+|Chapter 18|Who Played on the Piano Captain Dobbin Bought|18.txt
+|Chapter 19|Miss Crawley at Nurse|19.txt
+|Chapter 20|In Which Captain Dobbin Acts as the Messenger of Hymen|20.txt
+|Chapter 21|A Quarrel About an Heiress|21.txt
+|Chapter 22|A Marriage and Part of a Honeymoon|22.txt
+|Chapter 23|Captain Dobbin Proceeds on His Canvass|23.txt
+|Chapter 24|In Which Mr. Osborne Takes Down the Family Bible|24.txt
+|Chapter 25|In Which All the Principal Personages Think Fit to Leave Brighton|25.txt
+|Chapter 26|Between London and Chatham|26.txt
+|Chapter 27|In Which Amelia Joins Her Regiment|27.txt
+|Chapter 28|In Which Amelia Invades the Low Countries|28.txt
+|Chapter 29|Brussels|29.txt
+|Chapter 30|"The Girl I Left Behind Me"|30.txt
+|Chapter 31|In Which Jos Sedley Takes Care of His Sister|31.txt
+|Chapter 32|In Which Jos Takes Flight, and the War Is Brought to a Close|32.txt
+|Chapter 33|In Which Miss Crawley's Relations Are Very Anxious About Her|33.txt
+|Chapter 34|James Crawley's Pipe Is Put Out|34.txt
+|Chapter 35|Widow and Mother|35.txt
+|Chapter 36|How to Live Well on Nothing a Year|36.txt
+|Chapter 37|The Subject Continued|37.txt
+|Chapter 38|A Family in a Very Small Way|38.txt
+|Chapter 39|A Cynical Chapter|39.txt
+|Chapter 40|In Which Becky Is Recognized by the Family|40.txt
+|Chapter 41|In Which Becky Revisits the Halls of Her Ancestors|41.txt
+|Chapter 42|Which Treats of the Osborne Family|42.txt
+|Chapter 43|In Which the Reader Has to Double the Cape|43.txt
+|Chapter 44|A Round-about Chapter between London and Hampshire|44.txt
+|Chapter 45|Between Hampshire and London|45.txt
+|Chapter 46|Struggles and Trials|46.txt
+|Chapter 47|Gaunt House|47.txt
+|Chapter 48|In Which the Reader Is Introduced to the Very Best of Company|48.txt
+|Chapter 49|In Which We Enjoy Three Courses and a Dessert|49.txt
+|Chapter 50|Contains a Vulgar Incident|50.txt
+|Chapter 51|In Which a Charade Is Acted Which May or May Not Puzzle the Reader|51.txt
+|Chapter 52|In Which Lord Steyne Shows Himself in a Most Amiable Light|52.txt
+|Chapter 53|A Rescue and a Catastrophe|53.txt
+|Chapter 54|Sunday After the Battle|54.txt
+|Chapter 55|In Which the Same Subject is Pursued|55.txt
+|Chapter 56|Georgy is Made a Gentleman|56.txt
+|Chapter 57|Eothen|57.txt
+|Chapter 58|Our Friend the Major|58.txt
+|Chapter 59|The Old Piano|59.txt
+|Chapter 60|Returns to the Genteel World|60.txt
+|Chapter 61|In Which Two Lights are Put Out|61.txt
+|Chapter 62|Am Rhein|62.txt
+|Chapter 63|In Which We Meet an Old Acquaintance|63.txt
+|Chapter 64|A Vagabond Chapter|64.txt
+|Chapter 65|Full of Business and Pleasure|65.txt
+|Chapter 66|Amantium Irae|66.txt
+|Chapter 67|Which Contains Births, Marriages, and Deaths|67.txt

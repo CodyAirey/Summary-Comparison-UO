@@ -1,0 +1,48 @@
+Book 1|Chapter 1|A Face on Which Time Makes but Little Impression|1.txt
+Book 1|Chapter 2|Humanity Appears upon the Scene, Hand in Hand with Trouble|2.txt
+Book 1|Chapter 3|The Custom of the Country|3.txt
+Book 1|Chapter 4|The Halt on the Turnpike Road|4.txt
+Book 1|Chapter 5|Perplexity among Honest People|5.txt
+Book 1|Chapter 6|The Figure against the Sky|6.txt
+Book 1|Chapter 7|Queen of Night|7.txt
+Book 1|Chapter 8|Those Who Are Found Where There Is Said to Be Nobody|8.txt
+Book 1|Chapter 9|Love Leads a Shrewd Man into Strategy|9.txt
+Book 1|Chapter 10|A Desperate Attempt at Persuasion|10.txt
+Book 1|Chapter 11|The Dishonesty of an Honest Woman|11.txt
+Book 2|Chapter 1|Tidings of the Comer|12.txt
+Book 2|Chapter 2|The People at Blooms-End Make Ready|13.txt
+Book 2|Chapter 3|How a Little Sound Produced a Great Dream|14.txt
+Book 2|Chapter 4|Eustacia Is Led on to an Adventure|15.txt
+Book 2|Chapter 5|Through the Moonlight|16.txt
+Book 2|Chapter 6|The Two Stand Face to Face|17.txt
+Book 2|Chapter 7|A Coalition between Beauty and Oddness|18.txt
+Book 2|Chapter 8|Firmness Is Discovered in a Gentle Heart|19.txt
+Book 3|Chapter 1|"My Mind to Me a Kingdom Is"|20.txt
+Book 3|Chapter 2|The New Course Causes Disappointment|21.txt
+Book 3|Chapter 3|The First Act in a Timeworn Drama|22.txt
+Book 3|Chapter 4|An Hour of Bliss and Many Hours of Sadness|23.txt
+Book 3|Chapter 5|Sharp Words Are Spoken, and a Crisis Ensues|24.txt
+Book 3|Chapter 6|Yeobright Goes, and the Breach Is Complete|25.txt
+Book 3|Chapter 7|The Morning and the Evening of a Day|26.txt
+Book 3|Chapter 8|A New Force Disturbs the Current|27.txt
+Book 4|Chapter 1|The Rencounter by the Pool|28.txt
+Book 4|Chapter 2|He Is Set upon by Adversities but He Sings a Song|29.txt
+Book 4|Chapter 3|She Goes Out to Battle against Depression|30.txt
+Book 4|Chapter 4|Rough Coercion Is Employed|31.txt
+Book 4|Chapter 5|The Journey across the Heath|32.txt
+Book 4|Chapter 6|A Conjuncture, and Its Result upon the Pedestrian|33.txt
+Book 4|Chapter 7|The Tragic Meeting of Two Old Friends|34.txt
+Book 4|Chapter 8|Eustacia Hears of Good Fortune, and Beholds Evil|35.txt
+Book 5|Chapter 1|"Wherefore Is Light Given to Him That Is in Misery"|36.txt
+Book 5|Chapter 2|A Lurid Light Breaks in upon a Darkened Understanding|37.txt
+Book 5|Chapter 3|Eustacia Dresses Herself on a Black Morning|38.txt
+Book 5|Chapter 4|The Ministrations of a Half-forgotten One|39.txt
+Book 5|Chapter 5|An Old Move Inadvertently Repeated|40.txt
+Book 5|Chapter 6|Thomasin Argues with Her Cousin, and He Writes a Letter|41.txt
+Book 5|Chapter 7|The Night of the Sixth of November|42.txt
+Book 5|Chapter 8|Rain, Darkness, and Anxious Wanderers|43.txt
+Book 5|Chapter 9|Sights and Sounds Draw the Wanderers Together|44.txt
+Book 6|Chapter 1|The Inevitable Movement Onward|45.txt
+Book 6|Chapter 2|Thomasin Walks in a Green Place by the Roman Road|46.txt
+Book 6|Chapter 3|The Serious Discourse of Clym with His Cousin|47.txt
+Book 6|Chapter 4|Cheerfulness Again Asserts Itself at Blooms-End, and Clym Finds His Vocation|48.txt

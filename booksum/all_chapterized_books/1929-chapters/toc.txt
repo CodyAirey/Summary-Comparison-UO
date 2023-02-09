@@ -1,0 +1,16 @@
+Act 1||PROLOGUE|1.txt
+Act 1|Scene 1||2.txt
+Act 1|Scene 2||3.txt
+Act 2|Scene 1||4.txt
+Act 2|Scene 2||5.txt
+Act 2|Scene 3||6.txt
+Act 3|Scene 1||7.txt
+Act 3|Scene 2||8.txt
+Act 3|Scene 3||9.txt
+Act 4|Scene 1||10.txt
+Act 4|Scene 2||11.txt
+Act 4|Scene 3||12.txt
+Act 5|Scene 1||13.txt
+Act 5|Scene 2||14.txt
+Act 5|Scene 3||15.txt
+Act 5||EPILOGUE|16.txt

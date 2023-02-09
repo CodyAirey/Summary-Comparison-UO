@@ -1,0 +1,19 @@
+|Chapter 1|Sara|01.txt
+|Chapter 2|A French Lesson|02.txt
+|Chapter 3|Ermengarde|03.txt
+|Chapter 4|Lottie|04.txt
+|Chapter 5|Becky|05.txt
+|Chapter 6|The Diamond Mines|06.txt
+|Chapter 7|The Diamond Mines Again|07.txt
+|Chapter 8|In the Attic|08.txt
+|Chapter 9|Melchisedec|09.txt
+|Chapter 10|The Indian Gentleman|10.txt
+|Chapter 11|Ram Dass|11.txt
+|Chapter 12|The Other Side of the Wall|12.txt
+|Chapter 13|One of the Populace|13.txt
+|Chapter 14|What Melchisedec Heard and Saw|14.txt
+|Chapter 15|The Magic|15.txt
+|Chapter 16|The Visitor|16.txt
+|Chapter 17|"It Is the Child"|17.txt
+|Chapter 18|"I Tried Not to Be"|18.txt
+|Chapter 19|Anne|19.txt

@@ -1,0 +1,243 @@
+CHAPTER II
+
+THE CAUSE AND THE MENACE OF PLAGUE
+
+
+The foregoing facts are quite sufficient to make us realize both the
+possibility and the danger of a world-epidemic; a danger which has
+existed for some years and which recently has been especially menacing
+to the United States.
+
+CAUSATION OF THE DISEASE.--Plague is an acute infectious epizootic
+disease, caused solely by _Bacillus pestis_, a bacterial organism. The
+disease is common to man and to a number of the lower animals and
+fowls.
+
+Prominent among the animals susceptible to the disease is the rat, and
+from this animal, through the intermediation of the flea, by far the
+most cases of human plague arise. In California the ground squirrel
+(_Citellus beecheyi_), a rodent closely related to the marmots of Asia,
+    plays a similar role. Of the Asian marmots, the tarbagan, a large
+    rodent, also commonly suffers from subacute chronic plague, which is
+    transmissible to man as an acute disease by the fleas which the animal
+    harbors.
+
+    ITS CONVEYANCE.--Although conveyance of plague through rats by contact
+    alone--that is to say without the medium of the flea--is denied by
+    modern experimenters, it is perhaps wiser and safer to consider the
+    disease infectious, inoculable and contagious in the common medical
+    meaning of these terms. While it is usually conveyed to man by the
+    flea, it may be acquired by the inhalation of plague bacilli and,
+    according to some authorities, by ingesting or swallowing the bacilli.
+
+    When infection takes place through the digestive tract, or in other
+    words, by the ingestion of bacilli, either the flesh of plague-infected
+    animals or fowls, or food superficially contaminated with plague
+    bacilli by rats, cockroaches or other carriers, serves as the medium.
+
+    Speaking practically, the possibility of infection through ingestion is
+    nearly negligible. Indeed, the conclusion of Simpson in regard to this
+    possibility has been disputed and denied. However, the recent
+    occurrence of plague in a cat in Manila, in my own experience, observed
+    with me and carefully worked out by Dr. Otto Schoebl, points strongly to
+    the possibility of ingestion plague, the cat in this case apparently
+    having acquired plague from eating rats dead from plague.
+
+    A full account of this case appears in the bacteriologic observations
+    of Dr. Schoebl and in my recital of the history of the Manila epidemic.
+
+    TYPES OF PLAGUE.--Plague in man may be of several types and these are
+    designated by names descriptive of the symptoms or of the regions of
+    the body most affected. Thus we have bubonic, septicaemic and pneumonic
+    types. As both mild and virulent cases occur, we also use terms
+    descriptive of the severity and course of the cases. Thus we describe
+    certain cases as ambulant, abortive, larval and fulminant. In the rat
+    the evidences of plague are less striking in life than they are at the
+    post-mortem table. Indeed plague-stricken rats, either naturally or
+    artificially (experimentally) infected, often show very slight
+    evidences of disease before death. Chronic plague in rats and a
+    relative immunity to inoculation in certain wild rats are fairly well
+    recognized phenomena.
+
+    FLEA CONVEYANCE OF PLAGUE BACILLI.--Both male and female fleas convey
+    plague, but the exact method of carrying the plague bacilli from
+    diseased rats to man, while fairly well determined, is of such recent
+    decision as to leave room for further experimentation. At present it is
+    believed that the flea deposits plague bacilli, at the time of biting,
+    upon the skin, by ejecting the contents of its rectum and by
+    regurgitation of its stomach contents. At least the flea is known to
+    perform these acts at the time of biting, and the rubbing or scratching
+    of the flea bite with the hand may easily introduce the bacilli into
+    the skin at this spot.[1]
+
+    [1] Acknowledgment is hereby made to the Contributors to "The Rat and
+    Its Relation to Public Health" by various authors, prepared by
+    direction of the Surgeon-General, P. H. and M. H. S., for numerous
+    facts utilized in the preparation of this article. The particular
+    contributors whose valuable chapters have been drawn upon for
+    information are D. E. Lantz, C. W. McCoy, D. H. Currie, Carrol Fox,
+    Rupert Blue, W. C. Rucker, R. H. Creel, M. J. Rosenau, V. C. Heiser,
+    W. C. Hobdy, and J. W. Kerr.
+
+    The possibility that the flea introduces the plague bacilli upon his
+    mandibles, or the skin-piercing armament with which he is provided, is
+    also to be considered. However, the following facts support the first
+    proposition. It has been experimentally shown that the average capacity
+    of a flea's stomach is about one-half of a cubic millimetre and that
+    thousands of plague bacilli may be ingested by the flea during the
+    biting of a plague-diseased rat; that the plague bacilli multiply
+    enormously and for many days in the flea's stomach and that the bacilli
+    are found only in the insect's digestive tract; that plague bacilli are
+    regurgitated from the stomach and are voided from the rectum with the
+    digested blood.
+
+    It has also been proved that almost all varieties of rat fleas, under
+    favorable circumstances, will bite man and that the most common human
+    flea (_Pulex irritans_) is frequently found upon rats, the flea,
+    generally speaking, being much less particular in his choice of hosts
+    and in his permanence of residence than most insects and ectoparasites
+    in general.
+
+    Of the rat fleas, _Pulex pallidus_ (_Loemopsylla cheopis_) is common
+    under various names in India, the Philippines, Australia, Italy, Brazil
+    and in tropical countries generally. It bites both rat and man.
+    _Ceratophyllus fasciatus_, the common rat flea of Great Britain and the
+    United States, also bites both rat and man. In North America and
+    elsewhere certain other fleas of the genus _Ceratophyllus_ have been
+    found upon ground squirrels, cats, rats, sparrows and in chicken yards.
+
+    Dog fleas and cat fleas (genus _Ctenocephalus_) also infest rats, and
+    fleas of other genera are found upon mice, rats and ground squirrels
+    rather indiscriminately.
+
+    The significance of these facts in connection with prevention of
+    plague is apparent and it is plain that our warfare against fleas must
+    be made upon _all_ fleas and not upon a single variety. In this
+    connection the possibilities of the conveyance of plague bacilli by
+    other suctorial parasites and by insects which are not parasites, must
+    be borne in mind.
+
+    Thus the bed-bug, the louse, the tick and the mosquito must be
+    suspected as possible intermediaries and the fly and the cockroach as
+    possible food contaminators. Indeed, laboratory experiments have
+    already incriminated bed-bugs, flies and lice as potential vectors of
+    plague bacilli.
+
+    Experiment and observation have demonstrated, however, that above all
+    other parasites and insects, the flea is most likely to convey the
+    plague germ from rat to man, by reason of his frequent excursions from
+    rat-host to human-host, his taste for blood from either host, his
+    enormous activity and his ability to jump. After a searching inquiry
+    into the plague question the Indian Plague Commission came to the
+    conclusion that contagion plays a very minor part in the spread of the
+    disease, less than three per cent of human cases being so acquired.
+
+    This commission also decided that infection is conveyed from rat to
+    rat and from rat to man solely through the agency of fleas. While these
+    conclusions are probably true--and therefore of the utmost importance
+    from the standpoint of practical prevention--I should question whether
+    the other possibilities, however remote, are entirely negligible.
+
+    Seasonal conditions may affect the course of an epidemic in various
+    ways. (a) By effect upon flea prevalence, cold weather greatly
+    lessening the number of insects. (b) By effect upon rats, cold weather
+    and rains either driving them from overground to underground, or vice
+    versa, or from their principal avenues of travel in cities (the
+            sewers), into houses and buildings. (c) By effect upon the plague germ,
+    _Bacillus pestis_. The resistance of this organism is very variable,
+    sunlight and drying being its greatest enemies, while darkness and
+    dampness are its chief allies. So far as temperature is concerned, the
+    plague bacillus is not likely to be seriously affected by natural
+    temperatures, as it is not destroyed by heat below 150 degrees
+    Fahrenheit, nor by cold measured by zero Fahrenheit, which means that
+    it survives freezing, generally speaking.
+
+    It is probable that the periods of greatest seasonal prevalence of
+    plague will be found to correspond generally with increased prevalence
+    of rat fleas. During the periods when rat fleas are absent or least
+prevalent, the disease is perpetuated in the form of chronic (subacute)
+    rat plague in a small number of the rodents. The India Plague
+    Commission made and verified this observation.
+
+    Cholera epidemics often abate spontaneously and this is believed to be
+    due in part to attenuations of virulence and changes in the cholera
+    organism which may be demonstrated in the laboratory. We can hardly
+    hope for such spontaneous abatements in plague epidemics, as it has
+    been found difficult to attenuate or to intensify cultures of plague
+    bacilli permanently in laboratory experiments with animals. If it is
+    true that plague epidemics are often marked by a preponderance of mild
+    cases in the early days and a gradual subsidence of intensity of the
+    cases as the epidemics wane, we probably will have to look to the
+    susceptibility of our patients for our explanation of this phenomenon,
+    rather than to variations in the virulence of the plague bacilli. If
+    plague bacilli continue to be distributed to susceptible people the
+    disease should continue with a general stability of virulence.
+
+    STABILITY OF VIRULENCE OF _B. Pestis_.--According to Strong, stability
+    of virulence is a marked characteristic of _B. pestis_, it having been
+    shown by him that it is difficult to increase the virulence of a very
+    virulent strain or to intensify an attenuated one in laboratory
+    animals, working with monkeys, rats and guinea-pigs.[2] If his
+    observations are correct (and they seem to correspond with the findings
+            of other observers), the oft-recorded occurrence of a preponderance of
+    mild cases of plague in the early days of an epidemic and the gradual
+    subsidence in intensity of the disease as the epidemic approaches its
+    close will have to be explained upon other grounds than those of
+    variability of virulence by attenuation of virulent strains alone.
+    While he admits that _B. pestis_ may become attenuated under certain
+    conditions many times during the course of an epidemic, it may also
+    regain its virulence, he contends, under other conditions.
+
+    [2] "Studies in Plague Immunity," R. P. Strong, Philippines Journal
+    of Science, June 1907, No. 3. Frequent reference has been made to
+    these studies in the preparation of this article, for which
+    acknowledgment is hereby made.
+
+    With these facts concerning the cause and the manner of extension of
+    plague and its menace before us, we are in position to approach the
+    problem of prevention intelligently, and in the case of plague
+    prevention is preeminently preferable to cure, as well as decidedly
+    more practicable.
+
+    I think we may be permitted here to sum up the problem of plague
+    prevention thus: Without fleas, without rats, or without human plague
+    cases, there can be no extension of plague, practically speaking.
+
+    Therefore the destruction of both rats and fleas, the isolation of
+    human plague cases, and the exclusion from them of all suctorial
+    parasites and insects, will provide practical security for mankind
+    generally.
+
+    A word concerning pneumonic plague may be permissible. This form of
+    plague occasionally occurs in epidemics of great fatality, as, for
+    example, the epidemic in Manchuria, North China, a few years ago.
+
+    The mystery of this outbreak was largely dispelled by the work of the
+    Americans, Strong, Teague and Barber, of the Bureau of Science of
+    Manila.
+
+    The occurrence of secondary pneumonia in bubonic or septicaemic plague
+    is rather common and it is likely that such secondary plague pneumonias
+    are the starting points of epidemics of pneumonic plague, _i.e._, of
+    cases of primary plague pneumonia, the point of infection being in the
+    respiratory organs and the infection being acquired through the
+    inspiration of plague bacilli.
+
+    The principal prerequisites seem to be an extremely moist atmosphere
+    under confined conditions and a low temperature; conditions most
+    unfavorable to evaporation and ventilation. Under these conditions the
+    pneumonic patient sprays plague bacilli into the air while coughing and
+    droplet infection follows.
+
+    It is therefore apparent that epidemic pneumonic plague is controllable
+    by sanitary and hygienic measures and, furthermore, that in the absence
+    of original cases of bubonic and septicaemic plague, with secondary
+    plague pneumonias which give rise to primary plague pneumonia in the
+    manner explained, respiratory plague in epidemic form will not occur.
+
+    There is no evidence pointing to the conveyance of respiratory plague
+    by insects or other carriers.
+
+
+
+

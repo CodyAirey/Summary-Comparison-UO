@@ -1,17 +1,12 @@
-from typing import List, Union, Iterable
 import numpy as np
-import nltk
 import math
-from collections import defaultdict
 from nltk import tokenize
-from itertools import zip_longest
 import json
 import sys
 import getopt
 import pathlib
 import time
 import pandas as pd
-import re
 
 human_summaries = dict()
 summaries_count = 0
@@ -53,17 +48,10 @@ def setup_matches_datastructure(split):
     f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/fixed_chapter_summaries_{split}_final.jsonl"),
              encoding='utf-8')
 
-    # for sourc in number_of_matches:
-    # for book in number_of_matches[sourc]:
-
-
-    # setup the 'datastructure'.
     for line in f:
         content = json.loads(line)
 
         library[content['normalized_title']] = {
-            # 'total_individual_chapters': 0, #total number of chapter/scenes/w.e for the actual book, 
-            # 'total_sections': 0,
             'total_sections_used': 0, # that are found elsewhere / compared with.
             'total_aggregate_sections': 0,
             'total_aggregate_sections_used': 0, #that are found elsewhere / compared with.
@@ -84,7 +72,6 @@ def setup_matches_datastructure(split):
                     "section_title": content['corrected_section'],
                     "source": content['source'],
                     "summary_text": text,
-                    # "original_title": content['normalized_title'],
                     'is_aggregate': content['is_aggregate'],
                     'chapter_path': content['chapter_path']
                 }
@@ -92,11 +79,10 @@ def setup_matches_datastructure(split):
                 print(f"Found {content['c_title']}")
             except:
                 continue
-
     print("Evaluating {} summary documents...".format(len(human_summaries)))
 
 
-def result_printout(function):
+def result_printout(metric):
     """Prints out the results for summary comparison
 
     Args:
@@ -106,12 +92,20 @@ def result_printout(function):
     print("Unique chapters used: {}".format(len(unique_used_chapters)))
     FUNC_list = [data_item[0] for data_item in summary_comparison_data]
     FUNC_mean = sum(FUNC_list) / len(FUNC_list)
-    print(f"Mean {function}: {FUNC_mean}")
+    print(f"Mean {metric}: {FUNC_mean}")
     print()
 
 
 # returns summaries located in scripts/finished_summaries
 def get_human_summary(summary_path):
+    """ Retrieves the summary text from the given path
+
+    Args:
+        summary_path (str): filepath to summary
+
+    Returns:
+        str: summary text
+    """
     try:
         with open("../../scripts/" + summary_path, encoding='utf-8') as f:
             summary_json = json.load(f)
@@ -120,8 +114,7 @@ def get_human_summary(summary_path):
         print("Failed to read summary file: {}".format(e))
         return None
 
-
-def setup_model(function):  # there has got to be a better way to do this.
+def setup_model(metric):  # there has got to be a better way to do this.
     """Sets up a model if required, using given function
 
     Args:
@@ -130,37 +123,41 @@ def setup_model(function):  # there has got to be a better way to do this.
     Returns:
         _type_: _description_
     """
-    if function == "bleu":
+    if metric == "bleu":
         return  # no model reqiured
-    elif function == "bert":
+    elif metric == "bert":
         from bert import calculate_score
         calculate_score.create_model()
-    elif function == "bertscore":
+    elif metric == "bertscore":
         from bert import calculate_bertscore
         calculate_bertscore.create_model()
-    elif function == "rouge-1n" or function == "rouge-2n" or function == "rouge-l":
+    elif metric == "rouge-1n" or metric == "rouge-2n" or metric == "rouge-l":
         return  # no model required
-    elif function == "moverscore":
+    elif metric == "moverscore":
         return  # no model required
-    elif function == "qaeval":
+    elif metric == "qaeval":
         from qaeval_scoring import calculate_score
         calculate_score.create_model()
-    elif function == "meteor":
+    elif metric == "meteor":
         return  # no model required
-    elif function == "summac":
+    elif metric == "summac":
         from summac_scoring import calculate_score
         calculate_score.create_model()
         return
-    elif function == "bartscore":
+    elif metric == "bartscore":
         from bartscore import calculate_score
         calculate_score.create_model()
-    elif function == "chrf":
+    elif metric == "chrf":
         return  # no model required
 
 
-def calculate_F1(function):
-    """Calculates the summary score using the given function, this methods a mess, im sorry. 
-    (in my defense i took over this code from a previous user)
+def calculate_F1(metric):
+    """Scores each section summary (reference document) against its corresponding (hypothesis document),
+    summaries (if any) from different source(s). Each reference sentence is scored against all hypothesis
+    sentences individually, taking the max F1 score from the lot (a single sentence to sentence pair 
+    with the greatest similarity).
+
+    The final score for the two summaries is calculated by averaging each of the max-sentence-f1 scores.
 
     Starts by looping over all summaries, and scoring the similarity between reviews from different sources for the same book. 
     E.G. Dracula.chapter1.sparknotes vs Dracula.chapter1.bookwolf, Dracula.chapter1.gradesaver
@@ -168,7 +165,6 @@ def calculate_F1(function):
     chapter is compared one sentence at a time to ensure uniform comparing methods for each function
     (some can't handle multiple at once)
 
-    
     Args:
         function (str): the metric to use to calculate score
 
@@ -182,58 +178,53 @@ def calculate_F1(function):
     start_time = time.time()
     summaries_count = 0
 
-    for summary_path, summary in human_summaries.items():
+    #Loop over each Reference Summary
+    for summary_path, ref_summary in human_summaries.items():
 
-        book = summary['book']
-        section_title = summary['section_title'] #normalized for roman numerals & aggregate chapter names (chapters1-3 / chapter1-chapter3)
-        source = summary['source']
-        summary_text = summary['summary_text']
-        is_aggregate = summary['is_aggregate']
+        ref_sum_book = ref_summary['book']
+        section_title = ref_summary['section_title']
+        source = ref_summary['source']
+        summary_text = ref_summary['summary_text']
+        is_aggregate = ref_summary['is_aggregate']
         
 
         unique_books.add(section_title) #add to set.
 
-        # section_number = section_title.split("-")[-1]
-        # num_chapters = 0
-        # if section_number.isnumeric():
-        #     library[book]['total_individual_chapters'] = max(library[book]['total_individual_chapters'], int(section_number))
-
-
         #grab all summaries with same title but different source (matching sections to compare with one another) aka related.
-        related_summaries = list(filter(lambda curr_summary: curr_summary['section_title'] == summary['section_title'] and curr_summary['source'] != summary['source'], human_summaries.values()))
+        related_summaries = list(filter(lambda curr_summary: curr_summary['section_title'] == ref_summary['section_title'] and curr_summary['source'] != ref_summary['source'], human_summaries.values()))
 
 
-        if summary['is_aggregate'] == True:
-            library[summary['book']]['total_aggregate_sections'] += 1
+        if ref_summary['is_aggregate'] == True:
+            library[ref_summary['book']]['total_aggregate_sections'] += 1
         else:
-            library[summary['book']]['total_non-aggregate_sections'] += 1
+            library[ref_summary['book']]['total_non-aggregate_sections'] += 1
 
         # if there are no related summary documents, then just print.
         if len(related_summaries) == 0:
             print(f"No related summary documents were found for {section_title}.")
             if(is_aggregate):
-                library[book]['aggregate_sections_not_used'][section_title] = [source]
+                library[ref_summary['book']]['aggregate_sections_not_used'][section_title] = [source]
             else:
-                library[book]['non-aggregate_sections_not_used'][section_title] = [source]
+                library[ref_summary['book']]['non-aggregate_sections_not_used'][section_title] = [source]
             continue #no need to perform calculation
 
 
         if is_aggregate:
-            library[book]['aggregate_sections_used'][section_title] = [source]
+            library[ref_summary['book']]['aggregate_sections_used'][section_title] = [source]
         else:
-            library[book]['non-aggregate_sections_used'][section_title] = [source]
+            library[ref_summary['book']]['non-aggregate_sections_used'][section_title] = [source]
 
         related_summary_texts = []
         for summary2 in related_summaries: #same title, diff source.
             related_summary_texts.append(summary2['summary_text'])
             if is_aggregate:
-                library[book]['aggregate_sections_used'][section_title].append(summary2['source'])
-                library[book]['total_aggregate_sections_used'] += 1
-                library[book]['total_sections_used'] += 1
+                library[ref_summary['book']]['aggregate_sections_used'][section_title].append(summary2['source'])
+                library[ref_summary['book']]['total_aggregate_sections_used'] += 1
+                library[ref_summary['book']]['total_sections_used'] += 1
             else: #not aggregate
-                library[book]['non-aggregate_sections_used'][section_title].append(summary2['source'])
-                library[book]['total_non-aggregate_sections_used'] += 1
-                library[book]['total_sections_used'] += 1
+                library[ref_summary['book']]['non-aggregate_sections_used'][section_title].append(summary2['source'])
+                library[ref_summary['book']]['total_non-aggregate_sections_used'] += 1
+                library[ref_summary['book']]['total_sections_used'] += 1
             
         # prep text by tokenizing it into sentences
         ref_doc = tokenize.sent_tokenize(summary_text)
@@ -244,10 +235,13 @@ def calculate_F1(function):
         temp_time = time.time()
         unique_sents = dict()
         max_scores = []
+
+        #loop through hypothesis summaries
         for hyp_summary in related_summaries:
             hyp_doc = tokenize.sent_tokenize(hyp_summary['summary_text'])
             sentence_scores = []
             
+
             for ref_sent_index, ref_sent in enumerate(ref_doc):
                 best_score = -math.inf
                 best_score_index = -1
@@ -256,52 +250,13 @@ def calculate_F1(function):
                     precision = "NA"
                     recall = "NA"
 
-                    # calculate score based on function, p.s. surely there is a better way to do this.
-                    if function == "bleu":
-                        from bleu import calculate_score
-                        current_score, precision = calculate_score.compute_score(ref_sent, hyp_sent)
-                    elif function == "bert":
-                        from bert import calculate_score
-                        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-                    elif function == "bertscore":
-                        from bert import calculate_bertscore
-                        current_score, precision, recall = calculate_bertscore.compute_score(ref_sent, hyp_sent)
-                    elif function == "rouge-1n":
-                        from rouge_scoring import calculate_score
-                        current_score, precision, recall = calculate_score.compute_score_1n(ref_sent, hyp_sent)
-                    elif function == "rouge-2n":
-                        from rouge_scoring import calculate_score
-                        current_score, precision, recall = calculate_score.compute_score_2n(ref_sent, hyp_sent)
-                    elif function == "rouge-l":
-                        from rouge_scoring import calculate_score
-                        current_score, precision, recall = calculate_score.compute_score_l(ref_sent, hyp_sent)
-                    elif function == "moverscore":
-                        from moverscore import calculate_score
-                        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-                    elif function == "qaeval":
-                        from qaeval_scoring import calculate_score
-                        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-                    elif function == "meteor":
-                        from meteor import calculate_score
-                        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-                    elif function == "summac":
-                        from summac_scoring import calculate_score
-                        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-                    elif function == "bartscore":
-                        from bartscore import calculate_score
-                        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-                    elif function == "chrf":
-                        from chrf import calculate_score
-                        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
+                    current_score, precision, recall = compute_single_score(metric, ref_sent, hyp_sent)
 
                     if current_score > best_score:
                         best_score = current_score
                         best_score_index = hyp_sent_index
-                    
-                    # print(f"Hyp doc:{hyp_doc}")
 
-
-                    line_by_line_data.append([summary['section_title'], summary['source'], hyp_summary['source'], ref_sent_index, hyp_sent_index, current_score, precision, recall])
+                    line_by_line_data.append([ref_summary['section_title'], ref_summary['source'], hyp_summary['source'], ref_sent_index, hyp_sent_index, current_score, precision, recall])
                 sentence_scores.append(best_score)
                 # unique_sents.append(best_score_index)
                 if hyp_summary['source'] in unique_sents.keys():
@@ -315,14 +270,11 @@ def calculate_F1(function):
 
         # print(f"{np.mean(max_scores)}")
         mean_max_score = np.mean(max_scores)
-
-
-        summary_comparison_data.append([mean_max_score, section_title, summary['source'], unique_sents])
-
+        summary_comparison_data.append([mean_max_score, section_title, ref_summary['source'], unique_sents])
         unique_used_books.add(section_title)
         summaries_count += 1
 
-        print(section_title, "-", summary['source'], "- time:", round((time.time() - temp_time), 3), "seconds.")
+        print(section_title, "-", ref_summary['source'], "- time:", round((time.time() - temp_time), 3), "seconds.")
 
         # if summaries_count >= 10:
         #     break
@@ -333,6 +285,60 @@ def calculate_F1(function):
 
     return
 
+def compute_single_score(metric, ref_sent, hyp_sent):
+    """Calculates an f1 score between two sentences depending on the metric used 
+    Args:
+        metric (str): metric to denote how the calculation is performed
+        ref_sent (str): reference sentence
+        hyp_sent (str): hypothesis sentence
+
+    Returns:
+        float: f1 score based on how similar the ref_sent and hyp_sent are
+    """
+
+    current_score = "NA" #initilze value to something error worthy if not changed.
+    precision = "NA"
+    recall = "NA"
+
+    # calculate score based on metric, p.s. surely there is a better way to do this.
+    if metric == "bleu":
+        from bleu import calculate_score
+        current_score, precision = calculate_score.compute_score(ref_sent, hyp_sent)
+    elif metric == "bert":
+        from bert import calculate_score
+        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
+    elif metric == "bertscore":
+        from bert import calculate_bertscore
+        current_score, precision, recall = calculate_bertscore.compute_score(ref_sent, hyp_sent)
+    elif metric == "rouge-1n":
+        from rouge_scoring import calculate_score
+        current_score, precision, recall = calculate_score.compute_score_1n(ref_sent, hyp_sent)
+    elif metric == "rouge-2n":
+        from rouge_scoring import calculate_score
+        current_score, precision, recall = calculate_score.compute_score_2n(ref_sent, hyp_sent)
+    elif metric == "rouge-l":
+        from rouge_scoring import calculate_score
+        current_score, precision, recall = calculate_score.compute_score_l(ref_sent, hyp_sent)
+    elif metric == "moverscore":
+        from moverscore import calculate_score
+        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
+    elif metric == "qaeval":
+        from qaeval_scoring import calculate_score
+        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
+    elif metric == "meteor":
+        from meteor import calculate_score
+        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
+    elif metric == "summac":
+        from summac_scoring import calculate_score
+        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
+    elif metric == "bartscore":
+        from bartscore import calculate_score
+        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
+    elif metric == "chrf":
+        from chrf import calculate_score
+        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
+
+    return current_score, precision, recall
 
 def write_summary_count_to_json(split, filename):
     with open(f"../summary_count/chapter-comparison-counts-postfix-{split}-{filename}.json", 'w') as f:
@@ -351,52 +357,47 @@ def write_to_csv(function, split, filename):
         f"../csv_results/booksum_summaries/line_by_line_section/chapter-comparison-results-{split}-{filename}-lbl.csv")
 
 
-def helper(function_list):
+def arg_print_help(metric_list):
     """Prints useful help commands when user uses file with incorrect arguments
 
     Args:
-        function_list (list): list of possible useable functions (metrics currently supported)
+        metrics_list (list): list of possible metrics (currently supported)
     """
-    print('Usage: compare_chapters.py -f <function> -o <output-csv-filename> -s <split>')
+    print('Usage: compare_sections.py -m <metric> -o <output-csv-filename> -s <split>')
     print('----')
-    print("Functions:", function_list)
+    print("Metrics:", metric_list)
     print("Possible Splits: test, train, val    (default is train)")
-    print("Example Filename: bart-24-12-2022")
+    print("Example Filename: bartscore-postfix")
 
 
-def main(argv):
-    """Main method takes arguments for Function, OutputFilename, and Split to use.
-    Afterwhich, it calculates the score for all booksum sections and writes the output to a file.
-
-    Args:
-        argv (list? of str): 0: filename, 1-3: function, split, outputfilename
-    """
-    function = None
+def arg_handler(argv):
+    """Function that handles arguments given in command line"""
+    metric = None
     outputfile = None
     split = None
-    function_list = ["bleu", "bert", "bertscore", "rouge-1n", "rouge-2n", "rouge-l",
+    metric_list = ["bleu", "bert", "bertscore", "rouge-1n", "rouge-2n", "rouge-l",
                      "moverscore", "qaeval", "meteor", "summac", "bartscore", "chrf"]
     split_list = ["test", "train", "val", "all"]
 
     if (len(argv) <= 4):
-        helper(function_list)
+        arg_print_help(metric_list)
         sys.exit(2)
 
     # used getopt for first time to handle arguments, works well but feels messy. Will try another solution next time
     try:
         opts, args = getopt.getopt(
-            argv, "hf:o:s:", ["help", "function=", "ofile=", "split="])
+            argv, "hm:o:s:", ["help", "metric=", "ofile=", "split="])
     except getopt.GetoptError:
-        helper(function_list)
+        arg_print_help(metric_list)
         sys.exit(2)
     for opt, arg in opts:
         if opt in ('-h', "--help"):
-            helper(function_list)
+            arg_print_help(metric_list)
             sys.exit()
-        elif opt in ("-f", "--function"):
-            function = arg
-            if function not in function_list or function == '' or function == None:
-                print("Function not acceptable, please use one of:", function_list)
+        elif opt in ("-m", "--metric"):
+            metric = arg
+            if metric not in metric_list or metric == '' or metric == None:
+                print("Metric not acceptable, please use one of:", metric_list)
                 sys.exit(2)
         elif opt in ("-o", "--ofile"):
             outputfile = arg
@@ -409,17 +410,29 @@ def main(argv):
                 print("Split not acceptable, please use one of:", split_list)
                 sys.exit(2)
 
-    print('Function is:', function)
+    print('Metric is:', metric)
     print('Output file is:', outputfile)
     print('Split is:', split)
+    return metric, outputfile, split
 
+
+def main(argv):
+    """Main method takes arguments for Function, OutputFilename, and Split to use.
+    Afterwhich, it calculates the score for all booksum sections and writes the output to a file.
+
+    Args:
+        argv (list? of str): 0: filename, 1-3: function, split, outputfilename
+    """
+    metric, outputfile, split = arg_handler(argv)
+
+    #preamble methods
     setup_matches_datastructure(split)
-    setup_model(function)
+    setup_model(metric)
     
-    calculate_F1(function)
+    calculate_F1(metric)
     
-    result_printout(function)
-    write_to_csv(function, split, outputfile)
+    result_printout(metric)
+    write_to_csv(metric, split, outputfile)
  
     write_summary_count_to_json(split, outputfile)
 

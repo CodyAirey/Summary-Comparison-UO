@@ -11,39 +11,6 @@ import numpy as np
 
 data_type = sys.argv[1]
 
-# @dataclass
-# class Book:
-#     title: str
-
-# @dataclass
-# class Original_Book_Variation:
-#     book_title: str
-#     book_path: str
-#     book_word_count: int
-
-#     def as_dict(self):
-#         return {
-#             'Book Title': self.book_title,
-#             'Book Word Count': self.book_word_count,
-#             'Book Path': self.book_path
-#             }
-
-
-# @dataclass
-# class Section:
-#     section_title: str
-
-# @dataclass
-# class Original_Section_Variation:
-#     chapter_path: str
-#     section_word_count: int
-
-# @dataclass
-# class Section_Summary:
-#     summary_path: str
-#     section_sum_word_count: int
-
-
 books = pd.DataFrame(columns=["Book Title", "Number of Chapters"])
 original_book_variations = pd.DataFrame(columns= ["Book Title", "Word Count", "Book Path"])
 book_summaries = pd.DataFrame(columns=["Book Title", "Source", "Word Count", "Summary Path"])

@@ -232,11 +232,11 @@ def arg_print_help(metric_list):
     Args:
         metrics_list (list): list of possible metrics (currently supported)
     """
-    print('Usage: compare_chapters.py -m <metric> -o <output-csv-filename> -s <split>')
+    print('Usage: compare_adjusted_book_overviews.py -m <metric> -o <output-csv-filename> -s <split>')
     print('----')
     print("Metrics:", metric_list)
     print("Possible Splits: test, train, val    (default is train)")
-    print("Example Filename: bart-24-12-2022")
+    print("Example Filename: bartscore-postfix")
 
 def arg_handler(argv):
     """Function that handles arguments given in command line"""

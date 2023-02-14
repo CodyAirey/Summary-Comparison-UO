@@ -15,7 +15,6 @@ def compress_csvs():
     for (dirpath, dirnames, filenames) in os.walk(csv_folder_path):
         for file in filenames:
             if Path(file).suffix == '.csv':
-                # csv_to_pq(csv_folder_path)
                 csv_to_pq(dirpath, file)
 
 

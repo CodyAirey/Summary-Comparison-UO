@@ -2,37 +2,66 @@ import pathlib
 import json
 import sys
 
-f = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/book_summaries_aligned_all.jsonl"),
-        encoding='utf-8')
+def replicate_book_summaries():
+    """function to take the title of a book and also make it the 'normalized_title' 
+    (note: this data has never been normalized, and is only for testing against ACTUAL 
+    normalized summaries, created through the pull_aggregates.py file)
+    """
+    f = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/book_summaries_aligned_all.jsonl"),
+            encoding='utf-8')
+    adjusted = []
 
-fixed = []
-
-for line in f:
-    content = json.loads(line)
-    content['normalized_title'] = content['title']
-    fixed.append(content)
-
-with open(f"adjusted_book_summaries_all_final.jsonl", 'w') as n:
-    for each in fixed:
-        n.write(json.dumps(each))
-        n.write('\n')
-
-
-
-
-f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/chapter_summary_aligned_all_split.jsonl"),
-        encoding='utf-8')
-
-fixed = []
-
-for line in f:
-    content = json.loads(line)
-    content['corrected_section'] = content['book_id']
-    content['normalized_title'] = content['bid']
-    fixed.append(content)
+    for line in f:
+        content = json.loads(line)
+        content['normalized_title'] = content['title']
+        adjusted.append(content)
+    
+    with open(f"adjusted_book_summaries_all_final.jsonl", 'w') as n:
+        for line in adjusted:
+            n.write(json.dumps(line))
+            n.write('\n')
 
 
-with open(f"adjusted_chapter_summaries_all_final.jsonl", 'w') as n:
-    for each in fixed:
-        n.write(json.dumps(each))
-        n.write('\n')
+def replicate_section_summaries():
+    """function to take the title of a chapter summary and also make it the 'normalized_title' 
+    (note: this data has never been normalized, and is only for testing against ACTUAL 
+    normalized summaries, created through the pull_aggregates.py file)
+    """
+    f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/chapter_summary_aligned_all_split.jsonl"),
+            encoding='utf-8')
+
+    fixed = []
+
+    for line in f:
+        content = json.loads(line)
+        content['corrected_section'] = content['book_id']
+        content['normalized_title'] = content['bid']
+        fixed.append(content)
+
+
+    with open(f"adjusted_chapter_summaries_all_final.jsonl", 'w') as n:
+        for each in fixed:
+            n.write(json.dumps(each))
+            n.write('\n')
+
+
+def main(argv):
+    """code to take original booksum data, and replicate the new information so that
+    compare_sections / book_overviews / section_to_book can be used with both the original data, and the new.
+
+    files produced with this code will not have information added, only duplicated to work with the compare_x.py files.
+    these output files should be used to test the difference between the original booksum data, and the new cleaned & normalized data.
+    
+    this file should be used in conjuction with pull_aggregates.py
+
+    Args:
+        argv (str): arguments
+    """
+    replicate_book_summaries()
+    replicate_section_summaries()
+
+
+if __name__ == "__main__":
+    # print(sys.argv[1:])
+    # sys.exit(1)
+    main(sys.argv[:])

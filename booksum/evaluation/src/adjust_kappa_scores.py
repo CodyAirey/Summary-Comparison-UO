@@ -1,13 +1,6 @@
-import json
-import pathlib
-import sys
-import csv
 import pandas as pd
-import copy
 import numpy as np
-from disagree import metrics
 from IPython.display import display
-import math
 
 metdf = pd.read_csv("../csv_results/kappa_results/shmoop-section-rouge1n-sentence-max-scores.csv", index_col=0)
 
@@ -29,4 +22,4 @@ print(metdf)
 
 
 metdf.to_parquet("../csv_results/kappa_results/shmoop-section-rouge1n-sentence-max-scores-threshold-adjusted.parquet")
-metdf.to_csv("../csv_results/kappa_results/shmoop-section-rouge1n-sentence-max-scores-threshold-adjusted.csv")
+# metdf.to_csv("../csv_results/kappa_results/shmoop-section-rouge1n-sentence-max-scores-threshold-adjusted.csv")

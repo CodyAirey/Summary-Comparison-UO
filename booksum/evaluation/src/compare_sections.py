@@ -345,29 +345,31 @@ def write_summary_count_to_json(split, filename):
         f.write(json.dumps(library))
             
 
-def write_to_csv(function, split, filename):
+def write_to_csv(metric, split, filename):
     print(filename)
-    df = pd.DataFrame(summary_comparison_data, columns=[ function, "Section Title", "Source", "Unique sentences used"])
-    # Save file.
+    df = pd.DataFrame(summary_comparison_data, columns=[ metric, "Section Title", "Source", "Unique sentences used"])
     df.to_csv(
-        f"../csv_results/booksum_summaries/section/chapter-comparison-results-{split}-{filename}.csv")
+        f"../csv_results/booksum_summaries/section/section-comparison-results-{split}-{filename}.csv")
     
-    df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Reference Source", "Hypothesis Source", "Reference Sentence Index", "Hypothesis Sentence Index", (function + "score"), "Precision", "Recall"])
+    df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Reference Source", "Hypothesis Source", "Reference Sentence Index", "Hypothesis Sentence Index", (metric + "score"), "Precision", "Recall"])
     df.to_csv(
-        f"../csv_results/booksum_summaries/line_by_line_section/chapter-comparison-results-{split}-{filename}-lbl.csv")
+        f"../csv_results/booksum_summaries/line_by_line_section/section-comparison-results-{split}-{filename}-lbl.csv")
 
 
-def arg_print_help(metric_list):
+def arg_print_help(metric_list, split_list, datatype_list):
     """Prints useful help commands when user uses file with incorrect arguments
 
     Args:
         metrics_list (list): list of possible metrics (currently supported)
+        split_list (list): list of possible splits supported
+        datatype_list (list): list of possible data file types supported
     """
-    print('Usage: compare_sections.py -m <metric> -o <output-csv-filename> -s <split>')
-    print('----')
-    print("Metrics:", metric_list)
-    print("Possible Splits: test, train, val    (default is train)")
-    print("Example Filename: bartscore-postfix")
+    print(f"""Usage: compare_sections.py -m <metric> -o <output-csv-filename> -s <split> \n
+          ---- \n
+          Metrics: {metric_list}\n
+          Possible Splits: {split_list}\n
+          Possible Data Types: {datatype_list}\n
+          Example filename: bartscore-postfix""")
 
 
 def arg_handler(argv):
@@ -375,18 +377,21 @@ def arg_handler(argv):
     metric = None
     outputfile = None
     split = None
+    datatype = None
     metric_list = ["bleu", "bert", "bertscore", "rouge-1n", "rouge-2n", "rouge-l",
                      "moverscore", "qaeval", "meteor", "summac", "bartscore", "chrf"]
     split_list = ["test", "train", "val", "all"]
 
-    if (len(argv) <= 4):
-        arg_print_help(metric_list)
+    datatype_list = ["postfix", "adjusted"]
+
+    if (len(argv) <= 5):
+        arg_print_help(metric_list, split_list, datatype_list)
         sys.exit(2)
 
     # used getopt for first time to handle arguments, works well but feels messy. Will try another solution next time
     try:
         opts, args = getopt.getopt(
-            argv, "hm:o:s:", ["help", "metric=", "ofile=", "split="])
+            argv, "hm:o:s:d:", ["help", "metric=", "ofile=", "split=", "data="])
     except getopt.GetoptError:
         arg_print_help(metric_list)
         sys.exit(2)
@@ -409,11 +414,17 @@ def arg_handler(argv):
             if split not in split_list:
                 print("Split not acceptable, please use one of:", split_list)
                 sys.exit(2)
+        elif opt in ("-d", "--data"):
+            datatype = arg
+            if datatype not in datatype_list:
+                print("Data type not acceptable, please use on of:", datatype_list)
+                sys.exit(2)
 
     print('Metric is:', metric)
     print('Output file is:', outputfile)
     print('Split is:', split)
-    return metric, outputfile, split
+    print("Data type is:", datatype)
+    return metric, outputfile, split, datatype
 
 
 def main(argv):
@@ -423,7 +434,7 @@ def main(argv):
     Args:
         argv (list? of str): 0: filename, 1-3: function, split, outputfilename
     """
-    metric, outputfile, split = arg_handler(argv)
+    metric, outputfile, split, datatype = arg_handler(argv)
 
     #preamble methods
     setup_matches_datastructure(split)
@@ -438,6 +449,4 @@ def main(argv):
 
 
 if __name__ == "__main__":
-    # print(sys.argv[1:])
-    # sys.exit(1)
     main(sys.argv[1:])

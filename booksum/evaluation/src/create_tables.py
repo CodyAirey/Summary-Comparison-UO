@@ -63,7 +63,6 @@ def create_obv_table():
     original_book_variations.to_csv("table_data/original_book_variations.csv")
 
 
-#Create Book_Summaries
 def create_book_summaries_table():
     """Function to create a dataframe containing the cleaned title, word count, 
     source, and location of book summaries 
@@ -92,7 +91,6 @@ def create_book_summaries_table():
     book_summaries.to_csv("table_data/book_summaries.csv")
 
 
-#Create Sections
 def create_sections_table():
     """Function to create a dataframe containing all of the sections and its origin book title
     """
@@ -136,8 +134,6 @@ def create_osv_table():
                 continue
 
 
-
-#Create Section Summaries
 def create_section_summaries_table():
     """Function to create a dataframe containing the cleaned title, word count, 
     source, and location of section summaries 
@@ -163,8 +159,8 @@ def create_section_summaries_table():
                 print(f"Could not find summary: {summary['summary_path']}")
                 continue
 
-#Add number of chapters to Books
-def add_number_of_chapters():
+
+def create_book_coverage_table():
     """updates books dataframe to contain estimated number of chapters in book, based off of scraped booksum data.
     """
     try:
@@ -185,6 +181,7 @@ def add_number_of_chapters():
                 book_coverage_report = pd.concat([book_coverage_report, new_df], ignore_index=True)
     book_coverage_report.to_csv("table_data/book_coverage.csv")
 
+
 def main(argv):
     try:
         data_type = sys.argv[1]
@@ -204,6 +201,7 @@ def main(argv):
     create_sections_table()
     create_osv_table()
     create_section_summaries_table()
+    create_book_coverage_table()
     # print(books)
     # print(original_book_variations)
     # print(book_summaries)

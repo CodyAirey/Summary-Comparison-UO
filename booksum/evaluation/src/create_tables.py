@@ -1,14 +1,9 @@
 import pathlib
 import json
-import re
 import sys
-from dataclasses import dataclass
 import pandas as pd
 from nltk.tokenize import word_tokenize
 import string
-
-import numpy as np
-
 
 
 books = pd.DataFrame(columns=["Book Title", "Number of Chapters"])
@@ -66,14 +61,6 @@ def create_obv_table():
             new_df = pd.DataFrame( [[summary['normalized_title'], word_count, summary['book_path']]], columns=['Book Title', 'Word Count', 'Book Path'])
             original_book_variations = pd.concat([original_book_variations, new_df], ignore_index=True)
     original_book_variations.to_csv("table_data/original_book_variations.csv")
-
-# 
-# 
-# 
-# 
-# 
-# 
-# 
 
 
 #Create Book_Summaries
@@ -199,7 +186,6 @@ def add_number_of_chapters():
     book_coverage_report.to_csv("table_data/book_coverage.csv")
 
 def main(argv):
-
     try:
         data_type = sys.argv[1]
 
@@ -218,8 +204,6 @@ def main(argv):
     create_sections_table()
     create_osv_table()
     create_section_summaries_table()
-
-
     # print(books)
     # print(original_book_variations)
     # print(book_summaries)

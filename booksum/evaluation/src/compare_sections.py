@@ -382,7 +382,7 @@ def arg_handler(argv):
                      "moverscore", "qaeval", "meteor", "summac", "bartscore", "chrf"]
     split_list = ["test", "train", "val", "all"]
 
-    datatype_list = ["postfix", "adjusted"]
+    datatype_list = ["fixed", "adjusted"]
 
     if (len(argv) <= 5):
         arg_print_help(metric_list, split_list, datatype_list)

@@ -37,7 +37,7 @@ def create_books_table():
         if summary['normalized_title'] not in books['Book Title'].values:
             new_df = pd.DataFrame([[ summary['normalized_title'] ]], columns=["Book Title"])
             books = pd.concat([books, new_df], ignore_index=True)
-    books.to_csv("table_data/books.csv")
+    books.to_csv("../csv_results/table_data/books.csv")
 
 
 #Create Original_Book_Variations
@@ -60,7 +60,7 @@ def create_obv_table():
 
             new_df = pd.DataFrame( [[summary['normalized_title'], word_count, summary['book_path']]], columns=['Book Title', 'Word Count', 'Book Path'])
             original_book_variations = pd.concat([original_book_variations, new_df], ignore_index=True)
-    original_book_variations.to_csv("table_data/original_book_variations.csv")
+    original_book_variations.to_csv("../csv_results/table_data/original_book_variations.csv")
 
 
 def create_book_summaries_table():
@@ -88,7 +88,7 @@ def create_book_summaries_table():
             except:
                 print(f"Could not find summary for: {summary['normalized_title']} - {summary['source']}, path: {summary['summary_path']}")
                 continue
-    book_summaries.to_csv("table_data/book_summaries.csv")
+    book_summaries.to_csv("../csv_results/table_data/book_summaries.csv")
 
 
 def create_sections_table():
@@ -102,9 +102,9 @@ def create_sections_table():
         if summary['corrected_section'] not in sections['Section Title'].values:
             new_df = pd.DataFrame([[summary['corrected_section'], summary['normalized_title']]], columns=["Section Title", "Book Title"])
             sections = pd.concat([sections, new_df], ignore_index=True)
-    sections.to_csv("table_data/sections.csv")
-    original_section_variations.to_csv("table_data/original_section_variations.csv")
-    section_summaries.to_csv("table_data/section_summaries.csv")
+    sections.to_csv("../csv_results/table_data/sections.csv")
+    
+    
 
     
 #Create Original Section Variations
@@ -132,6 +132,7 @@ def create_osv_table():
             except:
                 print(f"Could not find original section: {summary['chapter_path']}")
                 continue
+    original_section_variations.to_csv("../csv_results/table_data/original_section_variations.csv")
 
 
 def create_section_summaries_table():
@@ -158,6 +159,7 @@ def create_section_summaries_table():
             except:
                 print(f"Could not find summary: {summary['summary_path']}")
                 continue
+    section_summaries.to_csv("../csv_results/table_data/section_summaries.csv")
 
 
 def create_book_coverage_table():
@@ -179,7 +181,7 @@ def create_book_coverage_table():
             # print(current)
                 new_df = pd.DataFrame([[book, current['source'], data[book]['total_individual_chapters'], current['chapters_covered'], current['percentage'] ]], columns=["Book Title", "Source", "Chapters in Book", "Chapters Covered", "Percentage Covered"])
                 book_coverage_report = pd.concat([book_coverage_report, new_df], ignore_index=True)
-    book_coverage_report.to_csv("table_data/book_coverage.csv")
+    book_coverage_report.to_csv("../csv_results/table_data/book_coverage.csv")
 
 
 def main(argv):

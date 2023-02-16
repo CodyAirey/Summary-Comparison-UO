@@ -8,6 +8,8 @@ import pathlib
 import time
 import pandas as pd
 
+sys.path.append('source_modules')
+
 human_summaries = dict()
 summaries_count = 0
 summary_comparison_data = []
@@ -44,8 +46,8 @@ number_of_matches = {
 # souce2 ---- etc.
 
 
-def setup_matches_datastructure(split):
-    f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/fixed_chapter_summaries_{split}_final.jsonl"),
+def setup_matches_datastructure(split, dataset):
+    f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/{dataset}_chapter_summaries_{split}_final.jsonl"),
              encoding='utf-8')
 
     for line in f:
@@ -226,7 +228,7 @@ def calculate_F1(metric):
                 library[ref_summary['book']]['total_non-aggregate_sections_used'] += 1
                 library[ref_summary['book']]['total_sections_used'] += 1
             
-        # prep text by tokenizing it into sentences
+        # prep text by tokenizing it into sentencesgi
         ref_doc = tokenize.sent_tokenize(summary_text)
         tokenized_sums = []
         for cursum in related_summary_texts:
@@ -311,7 +313,7 @@ def compute_single_score(metric, ref_sent, hyp_sent):
         from bert import calculate_bertscore
         current_score, precision, recall = calculate_bertscore.compute_score(ref_sent, hyp_sent)
     elif metric == "rouge-1n":
-        from rouge_scoring import calculate_score
+        from source_modules.rouge_scoring import calculate_score
         current_score, precision, recall = calculate_score.compute_score_1n(ref_sent, hyp_sent)
     elif metric == "rouge-2n":
         from rouge_scoring import calculate_score
@@ -356,36 +358,40 @@ def write_to_csv(metric, split, filename):
         f"../csv_results/booksum_summaries/line_by_line_section/section-comparison-results-{split}-{filename}-lbl.csv")
 
 
-def arg_print_help(metric_list, split_list, datatype_list):
+def arg_print_help(metric_list, split_list, dataset_list):
     """Prints useful help commands when user uses file with incorrect arguments
 
     Args:
         metrics_list (list): list of possible metrics (currently supported)
         split_list (list): list of possible splits supported
-        datatype_list (list): list of possible data file types supported
+        dataset_list (list): list of possible data file types supported
     """
-    print(f"""Usage: compare_sections.py -m <metric> -o <output-csv-filename> -s <split> \n
+    print(f"""Usage: compare_sections.py -m <metric> -o <output-csv-filename> -s <split> -d <dataset> \n
           ---- \n
           Metrics: {metric_list}\n
           Possible Splits: {split_list}\n
-          Possible Data Types: {datatype_list}\n
+          Possible Data Sets: {dataset_list}\n
           Example filename: bartscore-postfix""")
 
 
 def arg_handler(argv):
-    """Function that handles arguments given in command line"""
+    """Function that handles arguments given in command line
+    Metric: the metric to use for the f1 calculation
+    Outputfile: name of the file to be output
+    Split: The input data you want from booksum alignment
+    dataset: fixed or adjusted summary data"""
     metric = None
     outputfile = None
     split = None
-    datatype = None
+    dataset = None
     metric_list = ["bleu", "bert", "bertscore", "rouge-1n", "rouge-2n", "rouge-l",
                      "moverscore", "qaeval", "meteor", "summac", "bartscore", "chrf"]
     split_list = ["test", "train", "val", "all"]
 
-    datatype_list = ["fixed", "adjusted"]
+    dataset_list = ["fixed", "adjusted"]
 
     if (len(argv) <= 5):
-        arg_print_help(metric_list, split_list, datatype_list)
+        arg_print_help(metric_list, split_list, dataset_list)
         sys.exit(2)
 
     # used getopt for first time to handle arguments, works well but feels messy. Will try another solution next time
@@ -415,16 +421,16 @@ def arg_handler(argv):
                 print("Split not acceptable, please use one of:", split_list)
                 sys.exit(2)
         elif opt in ("-d", "--data"):
-            datatype = arg
-            if datatype not in datatype_list:
-                print("Data type not acceptable, please use on of:", datatype_list)
+            dataset = arg
+            if dataset not in dataset_list:
+                print("Data set not acceptable, please use on of:", dataset_list)
                 sys.exit(2)
 
     print('Metric is:', metric)
     print('Output file is:', outputfile)
     print('Split is:', split)
-    print("Data type is:", datatype)
-    return metric, outputfile, split, datatype
+    print("Data set is:", dataset)
+    return metric, outputfile, split, dataset
 
 
 def main(argv):
@@ -432,12 +438,12 @@ def main(argv):
     Afterwhich, it calculates the score for all booksum sections and writes the output to a file.
 
     Args:
-        argv (list? of str): 0: filename, 1-3: function, split, outputfilename
+        argv (list): filename, metric, split, dataset
     """
-    metric, outputfile, split, datatype = arg_handler(argv)
+    metric, outputfile, split, dataset = arg_handler(argv)
 
     #preamble methods
-    setup_matches_datastructure(split)
+    setup_matches_datastructure(split, dataset)
     setup_model(metric)
     
     calculate_F1(metric)

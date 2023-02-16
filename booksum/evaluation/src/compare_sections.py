@@ -125,32 +125,20 @@ def setup_model(metric):  # there has got to be a better way to do this.
     Returns:
         _type_: _description_
     """
-    if metric == "bleu":
-        return  # no model reqiured
-    elif metric == "bert":
+    if metric == "bert":
         from bert import calculate_score
         calculate_score.create_model()
     elif metric == "bertscore":
         from bert import calculate_bertscore
         calculate_bertscore.create_model()
-    elif metric == "rouge-1n" or metric == "rouge-2n" or metric == "rouge-l":
-        return  # no model required
-    elif metric == "moverscore":
-        return  # no model required
-    elif metric == "qaeval":
         from qaeval_scoring import calculate_score
         calculate_score.create_model()
-    elif metric == "meteor":
-        return  # no model required
     elif metric == "summac":
         from summac_scoring import calculate_score
         calculate_score.create_model()
-        return
     elif metric == "bartscore":
         from bartscore import calculate_score
         calculate_score.create_model()
-    elif metric == "chrf":
-        return  # no model required
 
 
 def calculate_F1(metric):
@@ -342,20 +330,19 @@ def compute_single_score(metric, ref_sent, hyp_sent):
 
     return current_score, precision, recall
 
-def write_summary_count_to_json(split, filename):
-    with open(f"../summary_count/chapter-comparison-counts-postfix-{split}-{filename}.json", 'w') as f:
+def write_summary_count_to_json(split, filename, dataset):
+    with open(f"../summary_count/{dataset}-section-comparison-counts-postfix-{split}-{filename}.json", 'w') as f:
         f.write(json.dumps(library))
             
 
-def write_to_csv(metric, split, filename):
-    print(filename)
+def write_to_csv(metric, split, filename, dataset):
     df = pd.DataFrame(summary_comparison_data, columns=[ metric, "Section Title", "Source", "Unique sentences used"])
     df.to_csv(
-        f"../csv_results/booksum_summaries/section/section-comparison-results-{split}-{filename}.csv")
+        f"../csv_results/booksum_summaries/section/{dataset}-section-comparison-results-{split}-{filename}.csv")
     
     df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Reference Source", "Hypothesis Source", "Reference Sentence Index", "Hypothesis Sentence Index", (metric + "score"), "Precision", "Recall"])
     df.to_csv(
-        f"../csv_results/booksum_summaries/line_by_line_section/section-comparison-results-{split}-{filename}-lbl.csv")
+        f"../csv_results/booksum_summaries/line_by_line_section/{dataset}section-comparison-results-{split}-{filename}-lbl.csv")
 
 
 def arg_print_help(metric_list, split_list, dataset_list):
@@ -449,9 +436,9 @@ def main(argv):
     calculate_F1(metric)
     
     result_printout(metric)
-    write_to_csv(metric, split, outputfile)
+    write_to_csv(metric, split, outputfile, dataset)
  
-    write_summary_count_to_json(split, outputfile)
+    write_summary_count_to_json(split, outputfile, dataset)
 
 
 if __name__ == "__main__":

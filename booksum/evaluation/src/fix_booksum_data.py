@@ -65,10 +65,9 @@ def romanToInt(s):
 
 def fix_aggregates():
     """Function updates jsonl alignments to have a corrected 'is_aggregate' column, matching the data after being cleaned.
-
     running the 'chapterized' section of the booksum repo doesn't update the "is_aggregate" column, this function aims to fix that.
-
     if a pair of keywords, such as 'chapter' is found, then the section must be aggregate. eg. Dracula-chapter-3-chapter-4
+    if keyword is plural, must cover multiple 'chapters'
 
     Returns:
         list: jsonl list with the adjusted aggregate column
@@ -80,6 +79,7 @@ def fix_aggregates():
     for line in f:
         summary = json.loads(line)
 
+        #all possible keywords from booksum
         counter = {
             'act':      0,
             'canto':    0,
@@ -153,7 +153,7 @@ def fix_aggregates():
 
 
 def fix_romans(corrected_title):
-    """Function to take a title and fix any roman numerals it contains,
+    """Function to take a hypen-separated-title and fix any roman numerals it contains,
 
     Args:
         corrected_title (_type_): _description_
@@ -177,40 +177,6 @@ def fix_romans(corrected_title):
 def make_json(fixed_file):
     with open(f"fixed_chapter_summaries_{data_type}_final.jsonl", 'w') as f:
         for each in fixed_file:
-            f.write(json.dumps(each))
-            f.write('\n')
-
-
-def givemetrue():
-
-    true_array = []
-
-    f = open(pathlib.Path(f"test_fixed_chapter_summaries_{data_type}.jsonl"),
-             encoding='utf-8')
-    for line in f:
-        content = json.loads(line)
-        if content['is_aggregate'] == True:
-            true_array.append(content)
-
-    with open(f"test_fixed_chapter_summaries_{data_type}_true.jsonl", 'w') as f:
-        for each in true_array:
-            f.write(json.dumps(each))
-            f.write('\n')
-
-
-def givemefalse():
-
-    false_array = []
-
-    f = open(pathlib.Path(f"test_fixed_chapter_summaries_{data_type}.jsonl"),
-             encoding='utf-8')
-    for line in f:
-        content = json.loads(line)
-        if content['is_aggregate'] == False:
-            false_array.append(content)
-
-    with open(f"test_fixed_chapter_summaries_{data_type}_false.jsonl", 'w') as f:
-        for each in false_array:
             f.write(json.dumps(each))
             f.write('\n')
 
@@ -534,7 +500,6 @@ def fix_book_summaries():
             title = "invisible man"
 
         summary['normalized_title'] = title
-
         fixed_file.append(summary)
 
     with open(f"fixed_book_summaries_{data_type}_final.jsonl", 'w') as n:

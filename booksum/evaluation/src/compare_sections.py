@@ -56,13 +56,13 @@ def setup_matches_datastructure(split, dataset):
         library[content['normalized_title']] = {
             'total_sections_used': 0, # that are found elsewhere / compared with.
             'total_aggregate_sections': 0,
-            'total_aggregate_sections_used': 0, #that are found elsewhere / compared with.
+            'total_aggregate_sections_compared': 0, #that are found elsewhere / compared with.
             'total_non-aggregate_sections': 0,
-            'total_non-aggregate_sections_used': 0, # that are found elsewhere / compared with.
-            'non-aggregate_sections_used': dict(),
-            'aggregate_sections_used': dict(), #that are found elsewhere / compared with.
-            'non-aggregate_sections_not_used': dict(),
-            'aggregate_sections_not_used': dict()
+            'total_non-aggregate_sections_compared': 0, # that are found elsewhere / compared with.
+            'non-aggregate_sections_compared': dict(),
+            'aggregate_sections_compared': dict(), #that are found elsewhere / compared with.
+            'non-aggregate_sections_not_compared': dict(),
+            'aggregate_sections_not_compared': dict()
         }
 
         text = get_human_summary(content['summary_path'])
@@ -193,27 +193,27 @@ def calculate_F1(metric):
         if len(related_summaries) == 0:
             print(f"No related summary documents were found for {section_title}.")
             if(is_aggregate):
-                library[ref_summary['book']]['aggregate_sections_not_used'][section_title] = [source]
+                library[ref_summary['book']]['aggregate_sections_not_compared'][section_title] = [source]
             else:
-                library[ref_summary['book']]['non-aggregate_sections_not_used'][section_title] = [source]
+                library[ref_summary['book']]['non-aggregate_sections_not_compared'][section_title] = [source]
             continue #no need to perform calculation
 
 
         if is_aggregate:
-            library[ref_summary['book']]['aggregate_sections_used'][section_title] = [source]
+            library[ref_summary['book']]['aggregate_sections_compared'][section_title] = [source]
         else:
-            library[ref_summary['book']]['non-aggregate_sections_used'][section_title] = [source]
+            library[ref_summary['book']]['non-aggregate_sections_compared'][section_title] = [source]
 
         related_summary_texts = []
         for summary2 in related_summaries: #same title, diff source.
             related_summary_texts.append(summary2['summary_text'])
             if is_aggregate:
-                library[ref_summary['book']]['aggregate_sections_used'][section_title].append(summary2['source'])
-                library[ref_summary['book']]['total_aggregate_sections_used'] += 1
+                library[ref_summary['book']]['aggregate_sections_compared'][section_title].append(summary2['source'])
+                library[ref_summary['book']]['total_aggregate_sections_compared'] += 1
                 library[ref_summary['book']]['total_sections_used'] += 1
             else: #not aggregate
-                library[ref_summary['book']]['non-aggregate_sections_used'][section_title].append(summary2['source'])
-                library[ref_summary['book']]['total_non-aggregate_sections_used'] += 1
+                library[ref_summary['book']]['non-aggregate_sections_compared'][section_title].append(summary2['source'])
+                library[ref_summary['book']]['total_non-aggregate_sections_compared'] += 1
                 library[ref_summary['book']]['total_sections_used'] += 1
             
         # prep text by tokenizing it into sentencesgi
@@ -226,7 +226,6 @@ def calculate_F1(metric):
         unique_sents = dict()
         max_scores = []
 
-        #loop through hypothesis summaries
         for hyp_summary in related_summaries:
             hyp_doc = tokenize.sent_tokenize(hyp_summary['summary_text'])
             sentence_scores = []
@@ -248,7 +247,7 @@ def calculate_F1(metric):
 
                     line_by_line_data.append([ref_summary['section_title'], ref_summary['source'], hyp_summary['source'], ref_sent_index, hyp_sent_index, current_score, precision, recall])
                 sentence_scores.append(best_score)
-                # unique_sents.append(best_score_index)
+
                 if hyp_summary['source'] in unique_sents.keys():
                     unique_sents[hyp_summary['source']].add(best_score_index)
                 else:

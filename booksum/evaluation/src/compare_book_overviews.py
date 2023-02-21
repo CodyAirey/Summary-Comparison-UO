@@ -68,23 +68,15 @@ def get_human_summary(summary_path):
 
 
 def setup_model(function):
-    if function == "bleu":
-        return  # no model reqiured
-    elif function == "bert":
+    if function == "bert":
         from bert import calculate_score
         calculate_score.create_model()
     elif function == "bertscore":
         from bert import calculate_bertscore
         calculate_bertscore.create_model()
-    elif function == "rouge-1n" or function == "rouge-2n" or function == "rouge-l":
-        return  # no model required
-    elif function == "moverscore":
-        return  # no model required
     elif function == "qaeval":
         from qaeval_scoring import calculate_score
         calculate_score.create_model()
-    elif function == "meteor":
-        return  # no model required
     elif function == "summac":
         from summac_scoring import calculate_score
         calculate_score.create_model()
@@ -92,8 +84,6 @@ def setup_model(function):
     elif function == "bartscore":
         from bartscore import calculate_score
         calculate_score.create_model()
-    elif function == "chrf":
-        return  # no model required
 
 
 def calculate_F1(metric):
@@ -135,9 +125,6 @@ def calculate_F1(metric):
                 best_score_index = -1
                 for hyp_sent_index, hyp_sent in enumerate(hyp_doc):
 
-                    #current_score = bart_scorer.score([token], [sentence])[0]
-                    # ["bart", "bleu", "bert", "bertscore", "rouge", "moverscore", "qaeval", "meteor", "sumac", "bartscore", "chrf"]
-                    # why did switch statements not exist till 3.10? surely there is a better way to do this. Why can't i think of it.
 
                     current_score, precision, recall = compute_single_score(metric, ref_sent, hyp_sent)
 
@@ -301,13 +288,10 @@ def main(argv):
 
     preprocessing_summary_setup(split)
     setup_model(function)
-    data, summaries_count, unique_books, unique_used_books = calculate_F1(
-        function)
+    data, summaries_count, unique_books, unique_used_books = calculate_F1(function)
     result_printout(function)
     write_to_csv(function, split, outputfile)
 
 
 if __name__ == "__main__":
-    # print(sys.argv[1:])
-    # sys.exit(1)
     main(sys.argv[1:])

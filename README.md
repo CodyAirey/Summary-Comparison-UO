@@ -27,6 +27,19 @@ some select few results are missing from the original booksum due to failed link
 ### 2. 'fix' data
 talk about how.
 
+problems we tried to solve:
+- roman numerals weren't all fixed.
+- aggregates needed to be fixed
+- aggregate sections being named differently from one another, dracula chapter 3-4,vs, dracula chapter 3 chapter 4
+- issues with titles being for the same book but from different versions
+- issues with summaries being for the same book but with different titles, eg. The invisible man, vs, invisible man
+- edge case summaries that spanned multiple acts, eg. act-3 scene-3 to act-4 scene-2. hard to tell how many chapters/scenes this section covers.
+- issues with books that have prologues / epilogues, some sources include into chapters, some keep separate.
+- the aeneid covers multiple books but treats the books as chapters.
+
+
+go over structure of new jsonl's and what is changed.
+
 The final result is that 1,756 extra summaries are compared based on their id.
 
 
@@ -46,3 +59,4 @@ our findings.
 
 ### conclusion.
 
+nothings any better lol, but hey i tried.

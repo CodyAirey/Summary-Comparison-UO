@@ -9,6 +9,8 @@ import pathlib
 import pandas as pd
 import time
 
+sys.path.append('source_modules')
+
 chapter_summaries = dict()
 book_summaries = dict()
 threshold = .2 #threshold used as a cut-off when taking f1 scores
@@ -35,10 +37,10 @@ def get_human_summary(summary_path):
         return None
 
 
-def scan_chapter_summaries():
+def scan_chapter_summaries(split, dataset):
     """Gets each chapter summary and places all relevant info into a dictionary
     """
-    f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/fixed_chapter_summaries_all_final.jsonl"),
+    f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/{dataset}_chapter_summaries_{split}.jsonl"),
              encoding='utf-8')
     for line in f:
         summary = json.loads(line)
@@ -56,10 +58,10 @@ def scan_chapter_summaries():
     print("Evaluating {} chapter summary documents...".format(len(chapter_summaries)))
 
 
-def scan_book_summaries():
+def scan_book_summaries(split, dataset):
     """Gets each book summary and places all relevant info into a dictionary
     """
-    f = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/fixed_book_summaries_all_final.jsonl"),
+    f = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/{dataset}_book_summaries_{split}.jsonl"),
              encoding='utf-8')
     for line in f:
         summary = json.loads(line)
@@ -150,8 +152,8 @@ def calculate_score(metric, threshold):
                 calculated_scores_count += 1
                 print(f"{book_summary['book_title']}, {chap_summary['section_title']}, {book_summary['source']} - Time: {round(time.time() - temp_time, 3)}, seconds.")
 
-                # if calculated_scores_count >= 20:
-                #     return
+                if calculated_scores_count >= 20:
+                    return
                 
 
 def compute_single_score(metric, ref_sent, hyp_sent):
@@ -209,7 +211,7 @@ def compute_single_score(metric, ref_sent, hyp_sent):
 
     return current_score, precision, recall
 
-def write_results_to_csv(metric, split, filename):
+def write_results_to_csv(metric, split, filename, dataset):
     """Writes results from calculate score to csv files located in csv_results directory
 
     Args:
@@ -220,10 +222,12 @@ def write_results_to_csv(metric, split, filename):
 
     print("Writing to CSV...")
     df = pd.DataFrame(summary_comparison_data, columns=[metric + "score", "Section Title", "Book Title", "Source"])
-    df.to_csv(f"../csv_results/booksum_summaries/section_to_book/section-to-book-comparison-results-{split}-{filename}.csv")
+    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary/full_summary_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.csv")
+    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary/full_summary_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.parquet")
 
     df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Book Title", "Source", "Reference Sentence Index", "Hypothesis Sentence Index", metric + " score", "Precision", "Recall"])
-    df.to_csv(f"../csv_results/booksum_summaries/line_by_line_section_to_book/section-to-book-comparison-results-{split}-{filename}.csv")
+    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/line_by_line/line_by_line_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.csv")
+    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/line_by_line/line_by_line_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.parquet")
     print("Writes finished.")
 
 def arg_print_help(metric_list):
@@ -239,22 +243,29 @@ def arg_print_help(metric_list):
     print("Example Filename: bartscore-postfix")
 
 def arg_handler(argv):
-    """Function that handles arguments given in command line"""
+    """Function that handles arguments given in command line
+    Metric: the metric to use for the f1 calculation
+    Outputfile: name of the file to be output
+    Split: The input data you want from booksum alignment
+    dataset: fixed or adjusted summary data"""
     metric = None
     outputfile = None
     split = None
+    dataset = None
     metric_list = ["bleu", "bert", "bertscore", "rouge-1n", "rouge-2n", "rouge-l",
                      "moverscore", "qaeval", "meteor", "summac", "bartscore", "chrf"]
     split_list = ["test", "train", "val", "all"]
 
-    if (len(argv) <= 4):
-        arg_print_help(metric_list)
+    dataset_list = ["fixed", "adjusted"]
+
+    if (len(argv) <= 5):
+        arg_print_help(metric_list, split_list, dataset_list)
         sys.exit(2)
 
     # used getopt for first time to handle arguments, works well but feels messy. Will try another solution next time
     try:
         opts, args = getopt.getopt(
-            argv, "hm:o:s:", ["help", "metric=", "ofile=", "split="])
+            argv, "hm:o:s:d:", ["help", "metric=", "ofile=", "split=", "data="])
     except getopt.GetoptError:
         arg_print_help(metric_list)
         sys.exit(2)
@@ -277,26 +288,32 @@ def arg_handler(argv):
             if split not in split_list:
                 print("Split not acceptable, please use one of:", split_list)
                 sys.exit(2)
+        elif opt in ("-d", "--data"):
+            dataset = arg
+            if dataset not in dataset_list:
+                print("Data set not acceptable, please use on of:", dataset_list)
+                sys.exit(2)
 
     print('Metric is:', metric)
     print('Output file is:', outputfile)
     print('Split is:', split)
-    return metric, outputfile, split
+    print("Data set is:", dataset)
+    return metric, outputfile, split, dataset
 
 def main(argv):
     
-    metric, outputfile, split = arg_handler(argv)
+    metric, outputfile, split, dataset = arg_handler(argv)
 
     #preamble methods
-    scan_chapter_summaries()
-    scan_book_summaries()
+    scan_chapter_summaries(split, dataset)
+    scan_book_summaries(split, dataset)
     setup_model(metric)
 
     score_start_time = time.time()
     calculate_score(metric, threshold)
     print(f"Total time: {round(time.time() - score_start_time, 3)} Seconds.")
 
-    write_results_to_csv(metric, split, outputfile)
+    write_results_to_csv(metric, split, outputfile, dataset)
 
 
 if __name__ == "__main__":

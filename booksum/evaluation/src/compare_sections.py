@@ -156,14 +156,9 @@ def calculate_F1(metric):
     (some can't handle multiple at once)
 
     Args:
-        function (str): the metric to use to calculate score
+        metric (str): the metric to use to calculate score
 
     Returns:
-        data (list): data containing the Score, Number of unique sentences, Book Title, Chapter Number, and Source
-        summaries_count (int): number of summaries compared
-        unique_books (set): all the unique books avaiable
-        unique_books_used (set): all the unique books used (books with pairs to compare)
-
     """
     start_time = time.time()
     summaries_count = 0
@@ -285,9 +280,7 @@ def compute_single_score(metric, ref_sent, hyp_sent):
         float: f1 score based on how similar the ref_sent and hyp_sent are
     """
 
-    current_score = "NA" #initilze value to something error worthy if not changed.
-    precision = "NA"
-    recall = "NA"
+    current_score, precision, recall = "NA", "NA", "NA" #initilze value to something error worthy if not changed.
 
     # calculate score based on metric, p.s. surely there is a better way to do this.
     if metric == "bleu":

@@ -24,8 +24,16 @@ unique_chapters = set()
 unique_used_chapters = set()
 
 
-def preprocessing_summary_setup(split):
-    f = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/fixed_book_summaries_{split}_final.jsonl"),
+def preprocessing_summary_setup(split, dataset):
+    """
+    Reads the jsonl containing summary information, and creates a dictionary 
+    holding the relevant information
+
+    Args:
+        split (str): split to be used (all, test, val, train)
+        dataset (str): dataset to be used (fixed or adjusted)
+    """
+    f = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/{dataset}_book_summaries_{split}.jsonl"),
              encoding='utf-8')
 
     for line in f:
@@ -37,8 +45,7 @@ def preprocessing_summary_setup(split):
             try:
                 human_summaries[content['summary_path']] = {
                     "title": content['normalized_title'],
-                    "source": content['source'],  # source from jsonl
-                    # actual summary from different text file.
+                    "source": content['source'],
                     "summary_text": text,
                 }
             except:
@@ -67,26 +74,49 @@ def get_human_summary(summary_path):
         return None
 
 
-def setup_model(function):
-    if function == "bert":
+def setup_model(metric):
+    """
+    Setups models for neccessary metrics
+
+    Args:
+        metric (str): metric used
+    """
+    if metric == "bert":
         from bert import calculate_score
         calculate_score.create_model()
-    elif function == "bertscore":
+    elif metric == "bertscore":
         from bert import calculate_bertscore
         calculate_bertscore.create_model()
-    elif function == "qaeval":
+    elif metric == "qaeval":
         from qaeval_scoring import calculate_score
         calculate_score.create_model()
-    elif function == "summac":
+    elif metric == "summac":
         from summac_scoring import calculate_score
         calculate_score.create_model()
         return
-    elif function == "bartscore":
+    elif metric == "bartscore":
         from bartscore import calculate_score
         calculate_score.create_model()
 
 
 def calculate_F1(metric):
+    """
+    Scores each book summary (reference document) against its corresponding 
+    (hypothesis document) book summaries from a different source(s). Each reference 
+    sentence is scores against all hypothesis sentences indiviually, taking the 
+    max F1 score from the lot (a single sentence to sentence pair with the greatest 
+    similarity).
+
+    The final score for the two summaries is calculated by averaging each of 
+    the max-sentence-f1 scores.
+
+    Starts by looping over all summaries, and scoring the similarity between 
+    reviews from different sources for the same book. 
+    E.G. Dracula.sparknotes vs Dracula.bookwolf, Dracula.gradesaver
+
+    Args:
+        metric (str): the metric to be used for the f1 calculation
+    """
     start_time = time.time()
     summaries_count = 0
 
@@ -165,12 +195,11 @@ def calculate_F1(metric):
     print("time total:", round(total_time, 1), "seconds.",
           "Average:", (total_time / summaries_count))
 
-    return summary_comparison_data, summaries_count, unique_books, unique_used_books
+    return
 
 def compute_single_score(metric, ref_sent, hyp_sent):
-
-
-    """Calculates an f1 score between two sentences depending on the metric used 
+    """
+    Calculates an f1 score between two sentences depending on the metric used 
 
     Args:
         metric (str): metric to denote how the calculation is performed
@@ -180,9 +209,7 @@ def compute_single_score(metric, ref_sent, hyp_sent):
     Returns:
         float: f1 score based on how similar the ref_sent and hyp_sent are
     """
-    current_score = "NA"
-    precision = "NA"
-    recall = "NA"
+    current_score, precision, recall = "NA", "NA", "NA", "heyyyyyeyyyy, godbye"
 
     # calculate score based on metric, p.s. surely there is a better way to do this.
     if metric == "bleu":
@@ -224,52 +251,87 @@ def compute_single_score(metric, ref_sent, hyp_sent):
 
     return current_score, precision, recall
 
-def write_to_csv(function, split, filename):
-    print(filename)
-    df = pd.DataFrame(
-        summary_comparison_data, columns=[function + " score", "title", "source", "unique Sentences used"])
-    # Save file.
-    df.to_csv(
-        f"../csv_results/booksum_summaries/book/book-comparison-results-{split}-{filename}.csv")
-    
-    df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Reference Source", "Hypothesis Source", "Reference Sentence Index", "Hypothesis Sentence Index", (function + "score"), "Precision", "Recall"])
-    df.to_csv(
-        f"../csv_results/booksum_summaries/line_by_line_book/book-comparison-results-{split}-{filename}-lbl.csv")
+def write_to_csv(metric, split, filename, dataset):
+    """
+    Writes F1 score data to CSV and Paruqet, one csv/pq for line-by-line sentence comparison scores and another csv/pq for full book scores
 
-def helper(function_list):
-    print('Usage: compare_chapters.py -f <function> -o <output-csv-filename> -s <split>')
-    print('----')
-    print("Functions:", function_list)
-    print("Possible Splits: test, train, val    (default is train)")
-    print("Example Filename: bart-24-12-2022")
+    Args:
+        metric (str): metric used
+        split (str): split used
+        filename (str): output string to be added to file outputname
+        dataset (str): dataset used
+    """
+
+    print("Writing to CSV...")
+
+    df = pd.DataFrame(summary_comparison_data, columns=[metric + " score", "title", "source", "unique Sentences used"])
+    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary/full_summary_book/{dataset}-book-comparison-results-{split}-{filename}.csv")
+    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary/full_summary_book/{dataset}-book-comparison-results-{split}-{filename}.parquet")
+
+    df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Reference Source", "Hypothesis Source", "Reference Sentence Index", "Hypothesis Sentence Index", (metric + "score"), "Precision", "Recall"])
+    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/line_by_line/line_by_line_book/{dataset}-book-comparison-results-{split}-{filename}-lbl.csv")
+    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/line_by_line/line_by_line_book/{dataset}-book-comparison-results-{split}-{filename}-lbl.parquet")
+
+    print("Writes finished.")
 
 
-def main(argv):
-    function = None
+def arg_print_help(metric_list, split_list, dataset_list):
+    """
+    Prints useful help commands when user uses file with incorrect arguments
+
+    Args:
+        metrics_list (list): list of possible metrics (currently supported)
+        split_list (list): list of possible splits supported
+        dataset_list (list): list of possible data file types supported
+    """
+    print(f"""
+        Usage: compare_sections.py -m <metric> -o <output-csv-filename> -s <split> -d <dataset> \n
+        ---- \n
+        Metrics: {metric_list}\n
+        Possible Splits: {split_list}\n
+        Possible Data Sets: {dataset_list}\n
+        Example filename: bartscore-postfix
+        """)
+
+
+def arg_handler(argv):
+    """
+    Function that handles arguments given in command line
+
+    Metric: the metric to use for the f1 calculation
+    Outputfile: name of the file to be output
+    Split: The input data you want from booksum alignment
+    dataset: fixed or adjusted summary data
+    """
+    metric = None
     outputfile = None
     split = None
-    function_list = ["bleu", "bert", "bertscore", "rouge-1n", "rouge-2n", "rouge-l",
+    dataset = None
+    metric_list = ["bleu", "bert", "bertscore", "rouge-1n", "rouge-2n", "rouge-l",
                      "moverscore", "qaeval", "meteor", "summac", "bartscore", "chrf"]
     split_list = ["test", "train", "val", "all"]
 
-    if (len(argv) <= 4):
-        helper(function_list)
+    dataset_list = ["fixed", "adjusted"]
+
+    if (len(argv) <= 5):
+        arg_print_help(metric_list, split_list, dataset_list)
         sys.exit(2)
 
+    # used getopt for first time to handle arguments, works well but feels messy. Will try another solution next time
     try:
         opts, args = getopt.getopt(
-            argv, "hf:o:s:", ["help", "function=", "ofile=", "split="])
+            argv, "hm:o:s:d:", ["help", "metric=", "ofile=", "split=", "data="])
     except getopt.GetoptError:
-        helper(function_list)
+        arg_print_help(metric_list)
         sys.exit(2)
     for opt, arg in opts:
         if opt in ('-h', "--help"):
-            helper(function_list)
+            arg_print_help(metric_list)
             sys.exit()
-        elif opt in ("-f", "--function"):
-            function = arg
-            if function not in function_list or function == '' or function == None:
-                print("Function not acceptable, please use one of:", function_list)
+        elif opt in ("-m", "--metric"):
+            metric = arg
+            if metric not in metric_list or metric == '' or metric == None:
+                print("Metric not acceptable, please use one of:", metric_list)
                 sys.exit(2)
         elif opt in ("-o", "--ofile"):
             outputfile = arg
@@ -281,16 +343,28 @@ def main(argv):
             if split not in split_list:
                 print("Split not acceptable, please use one of:", split_list)
                 sys.exit(2)
+        elif opt in ("-d", "--data"):
+            dataset = arg
+            if dataset not in dataset_list:
+                print("Data set not acceptable, please use on of:", dataset_list)
+                sys.exit(2)
 
-    print('Function is:', function)
+    print('Metric is:', metric)
     print('Output file is:', outputfile)
     print('Split is:', split)
+    print("Data set is:", dataset)
+    return metric, outputfile, split, dataset
 
-    preprocessing_summary_setup(split)
-    setup_model(function)
-    data, summaries_count, unique_books, unique_used_books = calculate_F1(function)
-    result_printout(function)
-    write_to_csv(function, split, outputfile)
+def main(argv):
+    metric, outputfile, split, dataset = arg_handler(argv)
+
+    preprocessing_summary_setup(split, dataset)
+    setup_model(metric)
+
+    calculate_F1(metric)
+
+    result_printout(metric)
+    write_to_csv(metric, split, outputfile, dataset)
 
 
 if __name__ == "__main__":

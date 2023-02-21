@@ -3,6 +3,11 @@ import os
 from pathlib import Path
 import sys
 
+"""
+Converts all csv files located in booksum_summaries folder to parquet's. 
+the csv versions remain. Only files with the .parquet extension will be converted.
+"""
+
 def csv_to_pq(dirpath, file):
     df = pd.read_csv((dirpath + "/" + file))
     newfilename = file.replace('.csv', '.parquet')

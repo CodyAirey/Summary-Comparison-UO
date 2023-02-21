@@ -2,12 +2,12 @@ import pathlib
 import json
 import sys
 
-def replicate_book_summaries():
+def replicate_book_summaries(split):
     """function to take the title of a book and also make it the 'normalized_title' 
     (note: this data has never been normalized, and is only for testing against ACTUAL 
-    normalized summaries, created through the pull_aggregates.py file)
+    normalized summaries, created through the fix_booksum_data.py file)
     """
-    f = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/book_summaries_aligned_all.jsonl"),
+    f = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/book_summaries_aligned_{split}.jsonl"),
             encoding='utf-8')
     adjusted = []
 
@@ -16,18 +16,18 @@ def replicate_book_summaries():
         content['normalized_title'] = content['title']
         adjusted.append(content)
     
-    with open(f"adjusted_book_summaries_all_final.jsonl", 'w') as n:
+    with open(f"adjusted_book_summaries_{split}.jsonl", 'w') as n:
         for line in adjusted:
             n.write(json.dumps(line))
             n.write('\n')
 
 
-def replicate_section_summaries():
+def replicate_section_summaries(split):
     """function to take the title of a chapter summary and also make it the 'normalized_title' 
     (note: this data has never been normalized, and is only for testing against ACTUAL 
-    normalized summaries, created through the pull_aggregates.py file)
+    normalized summaries, created through the fix_booksum_data.py file)
     """
-    f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/chapter_summary_aligned_all_split.jsonl"),
+    f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/chapter_summary_aligned_{split}_split.jsonl"),
             encoding='utf-8')
 
     fixed = []
@@ -39,7 +39,7 @@ def replicate_section_summaries():
         fixed.append(content)
 
 
-    with open(f"adjusted_chapter_summaries_all_final.jsonl", 'w') as n:
+    with open(f"adjusted_chapter_summaries_{split}.jsonl", 'w') as n:
         for each in fixed:
             n.write(json.dumps(each))
             n.write('\n')
@@ -52,7 +52,7 @@ def main(argv):
     files produced with this code will not have information added, only duplicated to work with the compare_x.py files.
     these output files should be used to test the difference between the original booksum data, and the new cleaned & normalized data.
     
-    this file should be used in conjuction with pull_aggregates.py
+    this file should be used in conjuction with fix_booksum_data.py
 
     Args:
         argv (str): arguments
@@ -62,6 +62,4 @@ def main(argv):
 
 
 if __name__ == "__main__":
-    # print(sys.argv[1:])
-    # sys.exit(1)
     main(sys.argv[:])

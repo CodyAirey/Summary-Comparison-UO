@@ -1,3 +1,3 @@
-Files zfixed_chapter_summaries_all_final.jsonl and fixed_chapter_summaries_all_final.jsonl are identical
+Files zfixed_section_summaries_all.jsonl and fixed_chapter_summaries_all_final.jsonl are identical
 Files zbook_coverage_all.jsonl and book_coverage_all.jsonl are identical
 Files zchapter_numbers_all.jsonl and chapter_numbers_all.jsonl are identical

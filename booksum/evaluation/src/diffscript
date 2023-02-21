@@ -1,7 +1,8 @@
-diff -s zfixed_chapter_summaries_all_final.jsonl fixed_chapter_summaries_all_final.jsonl 
+cd /data2/coja/summary-comparison/booksum/alignments/chapter-level-summary-alignments
+diff -s zfixed_section_summaries_all.jsonl fixed_chapter_summaries_all_final.jsonl
 
-cd /home/cody/Documents/summary-comparison/booksum/evaluation/summary_correlation_data/fixed/book_coverage
+cd /data2/coja/summary-comparison/booksum/evaluation/summary_correlation_data/fixed/book_coverage
 diff -s zbook_coverage_all.jsonl book_coverage_all.jsonl 
 
-cd /home/cody/Documents/summary-comparison/booksum/evaluation/summary_correlation_data/fixed/chapter_numbers
+cd /data2/coja/summary-comparison/booksum/evaluation/summary_correlation_data/fixed/chapter_numbers
 diff -s zchapter_numbers_all.jsonl chapter_numbers_all.jsonl 

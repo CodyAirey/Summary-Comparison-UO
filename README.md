@@ -17,9 +17,8 @@ our own scraped results can be found, otherwise you can use the booksum repo
 - scraped summaries can be found inside scripts folder.
 - original text for each book can be found inside all_chapterized_books folder.
 
-some select few results are missing from the original booksum due to failed links or timeouts. (insert number missing from original)
-
-^ honestly pretty big issue.
+note: some select few results are missing from the original booksum due to failed links (mostly pink monkey.)
+the number of missed sections is greatly outweighed by the amount of 'fixed' data that now properly corrolates to one another via ID.
 
 
 
@@ -28,9 +27,10 @@ some select few results are missing from the original booksum due to failed link
 talk about how.
 
 problems we tried to solve:
+- booksum says chapters, but it is better defined as sections, as not all chapterization's from booksum worked.
 - roman numerals weren't all fixed.
 - aggregates needed to be fixed
-- aggregate sections being named differently from one another, dracula chapter 3-4,vs, dracula chapter 3 chapter 4
+- aggregate sections being named differently from one another, dracula chapter 3-4,vs, dracula chapter 3 chapter 4; normalize them.
 - issues with titles being for the same book but from different versions
 - issues with summaries being for the same book but with different titles, eg. The invisible man, vs, invisible man
 - edge case summaries that spanned multiple acts, eg. act-3 scene-3 to act-4 scene-2. hard to tell how many chapters/scenes this section covers.
@@ -59,4 +59,4 @@ our findings.
 
 ### conclusion.
 
-nothings any better lol, but hey i tried.
+nothings any better lol, but hey I tried.

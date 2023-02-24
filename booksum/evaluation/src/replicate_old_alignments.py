@@ -3,7 +3,8 @@ import json
 import sys
 
 def replicate_book_summaries(split):
-    """function to take the title of a book and also make it the 'normalized_title' 
+    """
+    function to take the title of a book and also make it the 'normalized_title' 
     (note: this data has never been normalized, and is only for testing against ACTUAL 
     normalized summaries, created through the fix_booksum_data.py file)
     """
@@ -16,7 +17,7 @@ def replicate_book_summaries(split):
         content['normalized_title'] = content['title']
         adjusted.append(content)
     
-    with open(f"adjusted_book_summaries_{split}.jsonl", 'w') as n:
+    with open(f"../../alignments/book-level-summary-alignments/adjusted_book_summaries_{split}.jsonl", 'w') as n:
         for line in adjusted:
             n.write(json.dumps(line))
             n.write('\n')
@@ -39,7 +40,7 @@ def replicate_section_summaries(split):
         fixed.append(content)
 
 
-    with open(f"adjusted_chapter_summaries_{split}.jsonl", 'w') as n:
+    with open(f"../../alignments/chapter-level-summary-alignments/adjusted_section_summaries_{split}.jsonl", 'w') as n:
         for each in fixed:
             n.write(json.dumps(each))
             n.write('\n')
@@ -57,8 +58,10 @@ def main(argv):
     Args:
         argv (str): arguments
     """
-    replicate_book_summaries()
-    replicate_section_summaries()
+
+    split = argv[1]
+    replicate_book_summaries(split)
+    replicate_section_summaries(split)
 
 
 if __name__ == "__main__":

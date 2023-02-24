@@ -13,7 +13,7 @@ sys.path.append('source_modules')
 
 chapter_summaries = dict()
 book_summaries = dict()
-threshold = .2 #threshold used as a cut-off when taking f1 scores
+threshold = .2 # default threshold used as a cut-off when taking f1 scores
 summary_comparison_data = [] #holds relevant information for each summary to summary calculation
 line_by_line_data = [] #holds relevant information for each individual sentence to sentence calculation
 
@@ -40,7 +40,7 @@ def get_human_summary(summary_path):
 def scan_chapter_summaries(split, dataset):
     """Gets each chapter summary and places all relevant info into a dictionary
     """
-    f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/{dataset}_chapter_summaries_{split}.jsonl"),
+    f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/{dataset}_section_summaries_{split}.jsonl"),
              encoding='utf-8')
     for line in f:
         summary = json.loads(line)
@@ -79,40 +79,21 @@ def scan_book_summaries(split, dataset):
 
 
 def setup_model(metric):  # there has got to be a better way to do this.
-    """Sets up a model if required, using given metric
+    """
+    Sets up a model if required, using given metric
 
     Args:
         metric (str): metric used for test
-
-    Returns:
-        _type_: _description_
     """
-    if metric == "bleu":
-        return  # no model reqiured
-    elif metric == "bert":
+    if metric == "bert":
         from bert import calculate_score
         calculate_score.create_model()
     elif metric == "bertscore":
         from bert import calculate_bertscore
         calculate_bertscore.create_model()
-    elif metric == "rouge-1n" or metric == "rouge-2n" or metric == "rouge-l":
-        return  # no model required
-    elif metric == "moverscore":
-        return  # no model required
-    elif metric == "qaeval":
-        from qaeval_scoring import calculate_score
-        calculate_score.create_model()
-    elif metric == "meteor":
-        return  # no model required
-    elif metric == "summac":
-        from summac_scoring import calculate_score
-        calculate_score.create_model()
-        return
     elif metric == "bartscore":
         from bartscore import calculate_score
         calculate_score.create_model()
-    elif metric == "chrf":
-        return  # no model required
     
 
 def calculate_score(metric, threshold):
@@ -152,8 +133,8 @@ def calculate_score(metric, threshold):
                 calculated_scores_count += 1
                 print(f"{book_summary['book_title']}, {chap_summary['section_title']}, {book_summary['source']} - Time: {round(time.time() - temp_time, 3)}, seconds.")
 
-                if calculated_scores_count >= 20:
-                    return
+                # if calculated_scores_count >= 20:
+                #     return
                 
 
 def compute_single_score(metric, ref_sent, hyp_sent):
@@ -167,9 +148,7 @@ def compute_single_score(metric, ref_sent, hyp_sent):
         float: f1 score based on how similar the ref_sent and hyp_sent are
     """
 
-    current_score = "NA" #initilze value to something error worthy if not changed.
-    precision = "NA"
-    recall = "NA"
+    current_score, precision, recall = "NA", "NA", "NA" #initilze value to something error worthy if not changed.
 
     # calculate score based on metric, p.s. surely there is a better way to do this.
     if metric == "bleu":
@@ -193,14 +172,8 @@ def compute_single_score(metric, ref_sent, hyp_sent):
     elif metric == "moverscore":
         from moverscore import calculate_score
         current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-    elif metric == "qaeval":
-        from qaeval_scoring import calculate_score
-        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
     elif metric == "meteor":
         from meteor import calculate_score
-        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-    elif metric == "summac":
-        from summac_scoring import calculate_score
         current_score = calculate_score.compute_score(ref_sent, hyp_sent)
     elif metric == "bartscore":
         from bartscore import calculate_score
@@ -222,16 +195,17 @@ def write_results_to_csv(metric, split, filename, dataset):
 
     print("Writing to CSV...")
     df = pd.DataFrame(summary_comparison_data, columns=[metric + "score", "Section Title", "Book Title", "Source"])
-    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary/full_summary_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.csv")
-    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary/full_summary_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.parquet")
+    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.csv")
+    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.parquet")
 
     df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Book Title", "Source", "Reference Sentence Index", "Hypothesis Sentence Index", metric + " score", "Precision", "Recall"])
-    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/line_by_line/line_by_line_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.csv")
-    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/line_by_line/line_by_line_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.parquet")
+    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/line_by_line_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}-lbl.csv")
+    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/line_by_line_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}-lbl.parquet")
     print("Writes finished.")
 
 def arg_print_help(metric_list):
-    """Prints useful help commands when user uses file with incorrect arguments
+    """
+    Prints useful help commands when user uses file with incorrect arguments
 
     Args:
         metrics_list (list): list of possible metrics (currently supported)
@@ -243,17 +217,19 @@ def arg_print_help(metric_list):
     print("Example Filename: bartscore-postfix")
 
 def arg_handler(argv):
-    """Function that handles arguments given in command line
+    """
+    Handles arguments given in command line
     Metric: the metric to use for the f1 calculation
     Outputfile: name of the file to be output
     Split: The input data you want from booksum alignment
-    dataset: fixed or adjusted summary data"""
+    dataset: fixed or adjusted summary data
+    """
     metric = None
     outputfile = None
     split = None
     dataset = None
     metric_list = ["bleu", "bert", "bertscore", "rouge-1n", "rouge-2n", "rouge-l",
-                     "moverscore", "qaeval", "meteor", "summac", "bartscore", "chrf"]
+                     "moverscore", "meteor", "bartscore", "chrf"]
     split_list = ["test", "train", "val", "all"]
 
     dataset_list = ["fixed", "adjusted"]
@@ -265,7 +241,7 @@ def arg_handler(argv):
     # used getopt for first time to handle arguments, works well but feels messy. Will try another solution next time
     try:
         opts, args = getopt.getopt(
-            argv, "hm:o:s:d:", ["help", "metric=", "ofile=", "split=", "data="])
+            argv, "hm:o:s:d:t", ["help", "metric=", "ofile=", "split=", "data=", "threshold="])
     except getopt.GetoptError:
         arg_print_help(metric_list)
         sys.exit(2)
@@ -293,16 +269,18 @@ def arg_handler(argv):
             if dataset not in dataset_list:
                 print("Data set not acceptable, please use on of:", dataset_list)
                 sys.exit(2)
+        elif opt in ("-t", "--threshold"):
+            threshold = arg
 
     print('Metric is:', metric)
     print('Output file is:', outputfile)
     print('Split is:', split)
     print("Data set is:", dataset)
-    return metric, outputfile, split, dataset
+    return metric, outputfile, split, dataset, threshold
 
 def main(argv):
     
-    metric, outputfile, split, dataset = arg_handler(argv)
+    metric, outputfile, split, dataset, threshold = arg_handler(argv)
 
     #preamble methods
     scan_chapter_summaries(split, dataset)

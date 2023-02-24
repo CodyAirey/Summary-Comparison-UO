@@ -60,3 +60,24 @@ our findings.
 ### conclusion.
 
 nothings any better lol, but hey I tried.
+
+
+
+## CHECKLIST
+
+- get conda environments running - TODOISH
+
+
+- create all splits - DONE!
+```python create_all_split.py```
+
+- create fixed & adjusted data - TODO
+
+```
+bash fix_and_adjust_data.sh
+```
+
+- run tests - TODO
+```
+
+```

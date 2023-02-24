@@ -13,6 +13,8 @@ import time
 import pandas as pd
 import re
 
+sys.path.append('source_modules')
+
 human_summaries = dict()
 summaries_count = 0
 summary_comparison_data = []
@@ -54,12 +56,12 @@ def preprocessing_summary_setup(split, dataset):
     print("Evaluating {} summary documents...".format(len(human_summaries)))
 
 
-def result_printout(function):
+def result_printout(metric):
     print("Unique Books covered: {}".format(len(unique_books)))
     print("Unique Books used: {}".format(len(unique_used_books)))
     FUNC_list = [data_item[0] for data_item in summary_comparison_data]
     FUNC_mean = sum(FUNC_list) / len(FUNC_list)
-    print(f"Mean {function}: {FUNC_mean}")
+    print(f"Mean {metric}: {FUNC_mean}")
     print()
 
 
@@ -87,13 +89,6 @@ def setup_model(metric):
     elif metric == "bertscore":
         from bert import calculate_bertscore
         calculate_bertscore.create_model()
-    elif metric == "qaeval":
-        from qaeval_scoring import calculate_score
-        calculate_score.create_model()
-    elif metric == "summac":
-        from summac_scoring import calculate_score
-        calculate_score.create_model()
-        return
     elif metric == "bartscore":
         from bartscore import calculate_score
         calculate_score.create_model()
@@ -209,7 +204,7 @@ def compute_single_score(metric, ref_sent, hyp_sent):
     Returns:
         float: f1 score based on how similar the ref_sent and hyp_sent are
     """
-    current_score, precision, recall = "NA", "NA", "NA", "heyyyyyeyyyy, godbye"
+    current_score, precision, recall = "NA", "NA", "NA"
 
     # calculate score based on metric, p.s. surely there is a better way to do this.
     if metric == "bleu":
@@ -233,14 +228,8 @@ def compute_single_score(metric, ref_sent, hyp_sent):
     elif metric == "moverscore":
         from moverscore import calculate_score
         current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-    elif metric == "qaeval":
-        from qaeval_scoring import calculate_score
-        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
     elif metric == "meteor":
         from meteor import calculate_score
-        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-    elif metric == "summac":
-        from summac_scoring import calculate_score
         current_score = calculate_score.compute_score(ref_sent, hyp_sent)
     elif metric == "bartscore":
         from bartscore import calculate_score
@@ -265,12 +254,12 @@ def write_to_csv(metric, split, filename, dataset):
     print("Writing to CSV...")
 
     df = pd.DataFrame(summary_comparison_data, columns=[metric + " score", "title", "source", "unique Sentences used"])
-    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary/full_summary_book/{dataset}-book-comparison-results-{split}-{filename}.csv")
-    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary/full_summary_book/{dataset}-book-comparison-results-{split}-{filename}.parquet")
+    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary_book/{dataset}-book-comparison-results-{split}-{filename}.csv")
+    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary_book/{dataset}-book-comparison-results-{split}-{filename}.parquet")
 
     df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Reference Source", "Hypothesis Source", "Reference Sentence Index", "Hypothesis Sentence Index", (metric + "score"), "Precision", "Recall"])
-    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/line_by_line/line_by_line_book/{dataset}-book-comparison-results-{split}-{filename}-lbl.csv")
-    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/line_by_line/line_by_line_book/{dataset}-book-comparison-results-{split}-{filename}-lbl.parquet")
+    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/line_by_line_book/{dataset}-book-comparison-results-{split}-{filename}-lbl.csv")
+    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/line_by_line_book/{dataset}-book-comparison-results-{split}-{filename}-lbl.parquet")
 
     print("Writes finished.")
 
@@ -296,7 +285,7 @@ def arg_print_help(metric_list, split_list, dataset_list):
 
 def arg_handler(argv):
     """
-    Function that handles arguments given in command line
+    handles arguments given in command line
 
     Metric: the metric to use for the f1 calculation
     Outputfile: name of the file to be output
@@ -308,7 +297,7 @@ def arg_handler(argv):
     split = None
     dataset = None
     metric_list = ["bleu", "bert", "bertscore", "rouge-1n", "rouge-2n", "rouge-l",
-                     "moverscore", "qaeval", "meteor", "summac", "bartscore", "chrf"]
+                     "moverscore", "meteor", "bartscore", "chrf"]
     split_list = ["test", "train", "val", "all"]
 
     dataset_list = ["fixed", "adjusted"]

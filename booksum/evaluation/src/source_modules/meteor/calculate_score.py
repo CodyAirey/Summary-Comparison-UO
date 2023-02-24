@@ -3,6 +3,7 @@ import nltk
 from nltk import tokenize
 
 nltk.download('omw-1.4')
+nltk.download('wordnet')
 
 def compute_score(token, sent):
     a = tokenize.word_tokenize(token)

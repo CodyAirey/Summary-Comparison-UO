@@ -1,4 +1,4 @@
-name: rouge
+name: moverscore
 channels:
   - defaults
 dependencies:
@@ -79,4 +79,4 @@ dependencies:
       - tqdm==4.64.1
       - typing-extensions==4.4.0
       - zipp==3.11.0
-prefix: /data2/coja/environments/codyCondaEnvs/miniconda3/envs/rouge
+prefix: /data2/coja/environments/codyCondaEnvs/miniconda3/envs/moverscore

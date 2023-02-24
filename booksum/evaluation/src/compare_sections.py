@@ -47,7 +47,7 @@ number_of_matches = {
 
 
 def setup_matches_datastructure(split, dataset):
-    f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/{dataset}_chapter_summaries_{split}_final.jsonl"),
+    f = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/{dataset}_section_summaries_{split}.jsonl"),
              encoding='utf-8')
 
     for line in f:
@@ -88,7 +88,7 @@ def result_printout(metric):
     """Prints out the results for summary comparison
 
     Args:
-        function (str): the function used in the test
+        metric (str): the metric used in the test
     """
     print("Unique chapters covered: {}".format(len(unique_chapters)))
     print("Unique chapters used: {}".format(len(unique_used_chapters)))
@@ -117,10 +117,10 @@ def get_human_summary(summary_path):
         return None
 
 def setup_model(metric):  # there has got to be a better way to do this.
-    """Sets up a model if required, using given function
+    """Sets up a model if required, using given metric
 
     Args:
-        function (str): function used for test
+        metric (str): metric used for test
 
     Returns:
         _type_: _description_
@@ -131,11 +131,6 @@ def setup_model(metric):  # there has got to be a better way to do this.
     elif metric == "bertscore":
         from bert import calculate_bertscore
         calculate_bertscore.create_model()
-        from qaeval_scoring import calculate_score
-        calculate_score.create_model()
-    elif metric == "summac":
-        from summac_scoring import calculate_score
-        calculate_score.create_model()
     elif metric == "bartscore":
         from bartscore import calculate_score
         calculate_score.create_model()
@@ -152,7 +147,7 @@ def calculate_F1(metric):
     Starts by looping over all summaries, and scoring the similarity between reviews from different sources for the same book. 
     E.G. Dracula.chapter1.sparknotes vs Dracula.chapter1.bookwolf, Dracula.chapter1.gradesaver
 
-    chapter is compared one sentence at a time to ensure uniform comparing methods for each function
+    chapter is compared one sentence at a time to ensure uniform comparing methods for each metric
     (some can't handle multiple at once)
 
     Args:
@@ -304,14 +299,8 @@ def compute_single_score(metric, ref_sent, hyp_sent):
     elif metric == "moverscore":
         from moverscore import calculate_score
         current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-    elif metric == "qaeval":
-        from qaeval_scoring import calculate_score
-        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
     elif metric == "meteor":
         from meteor import calculate_score
-        current_score = calculate_score.compute_score(ref_sent, hyp_sent)
-    elif metric == "summac":
-        from summac_scoring import calculate_score
         current_score = calculate_score.compute_score(ref_sent, hyp_sent)
     elif metric == "bartscore":
         from bartscore import calculate_score
@@ -322,20 +311,19 @@ def compute_single_score(metric, ref_sent, hyp_sent):
 
     return current_score, precision, recall
 
-def write_summary_count_to_json(split, filename, dataset):
-    with open(f"../summary_count/{dataset}-section-comparison-counts-postfix-{split}-{filename}.json", 'w') as f:
+def write_source_correlation_to_json(split, filename, dataset):
+    with open(f"../summary_correlation_data/{dataset}/source_correlation/{dataset}-section-correlation-{split}-{filename}.json", 'w') as f:
         f.write(json.dumps(library))
             
 
 def write_to_csv(metric, split, filename, dataset):
     df = pd.DataFrame(summary_comparison_data, columns=[ metric, "Section Title", "Source", "Unique sentences used"])
-    df.to_csv(
-        f"../csv_results/booksum_summaries/section/{dataset}-section-comparison-results-{split}-{filename}.csv")
+    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary_section/{dataset}-section-comparison-results-{split}-{filename}.csv")
+    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary_section/{dataset}-section-comparison-results-{split}-{filename}.parquet")
     
     df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Reference Source", "Hypothesis Source", "Reference Sentence Index", "Hypothesis Sentence Index", (metric + "score"), "Precision", "Recall"])
-    df.to_csv(
-        f"../csv_results/booksum_summaries/line_by_line_section/{dataset}section-comparison-results-{split}-{filename}-lbl.csv")
-
+    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/line_by_line_section/{dataset}-section-comparison-results-{split}-{filename}-lbl.csv")
+    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/line_by_line_section/{dataset}-section-comparison-results-{split}-{filename}-lbl.parquet")
 
 def arg_print_help(metric_list, split_list, dataset_list):
     """Prints useful help commands when user uses file with incorrect arguments
@@ -354,7 +342,8 @@ def arg_print_help(metric_list, split_list, dataset_list):
 
 
 def arg_handler(argv):
-    """Function that handles arguments given in command line
+    """
+    Handles arguments given in command line
     Metric: the metric to use for the f1 calculation
     Outputfile: name of the file to be output
     Split: The input data you want from booksum alignment
@@ -364,7 +353,7 @@ def arg_handler(argv):
     split = None
     dataset = None
     metric_list = ["bleu", "bert", "bertscore", "rouge-1n", "rouge-2n", "rouge-l",
-                     "moverscore", "qaeval", "meteor", "summac", "bartscore", "chrf"]
+                     "moverscore", "meteor", "bartscore", "chrf"]
     split_list = ["test", "train", "val", "all"]
 
     dataset_list = ["fixed", "adjusted"]
@@ -413,7 +402,7 @@ def arg_handler(argv):
 
 
 def main(argv):
-    """Main method takes arguments for Function, OutputFilename, and Split to use.
+    """Main method takes arguments for Metric, OutputFilename, and Split to use.
     Afterwhich, it calculates the score for all booksum sections and writes the output to a file.
 
     Args:
@@ -430,7 +419,7 @@ def main(argv):
     result_printout(metric)
     write_to_csv(metric, split, outputfile, dataset)
  
-    write_summary_count_to_json(split, outputfile, dataset)
+    write_source_correlation_to_json(split, outputfile, dataset)
 
 
 if __name__ == "__main__":

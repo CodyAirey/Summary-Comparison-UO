@@ -4,3 +4,7 @@
 *.json
 *.pkl
 section-to-book-comparison-results-all-bertscore.parquet
+
+
+#summac 
+summac_conv_vitc_sent_perc_e.bin

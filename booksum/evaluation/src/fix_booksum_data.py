@@ -112,16 +112,12 @@ def fix_aggregates():
         # fix all options for false-negative, only 4 so just hardcode.
         if summary['source'] == "sparknotes" and summary['book_id'] == "Coriolanus.act ii-iii.scenes iii-i":
             summary['is_aggregate'] = True
-            continue
         if summary['source'] == "sparknotes" and summary['book_id'] == "Coriolanus.act iii-iv.scenes ii-iv":
             summary['is_aggregate'] = True
-            continue
         if summary['source'] == "sparknotes" and summary['book_id'] == "The Turn of the Screw.prologue":
             summary['is_aggregate'] = True
-            continue
         if summary['source'] == "bookwolf" and summary['book_id'] == "Hamlet.act 4.scenes 2-3":
             summary['is_aggregate'] = True
-            continue
         if summary['source'] == "sparknotes" and summary['book_id'] == "The New Testament.acts of the apostles":
             summary['is_aggregate'] = True
 
@@ -443,7 +439,7 @@ def main():
     create_number_of_chapters(finished_file)
     calculate_source_coverage(finished_file)
 
-    # fix_book_summaries()
+    fix_book_summaries()
 
 
     make_json(finished_file)

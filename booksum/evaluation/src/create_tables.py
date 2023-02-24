@@ -17,12 +17,12 @@ section_summaries = pd.DataFrame(columns=['Book Title', "Section Title", "Source
 book_coverage_report = pd.DataFrame(columns=["Book Title", "Source", "Chapters in Book", "Chapters Covered", "Percentage Covered"])
 
 
-def create_books_table():
+def create_books_table(split):
     """Function to create a dataframe that holds information containing all of the books gathered from booksum
     """
-    book_file = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/fixed_book_summaries_{data_type}_final.jsonl"),
+    book_file = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/fixed_book_summaries_{split}_final.jsonl"),
                 encoding='utf-8')
-    section_file = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/fixed_chapter_summaries_{data_type}_final.jsonl"),
+    section_file = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/fixed_chapter_summaries_{split}_final.jsonl"),
                 encoding='utf-8')
 
     for line in book_file:
@@ -37,15 +37,15 @@ def create_books_table():
         if summary['normalized_title'] not in books['Book Title'].values:
             new_df = pd.DataFrame([[ summary['normalized_title'] ]], columns=["Book Title"])
             books = pd.concat([books, new_df], ignore_index=True)
-    books.to_csv("../csv_results/table_data/books.csv")
+    books.to_csv("../csv_results/table_data/{split}_books.csv")
 
 
 #Create Original_Book_Variations
-def create_obv_table():
+def create_obv_table(split):
     """Function to create a table containing information about the original book 
     (not summary), including it's cleaned title, word count and location
     """
-    book_file = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/fixed_book_summaries_{data_type}_final.jsonl"),
+    book_file = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/fixed_book_summaries_{split}_final.jsonl"),
                 encoding='utf-8')
     for line in book_file:
         summary = json.loads(line)
@@ -60,14 +60,14 @@ def create_obv_table():
 
             new_df = pd.DataFrame( [[summary['normalized_title'], word_count, summary['book_path']]], columns=['Book Title', 'Word Count', 'Book Path'])
             original_book_variations = pd.concat([original_book_variations, new_df], ignore_index=True)
-    original_book_variations.to_csv("../csv_results/table_data/original_book_variations.csv")
+    original_book_variations.to_csv("../csv_results/table_data/{split}_original_book_variations.csv")
 
 
-def create_book_summaries_table():
+def create_book_summaries_table(split):
     """Function to create a dataframe containing the cleaned title, word count, 
     source, and location of book summaries 
     """
-    book_file = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/fixed_book_summaries_{data_type}_final.jsonl"),
+    book_file = open(pathlib.Path(f"../../alignments/book-level-summary-alignments/fixed_book_summaries_{split}_final.jsonl"),
                 encoding='utf-8')
     for line in book_file:
         summary = json.loads(line)
@@ -88,13 +88,13 @@ def create_book_summaries_table():
             except:
                 print(f"Could not find summary for: {summary['normalized_title']} - {summary['source']}, path: {summary['summary_path']}")
                 continue
-    book_summaries.to_csv("../csv_results/table_data/book_summaries.csv")
+    book_summaries.to_csv("../csv_results/table_data/{split}_book_summaries.csv")
 
 
-def create_sections_table():
+def create_sections_table(split):
     """Function to create a dataframe containing all of the sections and its origin book title
     """
-    section_file = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/fixed_chapter_summaries_{data_type}_final.jsonl"),
+    section_file = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/fixed_chapter_summaries_{split}_final.jsonl"),
                 encoding='utf-8')
     for line in section_file:
         summary = json.loads(line)
@@ -102,17 +102,17 @@ def create_sections_table():
         if summary['corrected_section'] not in sections['Section Title'].values:
             new_df = pd.DataFrame([[summary['corrected_section'], summary['normalized_title']]], columns=["Section Title", "Book Title"])
             sections = pd.concat([sections, new_df], ignore_index=True)
-    sections.to_csv("../csv_results/table_data/sections.csv")
+    sections.to_csv("../csv_results/table_data/{split}_sections.csv")
     
     
 
     
 #Create Original Section Variations
-def create_osv_table():
+def create_osv_table(split):
     """Function to create a dataframe containing information on the original sections including: 
     location, word count, book title, and section title.
     """
-    section_file = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/fixed_chapter_summaries_{data_type}_final.jsonl"),
+    section_file = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/fixed_chapter_summaries_{split}_final.jsonl"),
                 encoding='utf-8')
     for line in section_file:
         summary = json.loads(line)
@@ -132,14 +132,14 @@ def create_osv_table():
             except:
                 print(f"Could not find original section: {summary['chapter_path']}")
                 continue
-    original_section_variations.to_csv("../csv_results/table_data/original_section_variations.csv")
+    original_section_variations.to_csv("../csv_results/table_data/{split}_original_section_variations.csv")
 
 
-def create_section_summaries_table():
+def create_section_summaries_table(split):
     """Function to create a dataframe containing the cleaned title, word count, 
     source, and location of section summaries 
     """
-    section_file = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/fixed_chapter_summaries_{data_type}_final.jsonl"),
+    section_file = open(pathlib.Path(f"../../alignments/chapter-level-summary-alignments/fixed_chapter_summaries_{split}_final.jsonl"),
                 encoding='utf-8')
     for line in section_file:
         summary = json.loads(line)
@@ -159,16 +159,16 @@ def create_section_summaries_table():
             except:
                 print(f"Could not find summary: {summary['summary_path']}")
                 continue
-    section_summaries.to_csv("../csv_results/table_data/section_summaries.csv")
+    section_summaries.to_csv("../csv_results/table_data/{split}_section_summaries.csv")
 
 
-def create_book_coverage_table():
+def create_book_coverage_table(split):
     """updates books dataframe to contain estimated number of chapters in book, based off of scraped booksum data.
     """
     try:
-        coverage_file = open(f"book_coverage_{data_type}.jsonl", 'r')
+        coverage_file = open(f"../summary_correlation_data/fixed/book_coverage_{split}.jsonl", 'r')
     except:
-        print("cannot find coverage file, please run pull_aggregates.py")
+        print("cannot find coverage file, please run fix_booksum_data.py")
         sys.exit(1)
     data = json.load(coverage_file)
     for book in data:
@@ -181,14 +181,14 @@ def create_book_coverage_table():
             # print(current)
                 new_df = pd.DataFrame([[book, current['source'], data[book]['total_individual_chapters'], current['chapters_covered'], current['percentage'] ]], columns=["Book Title", "Source", "Chapters in Book", "Chapters Covered", "Percentage Covered"])
                 book_coverage_report = pd.concat([book_coverage_report, new_df], ignore_index=True)
-    book_coverage_report.to_csv("../csv_results/table_data/book_coverage.csv")
+    book_coverage_report.to_csv("../csv_results/table_data/{split}_book_coverage.csv")
 
 
 def main(argv):
     try:
-        data_type = sys.argv[1]
+        split = sys.argv[1]
 
-        if data_type not in ["test", "train", "val","all"]:
+        if split not in ["test", "train", "val","all"]:
             print("Split provided not in acceptable list, please use one of:")
             print("test, train, val, all")
             sys.exit(1)

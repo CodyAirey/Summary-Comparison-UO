@@ -80,14 +80,23 @@ def gather_book_summary_sentences(dataset, source):
     return custom_ids.keys()
 
 
-def create_kappa_table(sentence_ids, df, source):
-    
+def create_kappa_table(sentence_ids, source, infilename, dataset):
+    #setup template for new df
     sources = ["bookwolf", "cliffnotes", "gradesaver", "novelguide", "pinkmonkey", "sparknotes", "thebestnotes"]
-
     newdf = pd.DataFrame(index = sentence_ids, columns=sources)
-
     print(newdf.head)
+    
+    #Grab title from lbl file to use in new krippendorff table name
+    filename_split = infilename.split("-")
+    for i, split in enumerate(filename_split):
+        if split == "lbl":
+            filetitle = filename_split[i-1]
 
+    #use lbl file as df
+    filepath = "../csv_results/booksum_summaries/fixed/line_by_line{dataset}"
+    df = pd.read_csv(f"{filepath}/{infilename}")
+
+    #grab max f1 for any unique sentence for ref source
     for index, row in df.iterrows():
         if row['Reference Source'] == source:
             custom_id = row['Section Title'] + ", sentence-" + str(row['Reference Sentence Index'])
@@ -95,9 +104,30 @@ def create_kappa_table(sentence_ids, df, source):
                 newdf.loc[custom_id, row["Hypothesis Source"]] = row['rouge-1nscore']
             newdf.loc[custom_id, row["Hypothesis Source"]] = max(newdf.loc[custom_id, row["Hypothesis Source"]], row['rouge-1nscore'])
 
-    ###TODO Figure out how / where to throw these tables (what information is required? base source, filename, scope/dataset, location to store, what to name file?)
+    #fill out values that have no scores
     newdf = newdf.fillna(value= np.nan)
-    newdf.to_csv("../csv_results/kappa_results/shmoop-section-rouge1n-sentence-max-scores.csv", na_rep=np.nan, index=False)
+
+    outfilename = f"{source}-{filetitle}-sentence-max-scores.csv"
+    newdf.to_csv(f"../csv_results/krippendorff/{dataset}/{outfilename}", na_rep=np.nan, index=False)
 
 
-#TODO use these tables to make some results/scores.. figure out the best way to store these scores (all 1 file? or take too long to gather all?)
+#Not actually sure this is good / works. uses set value of .2; doesn't work for all metrics 
+# (pretty much only rouge). don't think it makes sense to use average and then ceil / floor based off of that.
+def adjust_kappa_tables_floor_ceil(dataset):
+    for (dirpath, dirnames, filenames) in os.walk(f"../csv_results/krippendorff/{dataset}"):
+        for file in filenames:
+            dfin = pd.read_csv(f"{dirpath}/{file}")
+            
+            for row_index, row in dfin.iterrows():
+                for col_index, value in row.items():
+                    if isinstance(value, float):
+                        if np.isnan(value):
+                            continue
+                        if value < .2:
+                            value = 0.0
+                        else:
+                            value = 1.0
+                        dfin.loc[row_index, col_index] = value
+            
+            dfin.to_csv(f"{dirpath}/adjusted_results/{file}")
+    

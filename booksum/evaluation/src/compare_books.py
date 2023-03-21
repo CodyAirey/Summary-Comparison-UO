@@ -153,31 +153,31 @@ def calculate_F1(metric):
 
                     current_score, precision, recall = compute_single_score(metric, ref_sent, hyp_sent)
 
-                    # print("token:", token)
-                    # print("sentence: ", sentence)
-                    # print("score:", current_score)
-                    # print("---")
-                    if current_score > best_score:
-                        best_score = current_score
-                        best_score_index = hyp_sent_index
+                    # # print("token:", token)
+                    # # print("sentence: ", sentence)
+                    # # print("score:", current_score)
+                    # # print("---")
+                    # if current_score > best_score:
+                    #     best_score = current_score
+                    #     best_score_index = hyp_sent_index
                     
                     line_by_line_data.append([summary['title'], summary['source'], hyp_summary['source'], ref_sent_index, hyp_sent_index, current_score, precision, recall])
-                sentence_scores.append(best_score)
-                if hyp_summary['source'] in unique_sents.keys():
-                    unique_sents[hyp_summary['source']].add(best_score_index)
-                else:
-                    unique_sents[hyp_summary['source']] = {best_score_index}
+                # sentence_scores.append(best_score)
+                # if hyp_summary['source'] in unique_sents.keys():
+                #     unique_sents[hyp_summary['source']].add(best_score_index)
+                # else:
+                #     unique_sents[hyp_summary['source']] = {best_score_index}
                 # print("NEXT TOKEN")
-            max_scores.append(np.mean(sentence_scores))
+            # max_scores.append(np.mean(sentence_scores))
             # print(f"{sentence_scores} => {np.mean(sentence_scores)}")
             # print("Unique sentences:", len(unique_sents), "out of", len(ref_doc), "ref sents. :", unique_sents)
-            mean_sent_score = np.mean(sentence_scores)
+            # mean_sent_score = np.mean(sentence_scores)
         # print(f"{np.mean(max_scores)}")
-        mean_max_score = np.mean(max_scores)
+        # mean_max_score = np.mean(max_scores)
 
         print(summary['title'], "-", summary['source'], "- time:", round((time.time() - temp_time), 3), "seconds.")
 
-        summary_comparison_data.append([mean_max_score, summary['title'], summary['source'], unique_sents])
+        # summary_comparison_data.append([mean_max_score, summary['title'], summary['source'], unique_sents])
 
         unique_used_books.add(summary['title'])
         summaries_count += 1
@@ -253,11 +253,11 @@ def write_to_csv(metric, split, filename, dataset):
 
     print("Writing to CSV...")
 
-    df = pd.DataFrame(summary_comparison_data, columns=[metric + " score", "title", "source", "unique Sentences used"])
-    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary_book/{dataset}-book-comparison-results-{split}-{filename}.csv")
-    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary_book/{dataset}-book-comparison-results-{split}-{filename}.parquet")
+    # df = pd.DataFrame(summary_comparison_data, columns=[metric + " score", "title", "source", "unique Sentences used"])
+    # df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary_book/{dataset}-book-comparison-results-{split}-{filename}.csv")
+    # df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary_book/{dataset}-book-comparison-results-{split}-{filename}.parquet")
 
-    df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Reference Source", "Hypothesis Source", "Reference Sentence Index", "Hypothesis Sentence Index", (metric + "score"), "Precision", "Recall"])
+    df = pd.DataFrame(line_by_line_data, columns=["Book Title", "Reference Source", "Hypothesis Source", "Reference Sentence Index", "Hypothesis Sentence Index", (metric + "score"), "Precision", "Recall"])
     df.to_csv(f"../csv_results/booksum_summaries/{dataset}/line_by_line_book/{dataset}-book-comparison-results-{split}-{filename}-lbl.csv")
     df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/line_by_line_book/{dataset}-book-comparison-results-{split}-{filename}-lbl.parquet")
 
@@ -338,6 +338,8 @@ def arg_handler(argv):
                 print("Data set not acceptable, please use on of:", dataset_list)
                 sys.exit(2)
 
+    outputfile.replace("-", "")
+    
     print('Metric is:', metric)
     print('Output file is:', outputfile)
     print('Split is:', split)

@@ -231,21 +231,21 @@ def calculate_F1(metric):
 
                     current_score, precision, recall = compute_single_score(metric, ref_sent, hyp_sent)
 
-                    if current_score > best_score:
-                        best_score = current_score
-                        best_score_index = hyp_sent_index
+                    # if current_score > best_score:
+                    #     best_score = current_score
+                    #     best_score_index = hyp_sent_index
 
                     line_by_line_data.append([ref_summary['section_title'], ref_summary['source'], hyp_summary['source'], ref_sent_index, hyp_sent_index, current_score, precision, recall])
-                sentence_scores.append(best_score)
+            #     sentence_scores.append(best_score)
 
-                if hyp_summary['source'] in unique_sents.keys():
-                    unique_sents[hyp_summary['source']].add(best_score_index)
-                else:
-                    unique_sents[hyp_summary['source']] = {best_score_index}
-            max_scores.append(np.mean(sentence_scores))
-            # print(f"{sentence_scores} => {np.mean(sentence_scores)}")
-            # print("Unique sentences:", len(unique_sents), "out of", len(ref_doc), "ref sents. :", unique_sents)
-            mean_sent_score = np.mean(sentence_scores)
+            #     if hyp_summary['source'] in unique_sents.keys():
+            #         unique_sents[hyp_summary['source']].add(best_score_index)
+            #     else:
+            #         unique_sents[hyp_summary['source']] = {best_score_index}
+            # max_scores.append(np.mean(sentence_scores))
+            # # print(f"{sentence_scores} => {np.mean(sentence_scores)}")
+            # # print("Unique sentences:", len(unique_sents), "out of", len(ref_doc), "ref sents. :", unique_sents)
+            # mean_sent_score = np.mean(sentence_scores)
 
         # print(f"{np.mean(max_scores)}")
         mean_max_score = np.mean(max_scores)
@@ -317,9 +317,9 @@ def write_source_correlation_to_json(split, filename, dataset):
             
 
 def write_to_csv(metric, split, filename, dataset):
-    df = pd.DataFrame(summary_comparison_data, columns=[ metric, "Section Title", "Source", "Unique sentences used"])
-    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary_section/{dataset}-section-comparison-results-{split}-{filename}.csv")
-    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary_section/{dataset}-section-comparison-results-{split}-{filename}.parquet")
+    # df = pd.DataFrame(summary_comparison_data, columns=[ metric, "Section Title", "Source", "Unique sentences used"])
+    # df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary_section/{dataset}-section-comparison-results-{split}-{filename}.csv")
+    # df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary_section/{dataset}-section-comparison-results-{split}-{filename}.parquet")
     
     df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Reference Source", "Hypothesis Source", "Reference Sentence Index", "Hypothesis Sentence Index", (metric + "score"), "Precision", "Recall"])
     df.to_csv(f"../csv_results/booksum_summaries/{dataset}/line_by_line_section/{dataset}-section-comparison-results-{split}-{filename}-lbl.csv")
@@ -393,6 +393,8 @@ def arg_handler(argv):
             if dataset not in dataset_list:
                 print("Data set not acceptable, please use on of:", dataset_list)
                 sys.exit(2)
+                
+    outputfile.replace("-", "")
 
     print('Metric is:', metric)
     print('Output file is:', outputfile)

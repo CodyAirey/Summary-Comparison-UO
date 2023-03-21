@@ -121,15 +121,15 @@ def calculate_score(metric, threshold):
 
                         current_score, precision, recall = compute_single_score(metric, ref_sent, hyp_sent)
                         
-                        if current_score > threshold:
-                            ref_sentence_scores.append(current_score)
+                        # if current_score > threshold:
+                        #     ref_sentence_scores.append(current_score)
 
                         line_by_line_data.append([chap_summary['section_title'], book_summary['book_title'], book_summary['source'], ref_sent_index, hyp_sent_index, current_score, precision, recall])
                         
                     #end hyp-sent forloop
                 #end ref-sent forloop
-                score = np.mean(ref_sentence_scores)
-                summary_comparison_data.append([score, chap_summary['section_title'], book_summary['book_title'], book_summary['source']])
+                # score = np.mean(ref_sentence_scores)
+                # summary_comparison_data.append([score, chap_summary['section_title'], book_summary['book_title'], book_summary['source']])
                 calculated_scores_count += 1
                 print(f"{book_summary['book_title']}, {chap_summary['section_title']}, {book_summary['source']} - Time: {round(time.time() - temp_time, 3)}, seconds.")
 
@@ -194,9 +194,9 @@ def write_results_to_csv(metric, split, filename, dataset):
     """
 
     print("Writing to CSV...")
-    df = pd.DataFrame(summary_comparison_data, columns=[metric + "score", "Section Title", "Book Title", "Source"])
-    df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.csv")
-    df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.parquet")
+    # df = pd.DataFrame(summary_comparison_data, columns=[metric + "score", "Section Title", "Book Title", "Source"])
+    # df.to_csv(f"../csv_results/booksum_summaries/{dataset}/full_summary_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.csv")
+    # df.to_parquet(f"../csv_results/booksum_summaries/{dataset}/full_summary_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}.parquet")
 
     df = pd.DataFrame(line_by_line_data, columns=["Section Title", "Book Title", "Source", "Reference Sentence Index", "Hypothesis Sentence Index", metric + " score", "Precision", "Recall"])
     df.to_csv(f"../csv_results/booksum_summaries/{dataset}/line_by_line_section_to_book/{dataset}-section-to-book-comparison-results-{split}-{filename}-lbl.csv")
@@ -271,6 +271,8 @@ def arg_handler(argv):
                 sys.exit(2)
         elif opt in ("-t", "--threshold"):
             threshold = arg
+            
+    outputfile.replace("-", "")
 
     print('Metric is:', metric)
     print('Output file is:', outputfile)

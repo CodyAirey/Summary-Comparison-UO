@@ -13,7 +13,7 @@ sys.path.append('source_modules')
 
 chapter_summaries = dict()
 book_summaries = dict()
-threshold = .2 # default threshold used as a cut-off when taking f1 scores
+# threshold = .2 # default threshold used as a cut-off when taking f1 scores
 summary_comparison_data = [] #holds relevant information for each summary to summary calculation
 line_by_line_data = [] #holds relevant information for each individual sentence to sentence calculation
 
@@ -96,7 +96,7 @@ def setup_model(metric):  # there has got to be a better way to do this.
         calculate_score.create_model()
     
 
-def calculate_score(metric, threshold):
+def calculate_score(metric): #, threshold
     """Scores each chapter summary (reference document) against its corresponding book summary
     (hypothesis document) from the same source. Each ref-sentence i is scored against all hyp sentences 0..n
     individually, taking the all scores above the threshold for each ref-sentence i, then using the average 
@@ -241,7 +241,7 @@ def arg_handler(argv):
     # used getopt for first time to handle arguments, works well but feels messy. Will try another solution next time
     try:
         opts, args = getopt.getopt(
-            argv, "hm:o:s:d:t", ["help", "metric=", "ofile=", "split=", "data=", "threshold="])
+            argv, "hm:o:s:d:t", ["help", "metric=", "ofile=", "split=", "data="]) #, "threshold="
     except getopt.GetoptError:
         arg_print_help(metric_list)
         sys.exit(2)
@@ -269,8 +269,8 @@ def arg_handler(argv):
             if dataset not in dataset_list:
                 print("Data set not acceptable, please use on of:", dataset_list)
                 sys.exit(2)
-        elif opt in ("-t", "--threshold"):
-            threshold = arg
+        # elif opt in ("-t", "--threshold"):
+        #     threshold = arg
             
     outputfile.replace("-", "")
 
@@ -278,11 +278,12 @@ def arg_handler(argv):
     print('Output file is:', outputfile)
     print('Split is:', split)
     print("Data set is:", dataset)
-    return metric, outputfile, split, dataset, threshold
+    return metric, outputfile, split, dataset #, threshold
 
 def main(argv):
     
-    metric, outputfile, split, dataset, threshold = arg_handler(argv)
+    metric, outputfile, split, dataset = arg_handler(argv)
+    #, threshold
 
     #preamble methods
     scan_chapter_summaries(split, dataset)
@@ -290,7 +291,7 @@ def main(argv):
     setup_model(metric)
 
     score_start_time = time.time()
-    calculate_score(metric, threshold)
+    calculate_score(metric) #, threshold
     print(f"Total time: {round(time.time() - score_start_time, 3)} Seconds.")
 
     write_results_to_csv(metric, split, outputfile, dataset)

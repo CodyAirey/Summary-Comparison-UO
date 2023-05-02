@@ -44,12 +44,13 @@ def find_related_lbl_files(dataset):
     for (dirpath, dirnames, filenames) in os.walk(csv_folder_path):
         # print(dirpath)
         for file in filenames:
-            print(file)
+            # print(file)
             if Path(file).suffix == ".csv":
                 if dataset == "book":
                     book_files.append(file)
                 elif dataset == "section":
                     section_files.append(file)
+                    
 
 def gather_sentence_ids(dataset, source):
     """Creates a list of sentences depending on dataset given (book or section) using the most correlated/matched source
@@ -71,24 +72,38 @@ def gather_sentence_ids(dataset, source):
     else:
         print("bad dataset/scope given!", file=sys.stderr)
         sys.exit(1)
-        
-    # print(df.head())
 
-    custom_ids = {} #silly but it works, ordered + hashed
+    custom_ids = {}
     for index, row in df.iterrows():
         if row['Reference Source'] == source:
-            custom_id = row[title] + ", sentence-" + str(row['Reference Sentence Index'])
+            custom_id = row[title] +" " + source + " sentence-" + str(row['Reference Sentence Index'])
             custom_ids[custom_id] = custom_id
-        if len(custom_ids) >= 10:
-            break
-
+        # if len(custom_ids) >= 10:
+        #     break
+        
     return list(custom_ids.keys())
 
 
-def create_kappa_table(sentence_ids, source, infilename, dataset):
+def create_kappa_table(ids, source, infilename, dataset):
+    """Creates a table of max f1scores for any unique sentence across all sourcesso that krippendorff scores can be calculated
+
+    Args:
+        ids (list): list of unique sentence ids
+        source (str): main source to be compared against, will be most correlated source
+        infilename (str): line-by-line file used to gather scores
+        dataset (str): 'book' or 'section', denotes what scope is used
+    """
+    
+    # print(ids) 
     #setup template for new df
-    sources = ["bookwolf", "cliffnotes", "gradesaver", "novelguide", "pinkmonkey", "sparknotes", "thebestnotes"]
-    newdf = pd.DataFrame(index = sentence_ids, columns=sources)
+    sources = ["bookwolf", "cliffnotes", "gradesaver", "novelguide", "pinkmonkey", "sparknotes", "thebestnotes", "shmoop"]
+    
+    for s in sources:
+        if source == s:
+            sources.remove(source)
+    newdf = pd.DataFrame(columns=sources, index=ids)
+    
+    # print(newdf.head(20))
 
     filetitle = "AHHH"
     
@@ -96,7 +111,7 @@ def create_kappa_table(sentence_ids, source, infilename, dataset):
     
     #Grab title from lbl file to use in new krippendorff table name
     filename_split = infilename.split("-")
-    print(filename_split)
+    # print(filename_split)
     for i, split in enumerate(filename_split):
         if split == "lbl.csv":
             filetitle = filename_split[i-1]
@@ -104,23 +119,41 @@ def create_kappa_table(sentence_ids, source, infilename, dataset):
     #use lbl file as df
     filepath = f"../csv_results/booksum_summaries/fixed/line_by_line_{dataset}"
     df = pd.read_csv(f"{filepath}/{infilename}")
-    f1_title = df.columns[5]
+    f1_title = df.columns[6]
 
     #grab max f1 for any unique sentence for ref source
     for index, row in df.iterrows():
         if row['Reference Source'] == source:
-            custom_id = row[title] + ", sentence-" + str(row['Reference Sentence Index'])
+            custom_id = row[title] + " " + source + " sentence-" + str(row['Reference Sentence Index'])
             if np.isnan(newdf.loc[custom_id, row["Hypothesis Source"]]):
                 newdf.loc[custom_id, row["Hypothesis Source"]] = row[f1_title]
             newdf.loc[custom_id, row["Hypothesis Source"]] = max(newdf.loc[custom_id, row["Hypothesis Source"]], row[f1_title])
 
     #fill out values that have no scores
     newdf = newdf.fillna(value= np.nan)
+    
+    # Check if any column contains only NaN values
+    
+    try:
+        cols_to_drop = []
+        for col in newdf.columns:
+            if newdf[col].isna().all():
+                cols_to_drop.append(col)
+    except:
+        print(newdf.columns)
+
+    # Drop the columns that contain only NaN values
+    newdf = newdf.drop(cols_to_drop, axis=1)
+    #note ^ This happens for a lot of book, as gradesaver is the most matched source, yet only matches with:
+    # cliffnotes, sparknotes, and shmoop.
+    
+    #fix
+    # newdf = newdf.fillna(value= np.nan)
 
     outfilename = f"{source}-{filetitle}-sentence-max-scores.csv"
     newdf.to_csv(f"../csv_results/krippendorff/{dataset}/{outfilename}", na_rep=np.nan)
     
-    print(newdf.head())
+    # print(newdf.head())
 
 
 #Not actually sure this is good / works. uses set value of .2; doesn't work for all metrics 
@@ -142,12 +175,40 @@ def adjust_kappa_tables_floor_ceil(dataset):
                         dfin.loc[row_index, col_index] = value
             
             dfin.to_csv(f"{dirpath}/adjusted_results/{file}")
+
+
+def calculate_scores(dataset):
+    """
+    Reads CSV files from a directory specified by the `dataset` argument, calculates Krippendorff's alpha scores
+    for each file, and saves the scores to a new CSV file in a subdirectory called "scores".
+    
+    Parameters:
+    -----------
+    dataset : str
+        The name of the directory containing the CSV files.
+    
+    Returns:
+    --------
+    None
+    """
+    scores = {}
+    for (dirpath, dirnames, filenames) in os.walk(f"../csv_results/krippendorff/{dataset}"):
+        for file in filenames:
+            df = pd.read_csv(f"{dirpath}/{file}", index_col=0)
+            kripp = metrics.Krippendorff(df)
+            alpha = kripp.alpha(data_type="ratio")
+            scores[file] = alpha
+    
+    kripp_scores = pd.DataFrame(list(scores.items()), columns=["Source File", "Krippendorff Score"])
+    filename = f"kripenndorff-alpha-scores-{dataset}.csv"
+    kripp_scores.to_csv(f"../csv_results/krippendorff/scores/{filename}")
     
     
 #why didin't I just use more global variables.
 def main():
     
-    for dataset in ["section", "book"]:
+    # for dataset in ["section", "book"]:
+    for dataset in ["book"]:
         source = find__most_matched_source(dataset)
         find_related_lbl_files(dataset)
         
@@ -156,6 +217,9 @@ def main():
         files = section_files if dataset == "section" else book_files
         for file in files:
             create_kappa_table(ids, source, file, dataset)
+            
+            
+        calculate_scores(dataset)
 
 if __name__ == "__main__":
     main()

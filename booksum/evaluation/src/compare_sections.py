@@ -7,7 +7,6 @@ import getopt
 import pathlib
 import time
 import pandas as pd
-
 sys.path.append('source_modules')
 
 human_summaries = dict()
@@ -92,9 +91,9 @@ def result_printout(metric):
     """
     print("Unique chapters covered: {}".format(len(unique_chapters)))
     print("Unique chapters used: {}".format(len(unique_used_chapters)))
-    FUNC_list = [data_item[0] for data_item in summary_comparison_data]
-    FUNC_mean = sum(FUNC_list) / len(FUNC_list)
-    print(f"Mean {metric}: {FUNC_mean}")
+    # FUNC_list = [data_item[0] for data_item in summary_comparison_data]
+    # FUNC_mean = sum(FUNC_list) / len(FUNC_list)
+    # print(f"Mean {metric}: {FUNC_mean}")
     print()
 
 
@@ -248,8 +247,8 @@ def calculate_F1(metric):
             # mean_sent_score = np.mean(sentence_scores)
 
         # print(f"{np.mean(max_scores)}")
-        mean_max_score = np.mean(max_scores)
-        summary_comparison_data.append([mean_max_score, section_title, ref_summary['source'], unique_sents])
+        # mean_max_score = np.mean(max_scores)
+        # summary_comparison_data.append([mean_max_score, section_title, ref_summary['source'], unique_sents])
         unique_used_books.add(section_title)
         summaries_count += 1
 
@@ -347,7 +346,8 @@ def arg_handler(argv):
     Metric: the metric to use for the f1 calculation
     Outputfile: name of the file to be output
     Split: The input data you want from booksum alignment
-    dataset: fixed or adjusted summary data"""
+    dataset: fixed or adjusted summary data
+    """
     metric = None
     outputfile = None
     split = None

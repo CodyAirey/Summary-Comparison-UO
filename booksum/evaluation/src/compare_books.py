@@ -59,9 +59,6 @@ def preprocessing_summary_setup(split, dataset):
 def result_printout(metric):
     print("Unique Books covered: {}".format(len(unique_books)))
     print("Unique Books used: {}".format(len(unique_used_books)))
-    FUNC_list = [data_item[0] for data_item in summary_comparison_data]
-    FUNC_mean = sum(FUNC_list) / len(FUNC_list)
-    print(f"Mean {metric}: {FUNC_mean}")
     print()
 
 
